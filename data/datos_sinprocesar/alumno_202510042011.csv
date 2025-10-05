@@ -1,0 +1,1001 @@
+"id_alumno","nombre_alumno","matricula_id","sede_id"
+1,Andrés Torres,714,411
+2,Estudiante Test,869,199
+3,Estudiante Test,501,890
+4,Camila Gómez,891,966
+5,Estudiante Test,271,319
+6,Estudiante Test,42,413
+7,Estudiante Test,131,142
+8,Estudiante Test,28,158
+9,Estudiante Test,267,697
+10,Andrés Gómez,609,400
+11,Estudiante Test,156,818
+12,Estudiante Test,498,951
+13,Diego Gómez,106,147
+14,Estudiante Test,258,829
+15,Estudiante Test,452,785
+16,Estudiante Test,819,830
+17,Estudiante Test,915,393
+18,Miguel Torres,914,713
+19,Estudiante Test,512,667
+20,Estudiante Test,804,889
+21,Estudiante Test,331,138
+22,,708,523
+23,Estudiante Test,764,706
+24,Estudiante Test,659,62
+25,Estudiante Test,807,697
+26,Estudiante Test,586,568
+27,Lucía López,957,466
+28,Estudiante Test,261,169
+29,Estudiante Test,799,817
+30,Andrés López,650,322
+31,Estudiante Test,849,337
+32,Estudiante Test,424,121
+33,Estudiante Test,326,947
+34,Estudiante Test,228,561
+35,Estudiante Test,21,19
+36,Estudiante Test,641,454
+37,Estudiante Test,804,585
+38,Estudiante Test,402,594
+39,Miguel López,837,1016
+40,Camila Gómez,751,210
+41,,789,905
+42,Sofía Torres,243,281
+43,,902,415
+44,Lucía López,230,1001
+45,Lucía Torres,857,439
+46,Estudiante Test,743,659
+47,Andrés Gómez,611,862
+48,,705,561
+49,Sofía Gómez,629,834
+50,Estudiante Test,265,709
+51,Estudiante Test,615,252
+52,Camila Pérez,598,52
+53,Estudiante Test,208,662
+54,Estudiante Test,447,57
+55,Estudiante Test,93,936
+56,Estudiante Test,265,766
+57,Estudiante Test,303,552
+58,Andrés López,609,448
+59,Miguel Torres,999,187
+60,Estudiante Test,712,673
+61,Sofía Gómez,474,164
+62,,564,245
+63,Estudiante Test,767,1004
+64,,973,254
+65,Estudiante Test,625,604
+66,Estudiante Test,967,320
+67,Estudiante Test,149,818
+68,Estudiante Test,838,645
+69,Estudiante Test,609,834
+70,Estudiante Test,777,701
+71,,908,223
+72,Estudiante Test,537,113
+73,,560,706
+74,Estudiante Test,372,467
+75,Estudiante Test,766,115
+76,Estudiante Test,784,399
+77,Estudiante Test,231,720
+78,Estudiante Test,100,99
+79,Estudiante Test,329,352
+80,Camila Pérez,266,126
+81,,171,866
+82,Estudiante Test,18,830
+83,Estudiante Test,318,677
+84,Estudiante Test,975,713
+85,Diego Gómez,877,482
+86,Estudiante Test,786,213
+87,Estudiante Test,657,240
+88,Lucía López,196,901
+89,,141,527
+90,Estudiante Test,620,646
+91,Estudiante Test,961,228
+92,Estudiante Test,984,655
+93,Estudiante Test,41,675
+94,Lucía Gómez,414,545
+95,Miguel López,290,870
+96,Estudiante Test,446,188
+97,Sofía Pérez,799,544
+98,Estudiante Test,386,411
+99,Lucía Torres,549,949
+100,Estudiante Test,157,820
+101,Estudiante Test,286,979
+102,Estudiante Test,83,777
+103,Estudiante Test,310,599
+104,Estudiante Test,868,83
+105,Estudiante Test,246,895
+106,,514,587
+107,Estudiante Test,246,535
+108,Estudiante Test,768,445
+109,,678,599
+110,Estudiante Test,39,406
+111,Estudiante Test,190,20
+112,Estudiante Test,439,140
+113,Lucía Pérez,175,707
+114,Estudiante Test,580,19
+115,Estudiante Test,21,791
+116,Estudiante Test,235,370
+117,Estudiante Test,127,1002
+118,,493,738
+119,Estudiante Test,990,572
+120,Estudiante Test,206,506
+121,Miguel Gómez,750,219
+122,Estudiante Test,52,757
+123,Diego Gómez,205,216
+124,Estudiante Test,426,254
+125,Estudiante Test,792,1002
+126,,670,541
+127,Lucía Gómez,736,917
+128,Estudiante Test,673,285
+129,Estudiante Test,226,813
+130,Andrés López,284,223
+131,Estudiante Test,848,18
+132,Estudiante Test,855,754
+133,Estudiante Test,890,595
+134,Estudiante Test,299,820
+135,Camila Pérez,436,439
+136,Estudiante Test,182,723
+137,Miguel Torres,900,691
+138,Estudiante Test,909,976
+139,Sofía Torres,918,792
+140,Diego López,415,75
+141,,603,858
+142,Estudiante Test,736,370
+143,,876,319
+144,Estudiante Test,718,414
+145,Diego López,411,187
+146,Estudiante Test,793,144
+147,Estudiante Test,494,544
+148,Estudiante Test,638,315
+149,Lucía Gómez,321,362
+150,Estudiante Test,226,658
+151,Andrés López,239,785
+152,Estudiante Test,350,846
+153,Diego Pérez,397,404
+154,Estudiante Test,233,96
+155,,884,152
+156,Sofía Torres,88,567
+157,Estudiante Test,760,733
+158,Estudiante Test,240,890
+159,Andrés Torres,910,621
+160,Estudiante Test,63,400
+161,Estudiante Test,123,67
+162,Estudiante Test,44,883
+163,Sofía Gómez,167,878
+164,Andrés López,941,503
+165,Estudiante Test,358,90
+166,,496,247
+167,Estudiante Test,249,339
+168,Estudiante Test,396,165
+169,Estudiante Test,443,784
+170,Estudiante Test,279,343
+171,Lucía Torres,498,343
+172,Estudiante Test,455,779
+173,Estudiante Test,4,863
+174,Estudiante Test,161,740
+175,Estudiante Test,725,820
+176,,111,609
+177,Estudiante Test,942,849
+178,Diego Pérez,552,546
+179,Miguel Pérez,814,343
+180,,867,665
+181,Camila Gómez,572,199
+182,Estudiante Test,570,870
+183,Miguel Torres,827,674
+184,Estudiante Test,13,806
+185,Estudiante Test,166,701
+186,Estudiante Test,133,706
+187,Estudiante Test,147,27
+188,Estudiante Test,315,341
+189,Estudiante Test,493,789
+190,Miguel Torres,150,504
+191,Estudiante Test,77,940
+192,Estudiante Test,869,43
+193,Diego López,620,391
+194,Estudiante Test,838,931
+195,Estudiante Test,453,894
+196,Estudiante Test,387,355
+197,Estudiante Test,507,336
+198,Estudiante Test,342,875
+199,Estudiante Test,14,817
+200,Lucía Pérez,505,480
+201,Estudiante Test,764,791
+202,Estudiante Test,76,411
+203,Diego López,660,976
+204,Camila Torres,651,592
+205,,311,907
+206,,288,382
+207,Estudiante Test,332,559
+208,Sofía López,696,925
+209,Estudiante Test,202,245
+210,Estudiante Test,505,497
+211,Estudiante Test,685,427
+212,Miguel López,866,435
+213,,530,501
+214,Estudiante Test,417,743
+215,Estudiante Test,221,593
+216,Estudiante Test,455,329
+217,,255,902
+218,Diego López,949,496
+219,,529,89
+220,Andrés Gómez,482,847
+221,Camila López,196,563
+222,Estudiante Test,139,436
+223,Estudiante Test,408,613
+224,Estudiante Test,499,604
+225,Miguel Torres,502,580
+226,Estudiante Test,118,524
+227,Estudiante Test,355,290
+228,Estudiante Test,964,360
+229,Estudiante Test,575,98
+230,Lucía Torres,212,556
+231,Camila Torres,352,471
+232,,281,118
+233,Estudiante Test,592,810
+234,Andrés Pérez,659,298
+235,,342,207
+236,Estudiante Test,215,561
+237,Estudiante Test,750,305
+238,Lucía Torres,564,831
+239,Miguel Gómez,576,842
+240,,873,87
+241,Estudiante Test,417,21
+242,,368,382
+243,Estudiante Test,868,520
+244,Estudiante Test,40,484
+245,Estudiante Test,724,682
+246,Estudiante Test,679,363
+247,Sofía López,548,803
+248,Estudiante Test,834,611
+249,Estudiante Test,133,788
+250,Diego López,63,150
+251,Estudiante Test,551,231
+252,Estudiante Test,727,184
+253,Lucía Gómez,563,944
+254,Lucía López,116,1008
+255,Estudiante Test,805,958
+256,Estudiante Test,955,431
+257,Estudiante Test,712,818
+258,Estudiante Test,806,144
+259,Estudiante Test,456,521
+260,Lucía Pérez,895,417
+261,,566,166
+262,Camila Gómez,154,796
+263,Andrés López,603,831
+264,Camila Gómez,330,1016
+265,Estudiante Test,942,230
+266,Estudiante Test,132,181
+267,Estudiante Test,22,132
+268,Estudiante Test,58,821
+269,Estudiante Test,804,844
+270,Diego Pérez,646,886
+271,Estudiante Test,103,325
+272,Estudiante Test,686,564
+273,,83,395
+274,Andrés Gómez,662,496
+275,Estudiante Test,618,934
+276,Estudiante Test,798,384
+277,Estudiante Test,425,516
+278,Estudiante Test,868,517
+279,Lucía Torres,100,275
+280,Camila Torres,349,782
+281,Miguel Gómez,204,335
+282,,232,252
+283,,656,176
+284,Estudiante Test,852,434
+285,Andrés Pérez,261,82
+286,Estudiante Test,576,417
+287,,648,620
+288,Camila Gómez,638,517
+289,Estudiante Test,982,532
+290,Estudiante Test,836,773
+291,Miguel Torres,185,599
+292,Diego López,864,837
+293,Estudiante Test,881,665
+294,Diego Gómez,477,459
+295,Estudiante Test,639,483
+296,Estudiante Test,400,213
+297,,964,550
+298,Estudiante Test,28,537
+299,Diego Pérez,692,756
+300,Sofía Pérez,755,1010
+301,Sofía Gómez,555,346
+302,Estudiante Test,97,739
+303,Estudiante Test,274,134
+304,Estudiante Test,415,621
+305,Estudiante Test,913,41
+306,Estudiante Test,239,571
+307,,422,701
+308,Estudiante Test,384,512
+309,Estudiante Test,929,36
+310,Estudiante Test,470,42
+311,Estudiante Test,12,573
+312,Estudiante Test,938,564
+313,Estudiante Test,791,982
+314,Estudiante Test,145,401
+315,Sofía Torres,950,131
+316,Estudiante Test,133,200
+317,Estudiante Test,698,892
+318,Estudiante Test,529,786
+319,Sofía Torres,688,401
+320,,861,718
+321,Miguel Torres,557,271
+322,,122,681
+323,Estudiante Test,171,475
+324,Estudiante Test,675,290
+325,Estudiante Test,211,541
+326,Diego Gómez,673,840
+327,Miguel López,234,508
+328,Estudiante Test,954,707
+329,Estudiante Test,185,479
+330,Camila López,47,968
+331,Estudiante Test,809,929
+332,Estudiante Test,265,177
+333,Estudiante Test,796,766
+334,Diego López,789,496
+335,Estudiante Test,607,985
+336,Andrés López,268,461
+337,Estudiante Test,622,184
+338,Camila López,408,963
+339,Estudiante Test,257,702
+340,Estudiante Test,142,180
+341,Estudiante Test,711,382
+342,,611,482
+343,Camila Gómez,521,853
+344,Lucía López,361,981
+345,Estudiante Test,861,631
+346,,134,668
+347,Estudiante Test,465,786
+348,Estudiante Test,849,559
+349,Estudiante Test,220,718
+350,Estudiante Test,796,1014
+351,,800,729
+352,Estudiante Test,476,606
+353,Estudiante Test,281,275
+354,Sofía Torres,65,366
+355,Andrés Torres,917,773
+356,Miguel Pérez,54,542
+357,Estudiante Test,214,751
+358,Sofía López,559,768
+359,Estudiante Test,654,82
+360,Miguel Gómez,745,536
+361,,811,747
+362,Sofía Torres,700,384
+363,Estudiante Test,956,74
+364,Estudiante Test,347,742
+365,Estudiante Test,501,505
+366,Estudiante Test,856,749
+367,Estudiante Test,910,920
+368,Estudiante Test,460,240
+369,Estudiante Test,324,982
+370,Camila Torres,754,517
+371,Estudiante Test,839,551
+372,Estudiante Test,351,241
+373,Estudiante Test,613,525
+374,Camila Torres,101,693
+375,Estudiante Test,979,613
+376,Estudiante Test,283,717
+377,Estudiante Test,12,943
+378,Andrés Pérez,330,379
+379,Camila Pérez,983,340
+380,Estudiante Test,539,368
+381,Lucía López,346,842
+382,Estudiante Test,390,800
+383,Estudiante Test,952,759
+384,Estudiante Test,748,1011
+385,Camila Torres,627,93
+386,,112,78
+387,Estudiante Test,710,682
+388,Estudiante Test,645,737
+389,Estudiante Test,782,679
+390,Camila López,706,924
+391,Estudiante Test,60,995
+392,Estudiante Test,702,719
+393,,956,293
+394,Camila Pérez,674,690
+395,Estudiante Test,538,1000
+396,Estudiante Test,693,879
+397,Diego Gómez,21,539
+398,Camila Gómez,515,193
+399,,826,87
+400,,267,747
+401,Estudiante Test,657,866
+402,Estudiante Test,979,854
+403,Estudiante Test,273,843
+404,Estudiante Test,863,138
+405,Sofía López,574,806
+406,Estudiante Test,161,105
+407,Miguel López,534,682
+408,Estudiante Test,275,519
+409,Estudiante Test,711,882
+410,Camila Pérez,113,601
+411,Estudiante Test,843,232
+412,Estudiante Test,806,329
+413,Estudiante Test,913,709
+414,Estudiante Test,422,323
+415,Estudiante Test,993,184
+416,Andrés Pérez,769,535
+417,Estudiante Test,482,61
+418,Lucía Torres,855,248
+419,Estudiante Test,671,100
+420,Camila Gómez,106,588
+421,Estudiante Test,810,315
+422,Miguel López,982,505
+423,Camila López,486,381
+424,Miguel Gómez,26,511
+425,Estudiante Test,546,262
+426,Lucía López,953,714
+427,Estudiante Test,869,535
+428,Estudiante Test,454,270
+429,,605,252
+430,,660,834
+431,Estudiante Test,297,93
+432,Andrés Gómez,897,715
+433,Estudiante Test,24,664
+434,Estudiante Test,756,935
+435,Diego López,365,183
+436,Estudiante Test,349,421
+437,Miguel Torres,896,748
+438,Estudiante Test,161,885
+439,Diego Gómez,764,46
+440,Estudiante Test,99,483
+441,,40,1011
+442,Estudiante Test,857,381
+443,Estudiante Test,748,138
+444,Diego López,894,553
+445,Estudiante Test,391,408
+446,Sofía López,622,696
+447,Sofía López,594,637
+448,Estudiante Test,718,346
+449,Estudiante Test,919,554
+450,,366,352
+451,Estudiante Test,366,350
+452,Estudiante Test,421,31
+453,Estudiante Test,513,636
+454,Estudiante Test,813,953
+455,Estudiante Test,616,67
+456,Estudiante Test,497,587
+457,Estudiante Test,649,877
+458,Estudiante Test,846,277
+459,Estudiante Test,377,283
+460,Estudiante Test,226,370
+461,,599,374
+462,Estudiante Test,862,721
+463,Estudiante Test,661,417
+464,Estudiante Test,342,824
+465,Camila López,289,959
+466,Sofía Gómez,694,653
+467,Estudiante Test,836,325
+468,Estudiante Test,196,432
+469,Miguel Gómez,823,441
+470,Estudiante Test,680,851
+471,Estudiante Test,644,27
+472,Estudiante Test,311,865
+473,Estudiante Test,796,161
+474,Estudiante Test,127,147
+475,Miguel Torres,698,863
+476,Diego Pérez,647,754
+477,Miguel Torres,876,115
+478,Miguel Pérez,605,23
+479,,664,791
+480,Diego López,770,819
+481,Estudiante Test,24,604
+482,Diego López,16,738
+483,Estudiante Test,781,982
+484,,635,317
+485,Estudiante Test,640,922
+486,Estudiante Test,231,480
+487,Estudiante Test,775,955
+488,Diego Pérez,692,929
+489,Diego Torres,710,932
+490,,546,528
+491,Camila Pérez,999,701
+492,,282,663
+493,Estudiante Test,583,983
+494,Camila Torres,529,898
+495,Estudiante Test,510,936
+496,Estudiante Test,852,981
+497,Diego Torres,872,117
+498,,648,830
+499,Miguel Pérez,72,729
+500,Sofía Torres,890,790
+501,Estudiante Test,251,865
+502,,729,50
+503,Estudiante Test,2,941
+504,Estudiante Test,707,928
+505,Estudiante Test,428,672
+506,Estudiante Test,471,46
+507,Estudiante Test,949,20
+508,Camila Torres,449,75
+509,Estudiante Test,589,884
+510,Estudiante Test,945,837
+511,Estudiante Test,762,991
+512,Estudiante Test,741,55
+513,Miguel Pérez,217,144
+514,Estudiante Test,729,103
+515,Estudiante Test,731,487
+516,Estudiante Test,594,182
+517,Estudiante Test,683,367
+518,Estudiante Test,373,221
+519,Estudiante Test,359,294
+520,Estudiante Test,436,322
+521,,93,384
+522,Estudiante Test,53,399
+523,Sofía Torres,273,195
+524,Miguel López,65,483
+525,Estudiante Test,696,402
+526,,574,234
+527,Andrés Torres,917,833
+528,Estudiante Test,855,29
+529,Lucía Gómez,133,516
+530,Estudiante Test,597,122
+531,Estudiante Test,851,991
+532,Estudiante Test,961,410
+533,Estudiante Test,296,55
+534,Diego Torres,78,450
+535,Estudiante Test,397,721
+536,Estudiante Test,195,815
+537,Andrés Torres,668,476
+538,Estudiante Test,650,49
+539,,261,633
+540,Miguel Pérez,644,789
+541,,243,794
+542,Lucía Pérez,931,709
+543,Estudiante Test,370,648
+544,Estudiante Test,708,914
+545,Estudiante Test,197,541
+546,Estudiante Test,707,297
+547,Camila Pérez,470,844
+548,Diego Torres,211,1000
+549,Estudiante Test,784,647
+550,,974,364
+551,Andrés Torres,239,762
+552,Estudiante Test,817,454
+553,Diego López,836,26
+554,Estudiante Test,517,638
+555,Estudiante Test,148,1010
+556,Miguel Gómez,95,374
+557,Estudiante Test,629,32
+558,Estudiante Test,746,116
+559,Estudiante Test,198,695
+560,Estudiante Test,208,857
+561,Estudiante Test,175,493
+562,Estudiante Test,617,246
+563,Diego López,540,621
+564,Estudiante Test,319,200
+565,Estudiante Test,635,532
+566,Sofía Torres,111,573
+567,,269,995
+568,Camila Torres,399,248
+569,Camila Pérez,538,605
+570,Sofía Pérez,198,249
+571,Estudiante Test,175,367
+572,Diego Pérez,290,299
+573,Estudiante Test,599,786
+574,Estudiante Test,496,856
+575,Estudiante Test,3,448
+576,Camila Torres,681,525
+577,Estudiante Test,178,207
+578,Estudiante Test,592,530
+579,Sofía López,105,755
+580,Estudiante Test,545,927
+581,Estudiante Test,3,297
+582,Estudiante Test,883,531
+583,Estudiante Test,795,233
+584,Diego López,20,783
+585,,650,998
+586,Sofía López,186,776
+587,Estudiante Test,76,897
+588,Sofía López,466,128
+589,Diego Torres,477,797
+590,Diego Gómez,309,557
+591,Lucía López,15,336
+592,Estudiante Test,919,655
+593,Estudiante Test,531,123
+594,Estudiante Test,169,710
+595,Sofía Gómez,895,127
+596,Estudiante Test,67,613
+597,,402,216
+598,Diego López,403,642
+599,Estudiante Test,898,480
+600,Estudiante Test,205,257
+601,Lucía Torres,443,493
+602,Estudiante Test,813,927
+603,Diego Pérez,758,623
+604,Estudiante Test,925,131
+605,Estudiante Test,791,805
+606,Estudiante Test,12,1002
+607,Estudiante Test,35,769
+608,Estudiante Test,836,108
+609,Estudiante Test,335,586
+610,Estudiante Test,585,283
+611,Lucía Gómez,116,80
+612,Estudiante Test,804,183
+613,Estudiante Test,148,472
+614,Miguel Pérez,949,328
+615,Estudiante Test,956,705
+616,Estudiante Test,764,626
+617,Estudiante Test,965,126
+618,Estudiante Test,607,653
+619,Estudiante Test,951,75
+620,Estudiante Test,349,605
+621,Camila López,761,128
+622,Estudiante Test,550,358
+623,Estudiante Test,30,312
+624,Estudiante Test,866,478
+625,Lucía López,670,360
+626,Estudiante Test,937,63
+627,Estudiante Test,330,39
+628,Estudiante Test,229,71
+629,Diego Pérez,74,604
+630,Estudiante Test,848,603
+631,Estudiante Test,642,284
+632,Diego Gómez,732,870
+633,Estudiante Test,188,918
+634,,950,677
+635,Estudiante Test,287,335
+636,Lucía López,989,959
+637,Estudiante Test,671,882
+638,Estudiante Test,209,736
+639,Lucía López,993,36
+640,Estudiante Test,288,427
+641,Estudiante Test,782,601
+642,Estudiante Test,926,566
+643,,534,429
+644,Estudiante Test,117,564
+645,Estudiante Test,137,252
+646,Diego Gómez,141,688
+647,,496,258
+648,,576,154
+649,,991,742
+650,,359,956
+651,Miguel López,681,596
+652,Estudiante Test,635,833
+653,Estudiante Test,652,794
+654,Estudiante Test,860,724
+655,Estudiante Test,679,130
+656,Estudiante Test,885,356
+657,Estudiante Test,485,148
+658,Sofía Torres,304,349
+659,Sofía Pérez,649,684
+660,Estudiante Test,277,142
+661,Estudiante Test,387,779
+662,Estudiante Test,211,159
+663,Estudiante Test,661,121
+664,Estudiante Test,225,236
+665,Estudiante Test,323,615
+666,Estudiante Test,230,889
+667,Camila Pérez,410,90
+668,Estudiante Test,994,798
+669,Estudiante Test,139,556
+670,Estudiante Test,784,769
+671,Estudiante Test,415,448
+672,Estudiante Test,361,527
+673,Lucía Pérez,434,612
+674,Estudiante Test,466,973
+675,Estudiante Test,864,719
+676,Andrés López,841,56
+677,Estudiante Test,855,432
+678,Estudiante Test,148,484
+679,Estudiante Test,55,65
+680,Estudiante Test,427,559
+681,Camila Gómez,760,103
+682,Lucía Gómez,754,426
+683,Andrés Torres,106,404
+684,Estudiante Test,542,684
+685,Estudiante Test,527,785
+686,Miguel Torres,430,72
+687,Estudiante Test,758,909
+688,Estudiante Test,13,726
+689,Estudiante Test,906,204
+690,Estudiante Test,132,680
+691,Estudiante Test,199,243
+692,Diego Pérez,907,513
+693,Estudiante Test,331,133
+694,Diego Gómez,524,756
+695,Estudiante Test,964,595
+696,Diego López,833,488
+697,,714,102
+698,Estudiante Test,294,272
+699,Sofía Gómez,208,461
+700,Estudiante Test,82,948
+701,Estudiante Test,274,805
+702,Estudiante Test,772,327
+703,,44,778
+704,Estudiante Test,656,869
+705,Diego López,282,770
+706,Estudiante Test,648,61
+707,Estudiante Test,119,831
+708,Diego López,12,773
+709,Andrés Pérez,53,428
+710,Estudiante Test,633,868
+711,Estudiante Test,915,658
+712,Estudiante Test,554,733
+713,Estudiante Test,580,212
+714,Estudiante Test,490,885
+715,Estudiante Test,949,806
+716,,945,492
+717,Estudiante Test,517,431
+718,Lucía Pérez,528,530
+719,Andrés Torres,135,734
+720,Estudiante Test,109,842
+721,Estudiante Test,927,946
+722,Estudiante Test,136,569
+723,Estudiante Test,457,453
+724,Estudiante Test,838,705
+725,Estudiante Test,6,107
+726,Estudiante Test,715,552
+727,Miguel López,450,544
+728,Miguel Torres,435,896
+729,Estudiante Test,477,915
+730,Estudiante Test,585,842
+731,Estudiante Test,977,653
+732,Estudiante Test,661,76
+733,Estudiante Test,578,940
+734,,716,739
+735,Estudiante Test,987,659
+736,Estudiante Test,331,208
+737,Estudiante Test,68,894
+738,Sofía Torres,657,927
+739,Estudiante Test,78,825
+740,Estudiante Test,222,69
+741,Lucía Torres,296,853
+742,Estudiante Test,858,371
+743,Camila Gómez,985,530
+744,Miguel López,388,739
+745,Estudiante Test,604,608
+746,Sofía Torres,721,337
+747,Estudiante Test,713,375
+748,Lucía López,397,524
+749,Estudiante Test,371,494
+750,Estudiante Test,541,293
+751,Estudiante Test,100,398
+752,Estudiante Test,677,983
+753,Estudiante Test,931,287
+754,,536,761
+755,Camila Gómez,840,515
+756,Estudiante Test,332,591
+757,Estudiante Test,119,417
+758,Diego López,381,962
+759,Sofía Pérez,883,783
+760,Andrés Pérez,877,468
+761,Estudiante Test,364,811
+762,Estudiante Test,544,999
+763,Diego Torres,437,587
+764,Estudiante Test,12,232
+765,Estudiante Test,423,865
+766,,319,65
+767,Estudiante Test,520,606
+768,Sofía Gómez,430,961
+769,Sofía López,210,383
+770,Estudiante Test,24,1008
+771,Sofía López,845,366
+772,Estudiante Test,767,373
+773,Estudiante Test,864,975
+774,Lucía Torres,181,310
+775,Camila López,257,208
+776,Estudiante Test,392,977
+777,Andrés Pérez,114,753
+778,Camila Torres,373,105
+779,Estudiante Test,297,640
+780,Estudiante Test,157,220
+781,Estudiante Test,680,75
+782,Estudiante Test,115,920
+783,Estudiante Test,434,886
+784,Andrés Pérez,417,170
+785,,6,26
+786,Estudiante Test,596,818
+787,Estudiante Test,899,925
+788,Estudiante Test,351,99
+789,Diego Pérez,97,799
+790,Lucía Gómez,885,722
+791,Estudiante Test,822,565
+792,Camila Pérez,376,378
+793,Estudiante Test,920,23
+794,Estudiante Test,242,681
+795,Estudiante Test,45,815
+796,Sofía Torres,383,430
+797,Sofía Pérez,963,93
+798,Estudiante Test,264,465
+799,,666,305
+800,Estudiante Test,135,424
+801,Camila López,972,962
+802,Camila López,411,69
+803,Estudiante Test,991,611
+804,Miguel Pérez,770,545
+805,Estudiante Test,71,532
+806,Estudiante Test,52,56
+807,Diego Gómez,636,552
+808,Estudiante Test,96,489
+809,,444,925
+810,Estudiante Test,980,402
+811,Lucía Pérez,637,355
+812,Estudiante Test,296,441
+813,,693,379
+814,Camila López,426,310
+815,Camila López,545,186
+816,Estudiante Test,420,380
+817,Estudiante Test,454,871
+818,,765,804
+819,Sofía Torres,278,584
+820,Estudiante Test,295,556
+821,Estudiante Test,916,650
+822,Estudiante Test,514,126
+823,Diego Gómez,444,526
+824,Estudiante Test,473,835
+825,,84,376
+826,Estudiante Test,355,402
+827,Estudiante Test,611,455
+828,Estudiante Test,153,281
+829,Camila Gómez,390,409
+830,Estudiante Test,62,535
+831,Estudiante Test,152,976
+832,Estudiante Test,360,336
+833,Estudiante Test,601,457
+834,Lucía Torres,895,590
+835,Estudiante Test,187,291
+836,Camila López,604,85
+837,Diego López,29,925
+838,Estudiante Test,698,298
+839,Estudiante Test,878,159
+840,Estudiante Test,472,153
+841,Estudiante Test,700,254
+842,Estudiante Test,215,936
+843,Estudiante Test,244,458
+844,Estudiante Test,957,395
+845,Estudiante Test,330,57
+846,Estudiante Test,234,463
+847,Estudiante Test,157,999
+848,Camila Pérez,898,687
+849,Estudiante Test,723,503
+850,Camila Torres,367,814
+851,Estudiante Test,631,435
+852,Estudiante Test,844,412
+853,Estudiante Test,933,403
+854,Lucía Torres,603,751
+855,Estudiante Test,375,159
+856,Estudiante Test,732,659
+857,Estudiante Test,964,462
+858,Camila Torres,317,211
+859,Estudiante Test,836,861
+860,Camila Torres,468,831
+861,Lucía Pérez,341,277
+862,Estudiante Test,891,564
+863,Lucía Gómez,482,267
+864,Estudiante Test,323,900
+865,Estudiante Test,607,491
+866,Lucía Gómez,491,398
+867,Lucía Pérez,71,707
+868,Estudiante Test,960,589
+869,Estudiante Test,126,877
+870,,792,53
+871,Estudiante Test,377,723
+872,Estudiante Test,447,681
+873,Estudiante Test,667,648
+874,Estudiante Test,430,577
+875,Estudiante Test,934,754
+876,,757,726
+877,Lucía Torres,141,496
+878,Estudiante Test,723,523
+879,Estudiante Test,367,797
+880,Estudiante Test,672,788
+881,Estudiante Test,918,444
+882,Camila Pérez,61,607
+883,Estudiante Test,645,406
+884,Miguel Pérez,852,913
+885,Estudiante Test,430,832
+886,Estudiante Test,542,933
+887,Estudiante Test,224,320
+888,Miguel Gómez,469,594
+889,Estudiante Test,546,238
+890,Estudiante Test,9,410
+891,Sofía Gómez,643,671
+892,Sofía Pérez,212,695
+893,Estudiante Test,953,71
+894,Estudiante Test,154,661
+895,,818,304
+896,Estudiante Test,103,858
+897,Miguel Gómez,655,874
+898,Estudiante Test,735,312
+899,Estudiante Test,280,759
+900,Camila Torres,441,666
+901,Estudiante Test,986,88
+902,Estudiante Test,10,174
+903,Camila Gómez,398,933
+904,Diego Pérez,423,979
+905,Estudiante Test,3,538
+906,Lucía Gómez,165,998
+907,Estudiante Test,484,439
+908,Estudiante Test,340,260
+909,,692,790
+910,Diego López,78,802
+911,,248,227
+912,Estudiante Test,371,274
+913,,417,449
+914,Sofía López,49,618
+915,Estudiante Test,371,534
+916,Andrés Torres,667,538
+917,,947,19
+918,Estudiante Test,79,999
+919,Estudiante Test,827,351
+920,Estudiante Test,359,621
+921,Estudiante Test,787,380
+922,Estudiante Test,151,195
+923,Estudiante Test,19,800
+924,Estudiante Test,251,223
+925,Estudiante Test,635,24
+926,Estudiante Test,428,300
+927,Andrés Torres,89,318
+928,Estudiante Test,668,46
+929,,100,143
+930,Estudiante Test,875,453
+931,Camila López,546,507
+932,Miguel Torres,412,509
+933,Estudiante Test,764,934
+934,Diego Gómez,661,17
+935,Miguel Torres,522,779
+936,Estudiante Test,411,246
+937,Estudiante Test,837,97
+938,Estudiante Test,833,213
+939,Diego Pérez,186,169
+940,Estudiante Test,621,513
+941,Estudiante Test,868,408
+942,Estudiante Test,826,264
+943,,517,349
+944,Estudiante Test,771,756
+945,Estudiante Test,318,813
+946,Estudiante Test,28,225
+947,Lucía Gómez,58,964
+948,Camila Gómez,106,853
+949,Estudiante Test,16,802
+950,,264,376
+951,Diego López,761,851
+952,Estudiante Test,495,270
+953,,61,387
+954,Estudiante Test,103,767
+955,Estudiante Test,734,324
+956,Diego Pérez,998,28
+957,,568,864
+958,,826,94
+959,Estudiante Test,911,105
+960,Estudiante Test,605,965
+961,Estudiante Test,608,514
+962,Lucía Gómez,354,250
+963,Estudiante Test,993,313
+964,Estudiante Test,72,864
+965,Estudiante Test,340,935
+966,Estudiante Test,66,344
+967,,202,701
+968,Estudiante Test,656,589
+969,Andrés Torres,567,424
+970,Estudiante Test,163,403
+971,Estudiante Test,734,487
+972,Estudiante Test,617,643
+973,Estudiante Test,60,500
+974,Estudiante Test,388,362
+975,Estudiante Test,205,709
+976,Sofía Torres,447,423
+977,Estudiante Test,233,746
+978,Estudiante Test,588,290
+979,,423,831
+980,Estudiante Test,584,790
+981,Estudiante Test,152,655
+982,Estudiante Test,481,19
+983,Estudiante Test,742,205
+984,Andrés Torres,285,355
+985,Miguel Torres,142,500
+986,Estudiante Test,186,625
+987,Sofía Gómez,120,856
+988,Miguel Torres,834,660
+989,Miguel López,921,921
+990,Estudiante Test,940,993
+991,,683,64
+992,,398,652
+993,Estudiante Test,737,332
+994,,614,946
+995,Estudiante Test,829,213
+996,Diego Gómez,823,672
+997,Estudiante Test,47,85
+998,Estudiante Test,473,52
+999,Sofía Pérez,735,134
+1000,Estudiante Test,651,163
