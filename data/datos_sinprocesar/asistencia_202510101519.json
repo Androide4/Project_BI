@@ -1,0 +1,7003 @@
+{
+"asistencia": [
+	{
+		"id_asistencia" : 1,
+		"fecha" : "2025-09-01 23:19:23",
+		"alumno_id" : 560,
+		"clase_id" : 506,
+		"sede_id" : 641
+	},
+	{
+		"id_asistencia" : 2,
+		"fecha" : "2025-09-22 17:45:48",
+		"alumno_id" : 666,
+		"clase_id" : 268,
+		"sede_id" : 478
+	},
+	{
+		"id_asistencia" : 3,
+		"fecha" : "2025-09-25 17:50:42",
+		"alumno_id" : 483,
+		"clase_id" : 927,
+		"sede_id" : 950
+	},
+	{
+		"id_asistencia" : 4,
+		"fecha" : "2025-09-06 02:37:58",
+		"alumno_id" : 802,
+		"clase_id" : 243,
+		"sede_id" : 97
+	},
+	{
+		"id_asistencia" : 5,
+		"fecha" : "2025-08-08 20:50:03",
+		"alumno_id" : 573,
+		"clase_id" : 900,
+		"sede_id" : 552
+	},
+	{
+		"id_asistencia" : 6,
+		"fecha" : "2025-08-08 23:44:30",
+		"alumno_id" : 772,
+		"clase_id" : 587,
+		"sede_id" : 454
+	},
+	{
+		"id_asistencia" : 7,
+		"fecha" : "2025-08-04 21:58:05",
+		"alumno_id" : 337,
+		"clase_id" : 245,
+		"sede_id" : 295
+	},
+	{
+		"id_asistencia" : 8,
+		"fecha" : "2025-08-16 16:15:30",
+		"alumno_id" : 635,
+		"clase_id" : 113,
+		"sede_id" : 505
+	},
+	{
+		"id_asistencia" : 9,
+		"fecha" : "2025-08-19 12:24:18",
+		"alumno_id" : 881,
+		"clase_id" : 354,
+		"sede_id" : 475
+	},
+	{
+		"id_asistencia" : 10,
+		"fecha" : "2025-09-28 13:19:29",
+		"alumno_id" : 323,
+		"clase_id" : 553,
+		"sede_id" : 602
+	},
+	{
+		"id_asistencia" : 11,
+		"fecha" : "2025-07-21 22:05:45",
+		"alumno_id" : 803,
+		"clase_id" : 509,
+		"sede_id" : 258
+	},
+	{
+		"id_asistencia" : 12,
+		"fecha" : "2025-08-12 10:25:26",
+		"alumno_id" : 269,
+		"clase_id" : 744,
+		"sede_id" : 698
+	},
+	{
+		"id_asistencia" : 13,
+		"fecha" : "2025-09-15 19:11:57",
+		"alumno_id" : 920,
+		"clase_id" : 933,
+		"sede_id" : 539
+	},
+	{
+		"id_asistencia" : 14,
+		"fecha" : "2025-09-19 06:38:32",
+		"alumno_id" : 109,
+		"clase_id" : 510,
+		"sede_id" : 522
+	},
+	{
+		"id_asistencia" : 15,
+		"fecha" : "2025-08-24 07:50:32",
+		"alumno_id" : 747,
+		"clase_id" : 343,
+		"sede_id" : 537
+	},
+	{
+		"id_asistencia" : 16,
+		"fecha" : "2025-09-20 15:12:04",
+		"alumno_id" : 279,
+		"clase_id" : 108,
+		"sede_id" : 432
+	},
+	{
+		"id_asistencia" : 17,
+		"fecha" : "2025-08-21 04:05:50",
+		"alumno_id" : 403,
+		"clase_id" : 638,
+		"sede_id" : 340
+	},
+	{
+		"id_asistencia" : 18,
+		"fecha" : "2025-08-20 14:51:24",
+		"alumno_id" : 574,
+		"clase_id" : 606,
+		"sede_id" : 495
+	},
+	{
+		"id_asistencia" : 19,
+		"fecha" : "2025-09-09 15:08:47",
+		"alumno_id" : 110,
+		"clase_id" : 747,
+		"sede_id" : 313
+	},
+	{
+		"id_asistencia" : 20,
+		"fecha" : "2025-10-04 07:59:02",
+		"alumno_id" : 235,
+		"clase_id" : 581,
+		"sede_id" : 669
+	},
+	{
+		"id_asistencia" : 21,
+		"fecha" : "2025-07-21 18:55:50",
+		"alumno_id" : 177,
+		"clase_id" : 242,
+		"sede_id" : 553
+	},
+	{
+		"id_asistencia" : 22,
+		"fecha" : "2025-07-20 04:11:05",
+		"alumno_id" : 298,
+		"clase_id" : 943,
+		"sede_id" : 760
+	},
+	{
+		"id_asistencia" : 23,
+		"fecha" : "2025-07-10 06:16:29",
+		"alumno_id" : 354,
+		"clase_id" : 373,
+		"sede_id" : 41
+	},
+	{
+		"id_asistencia" : 24,
+		"fecha" : "2025-09-30 15:40:27",
+		"alumno_id" : 297,
+		"clase_id" : 299,
+		"sede_id" : 980
+	},
+	{
+		"id_asistencia" : 25,
+		"fecha" : "2025-07-18 20:30:10",
+		"alumno_id" : 426,
+		"clase_id" : 74,
+		"sede_id" : 475
+	},
+	{
+		"id_asistencia" : 26,
+		"fecha" : "2025-09-01 16:38:18",
+		"alumno_id" : 385,
+		"clase_id" : 380,
+		"sede_id" : 765
+	},
+	{
+		"id_asistencia" : 27,
+		"fecha" : "2025-09-16 06:13:15",
+		"alumno_id" : 774,
+		"clase_id" : 232,
+		"sede_id" : 427
+	},
+	{
+		"id_asistencia" : 28,
+		"fecha" : "2025-07-07 10:10:12",
+		"alumno_id" : 169,
+		"clase_id" : 730,
+		"sede_id" : 674
+	},
+	{
+		"id_asistencia" : 29,
+		"fecha" : "2025-09-14 23:39:37",
+		"alumno_id" : 823,
+		"clase_id" : 316,
+		"sede_id" : 771
+	},
+	{
+		"id_asistencia" : 30,
+		"fecha" : "2025-07-19 04:28:42",
+		"alumno_id" : 910,
+		"clase_id" : 511,
+		"sede_id" : 222
+	},
+	{
+		"id_asistencia" : 31,
+		"fecha" : "2025-09-08 00:12:36",
+		"alumno_id" : 402,
+		"clase_id" : 218,
+		"sede_id" : 516
+	},
+	{
+		"id_asistencia" : 32,
+		"fecha" : "2025-07-19 21:03:43",
+		"alumno_id" : 507,
+		"clase_id" : 891,
+		"sede_id" : 591
+	},
+	{
+		"id_asistencia" : 33,
+		"fecha" : "2025-09-08 20:06:16",
+		"alumno_id" : 904,
+		"clase_id" : 628,
+		"sede_id" : 175
+	},
+	{
+		"id_asistencia" : 34,
+		"fecha" : "2025-10-01 20:42:06",
+		"alumno_id" : 600,
+		"clase_id" : 105,
+		"sede_id" : 878
+	},
+	{
+		"id_asistencia" : 35,
+		"fecha" : "2025-09-24 14:20:40",
+		"alumno_id" : 700,
+		"clase_id" : 171,
+		"sede_id" : 523
+	},
+	{
+		"id_asistencia" : 36,
+		"fecha" : "2025-08-29 20:13:57",
+		"alumno_id" : 746,
+		"clase_id" : 599,
+		"sede_id" : 862
+	},
+	{
+		"id_asistencia" : 37,
+		"fecha" : "2025-07-28 18:35:00",
+		"alumno_id" : 897,
+		"clase_id" : 681,
+		"sede_id" : 956
+	},
+	{
+		"id_asistencia" : 38,
+		"fecha" : "2025-08-09 23:02:29",
+		"alumno_id" : 809,
+		"clase_id" : 9,
+		"sede_id" : 720
+	},
+	{
+		"id_asistencia" : 39,
+		"fecha" : "2025-07-25 15:54:34",
+		"alumno_id" : 447,
+		"clase_id" : 692,
+		"sede_id" : 945
+	},
+	{
+		"id_asistencia" : 40,
+		"fecha" : "2025-08-04 17:29:44",
+		"alumno_id" : 65,
+		"clase_id" : 943,
+		"sede_id" : 181
+	},
+	{
+		"id_asistencia" : 41,
+		"fecha" : "2025-08-27 00:42:25",
+		"alumno_id" : 235,
+		"clase_id" : 195,
+		"sede_id" : 117
+	},
+	{
+		"id_asistencia" : 42,
+		"fecha" : "2025-07-30 16:56:30",
+		"alumno_id" : 280,
+		"clase_id" : 250,
+		"sede_id" : 126
+	},
+	{
+		"id_asistencia" : 43,
+		"fecha" : "2025-08-18 21:03:20",
+		"alumno_id" : 595,
+		"clase_id" : 620,
+		"sede_id" : 299
+	},
+	{
+		"id_asistencia" : 44,
+		"fecha" : "2025-08-06 15:20:54",
+		"alumno_id" : 392,
+		"clase_id" : 696,
+		"sede_id" : 123
+	},
+	{
+		"id_asistencia" : 45,
+		"fecha" : "2025-10-03 01:21:14",
+		"alumno_id" : 788,
+		"clase_id" : 231,
+		"sede_id" : 123
+	},
+	{
+		"id_asistencia" : 46,
+		"fecha" : "2025-09-06 20:10:56",
+		"alumno_id" : 455,
+		"clase_id" : 915,
+		"sede_id" : 790
+	},
+	{
+		"id_asistencia" : 47,
+		"fecha" : "2025-09-30 14:43:32",
+		"alumno_id" : 384,
+		"clase_id" : 850,
+		"sede_id" : 119
+	},
+	{
+		"id_asistencia" : 48,
+		"fecha" : "2025-09-30 02:17:33",
+		"alumno_id" : 413,
+		"clase_id" : 215,
+		"sede_id" : 620
+	},
+	{
+		"id_asistencia" : 49,
+		"fecha" : "2025-07-28 05:26:15",
+		"alumno_id" : 73,
+		"clase_id" : 4,
+		"sede_id" : 335
+	},
+	{
+		"id_asistencia" : 50,
+		"fecha" : "2025-07-24 12:13:31",
+		"alumno_id" : 690,
+		"clase_id" : 929,
+		"sede_id" : 840
+	},
+	{
+		"id_asistencia" : 51,
+		"fecha" : "2025-07-23 20:51:01",
+		"alumno_id" : 350,
+		"clase_id" : 648,
+		"sede_id" : 210
+	},
+	{
+		"id_asistencia" : 52,
+		"fecha" : "2025-07-21 08:00:42",
+		"alumno_id" : 130,
+		"clase_id" : 305,
+		"sede_id" : 183
+	},
+	{
+		"id_asistencia" : 53,
+		"fecha" : "2025-08-08 05:51:34",
+		"alumno_id" : 612,
+		"clase_id" : 936,
+		"sede_id" : 793
+	},
+	{
+		"id_asistencia" : 54,
+		"fecha" : "2025-09-28 09:09:30",
+		"alumno_id" : 819,
+		"clase_id" : 565,
+		"sede_id" : 601
+	},
+	{
+		"id_asistencia" : 55,
+		"fecha" : "2025-09-25 10:07:10",
+		"alumno_id" : 913,
+		"clase_id" : 331,
+		"sede_id" : 627
+	},
+	{
+		"id_asistencia" : 56,
+		"fecha" : "2025-07-13 08:17:27",
+		"alumno_id" : 162,
+		"clase_id" : 332,
+		"sede_id" : 278
+	},
+	{
+		"id_asistencia" : 57,
+		"fecha" : "2025-09-11 12:24:35",
+		"alumno_id" : 677,
+		"clase_id" : 219,
+		"sede_id" : 26
+	},
+	{
+		"id_asistencia" : 58,
+		"fecha" : "2025-09-15 05:10:27",
+		"alumno_id" : 323,
+		"clase_id" : 867,
+		"sede_id" : 854
+	},
+	{
+		"id_asistencia" : 59,
+		"fecha" : "2025-07-08 22:05:39",
+		"alumno_id" : 822,
+		"clase_id" : 412,
+		"sede_id" : 453
+	},
+	{
+		"id_asistencia" : 60,
+		"fecha" : "2025-07-11 03:57:06",
+		"alumno_id" : 65,
+		"clase_id" : 876,
+		"sede_id" : 956
+	},
+	{
+		"id_asistencia" : 61,
+		"fecha" : "2025-09-14 03:29:39",
+		"alumno_id" : 433,
+		"clase_id" : 870,
+		"sede_id" : 579
+	},
+	{
+		"id_asistencia" : 62,
+		"fecha" : "2025-08-31 00:41:05",
+		"alumno_id" : 88,
+		"clase_id" : 526,
+		"sede_id" : 772
+	},
+	{
+		"id_asistencia" : 63,
+		"fecha" : "2025-08-24 02:36:24",
+		"alumno_id" : 601,
+		"clase_id" : 11,
+		"sede_id" : 596
+	},
+	{
+		"id_asistencia" : 64,
+		"fecha" : "2025-10-03 12:30:55",
+		"alumno_id" : 950,
+		"clase_id" : 824,
+		"sede_id" : 52
+	},
+	{
+		"id_asistencia" : 65,
+		"fecha" : "2025-09-21 01:25:06",
+		"alumno_id" : 761,
+		"clase_id" : 723,
+		"sede_id" : 54
+	},
+	{
+		"id_asistencia" : 66,
+		"fecha" : "2025-07-15 00:12:39",
+		"alumno_id" : 72,
+		"clase_id" : 460,
+		"sede_id" : 790
+	},
+	{
+		"id_asistencia" : 67,
+		"fecha" : "2025-07-28 22:25:55",
+		"alumno_id" : 878,
+		"clase_id" : 83,
+		"sede_id" : 923
+	},
+	{
+		"id_asistencia" : 68,
+		"fecha" : "2025-08-08 19:59:09",
+		"alumno_id" : 673,
+		"clase_id" : 503,
+		"sede_id" : 113
+	},
+	{
+		"id_asistencia" : 69,
+		"fecha" : "2025-09-27 13:35:35",
+		"alumno_id" : 473,
+		"clase_id" : 308,
+		"sede_id" : 755
+	},
+	{
+		"id_asistencia" : 70,
+		"fecha" : "2025-08-10 08:39:00",
+		"alumno_id" : 989,
+		"clase_id" : 917,
+		"sede_id" : 250
+	},
+	{
+		"id_asistencia" : 71,
+		"fecha" : "2025-08-23 08:00:38",
+		"alumno_id" : 453,
+		"clase_id" : 636,
+		"sede_id" : 203
+	},
+	{
+		"id_asistencia" : 72,
+		"fecha" : "2025-10-01 20:13:11",
+		"alumno_id" : 239,
+		"clase_id" : 186,
+		"sede_id" : 475
+	},
+	{
+		"id_asistencia" : 73,
+		"fecha" : "2025-08-16 16:15:29",
+		"alumno_id" : 824,
+		"clase_id" : 664,
+		"sede_id" : 732
+	},
+	{
+		"id_asistencia" : 74,
+		"fecha" : "2025-10-01 04:35:22",
+		"alumno_id" : 345,
+		"clase_id" : 855,
+		"sede_id" : 564
+	},
+	{
+		"id_asistencia" : 75,
+		"fecha" : "2025-08-01 19:48:03",
+		"alumno_id" : 526,
+		"clase_id" : 977,
+		"sede_id" : 200
+	},
+	{
+		"id_asistencia" : 76,
+		"fecha" : "2025-10-04 19:44:30",
+		"alumno_id" : 578,
+		"clase_id" : 357,
+		"sede_id" : 930
+	},
+	{
+		"id_asistencia" : 77,
+		"fecha" : "2025-08-29 22:31:51",
+		"alumno_id" : 175,
+		"clase_id" : 421,
+		"sede_id" : 669
+	},
+	{
+		"id_asistencia" : 78,
+		"fecha" : "2025-07-08 02:34:34",
+		"alumno_id" : 399,
+		"clase_id" : 595,
+		"sede_id" : 606
+	},
+	{
+		"id_asistencia" : 79,
+		"fecha" : "2025-07-20 07:49:12",
+		"alumno_id" : 261,
+		"clase_id" : 428,
+		"sede_id" : 399
+	},
+	{
+		"id_asistencia" : 80,
+		"fecha" : "2025-08-20 08:33:25",
+		"alumno_id" : 22,
+		"clase_id" : 622,
+		"sede_id" : 656
+	},
+	{
+		"id_asistencia" : 81,
+		"fecha" : "2025-09-29 23:14:50",
+		"alumno_id" : 921,
+		"clase_id" : 833,
+		"sede_id" : 288
+	},
+	{
+		"id_asistencia" : 82,
+		"fecha" : "2025-08-08 02:03:53",
+		"alumno_id" : 480,
+		"clase_id" : 509,
+		"sede_id" : 630
+	},
+	{
+		"id_asistencia" : 83,
+		"fecha" : "2025-09-30 22:22:13",
+		"alumno_id" : 878,
+		"clase_id" : 406,
+		"sede_id" : 903
+	},
+	{
+		"id_asistencia" : 84,
+		"fecha" : "2025-07-14 17:09:15",
+		"alumno_id" : 282,
+		"clase_id" : 450,
+		"sede_id" : 162
+	},
+	{
+		"id_asistencia" : 85,
+		"fecha" : "2025-09-28 12:14:05",
+		"alumno_id" : 233,
+		"clase_id" : 612,
+		"sede_id" : 917
+	},
+	{
+		"id_asistencia" : 86,
+		"fecha" : "2025-09-28 17:38:42",
+		"alumno_id" : 213,
+		"clase_id" : 539,
+		"sede_id" : 154
+	},
+	{
+		"id_asistencia" : 87,
+		"fecha" : "2025-09-25 07:56:28",
+		"alumno_id" : 527,
+		"clase_id" : 490,
+		"sede_id" : 57
+	},
+	{
+		"id_asistencia" : 88,
+		"fecha" : "2025-08-03 07:44:09",
+		"alumno_id" : 16,
+		"clase_id" : 940,
+		"sede_id" : 425
+	},
+	{
+		"id_asistencia" : 89,
+		"fecha" : "2025-08-20 14:56:17",
+		"alumno_id" : 429,
+		"clase_id" : 16,
+		"sede_id" : 763
+	},
+	{
+		"id_asistencia" : 90,
+		"fecha" : "2025-07-15 15:24:37",
+		"alumno_id" : 715,
+		"clase_id" : 699,
+		"sede_id" : 502
+	},
+	{
+		"id_asistencia" : 91,
+		"fecha" : "2025-08-19 21:54:37",
+		"alumno_id" : 242,
+		"clase_id" : 207,
+		"sede_id" : 713
+	},
+	{
+		"id_asistencia" : 92,
+		"fecha" : "2025-08-20 14:08:57",
+		"alumno_id" : 446,
+		"clase_id" : 164,
+		"sede_id" : 136
+	},
+	{
+		"id_asistencia" : 93,
+		"fecha" : "2025-08-14 06:12:02",
+		"alumno_id" : 570,
+		"clase_id" : 798,
+		"sede_id" : 986
+	},
+	{
+		"id_asistencia" : 94,
+		"fecha" : "2025-09-18 06:49:01",
+		"alumno_id" : 708,
+		"clase_id" : 134,
+		"sede_id" : 518
+	},
+	{
+		"id_asistencia" : 95,
+		"fecha" : "2025-09-27 20:43:39",
+		"alumno_id" : 880,
+		"clase_id" : 864,
+		"sede_id" : 695
+	},
+	{
+		"id_asistencia" : 96,
+		"fecha" : "2025-07-17 23:02:54",
+		"alumno_id" : 600,
+		"clase_id" : 4,
+		"sede_id" : 448
+	},
+	{
+		"id_asistencia" : 97,
+		"fecha" : "2025-09-30 08:05:53",
+		"alumno_id" : 992,
+		"clase_id" : 993,
+		"sede_id" : 637
+	},
+	{
+		"id_asistencia" : 98,
+		"fecha" : "2025-09-30 15:45:27",
+		"alumno_id" : 379,
+		"clase_id" : 627,
+		"sede_id" : 46
+	},
+	{
+		"id_asistencia" : 99,
+		"fecha" : "2025-09-17 21:37:43",
+		"alumno_id" : 766,
+		"clase_id" : 366,
+		"sede_id" : 397
+	},
+	{
+		"id_asistencia" : 100,
+		"fecha" : "2025-09-18 18:47:42",
+		"alumno_id" : 843,
+		"clase_id" : 280,
+		"sede_id" : 950
+	},
+	{
+		"id_asistencia" : 101,
+		"fecha" : "2025-07-15 14:01:40",
+		"alumno_id" : 265,
+		"clase_id" : 618,
+		"sede_id" : 944
+	},
+	{
+		"id_asistencia" : 102,
+		"fecha" : "2025-08-09 14:20:26",
+		"alumno_id" : 356,
+		"clase_id" : 347,
+		"sede_id" : 449
+	},
+	{
+		"id_asistencia" : 103,
+		"fecha" : "2025-09-27 20:59:06",
+		"alumno_id" : 698,
+		"clase_id" : 40,
+		"sede_id" : 73
+	},
+	{
+		"id_asistencia" : 104,
+		"fecha" : "2025-07-16 20:33:42",
+		"alumno_id" : 79,
+		"clase_id" : 655,
+		"sede_id" : 791
+	},
+	{
+		"id_asistencia" : 105,
+		"fecha" : "2025-09-06 08:32:06",
+		"alumno_id" : 383,
+		"clase_id" : 239,
+		"sede_id" : 256
+	},
+	{
+		"id_asistencia" : 106,
+		"fecha" : "2025-07-30 17:32:21",
+		"alumno_id" : 187,
+		"clase_id" : 211,
+		"sede_id" : 860
+	},
+	{
+		"id_asistencia" : 107,
+		"fecha" : "2025-09-10 22:23:10",
+		"alumno_id" : 748,
+		"clase_id" : 147,
+		"sede_id" : 248
+	},
+	{
+		"id_asistencia" : 108,
+		"fecha" : "2025-09-25 18:27:02",
+		"alumno_id" : 66,
+		"clase_id" : 336,
+		"sede_id" : 211
+	},
+	{
+		"id_asistencia" : 109,
+		"fecha" : "2025-09-18 07:15:52",
+		"alumno_id" : 24,
+		"clase_id" : 804,
+		"sede_id" : 99
+	},
+	{
+		"id_asistencia" : 110,
+		"fecha" : "2025-07-31 02:46:29",
+		"alumno_id" : 912,
+		"clase_id" : 7,
+		"sede_id" : 302
+	},
+	{
+		"id_asistencia" : 111,
+		"fecha" : "2025-07-30 09:56:26",
+		"alumno_id" : 413,
+		"clase_id" : 108,
+		"sede_id" : 603
+	},
+	{
+		"id_asistencia" : 112,
+		"fecha" : "2025-08-27 17:33:38",
+		"alumno_id" : 444,
+		"clase_id" : 553,
+		"sede_id" : 646
+	},
+	{
+		"id_asistencia" : 113,
+		"fecha" : "2025-09-21 11:52:22",
+		"alumno_id" : 185,
+		"clase_id" : 120,
+		"sede_id" : 855
+	},
+	{
+		"id_asistencia" : 114,
+		"fecha" : "2025-09-10 16:15:13",
+		"alumno_id" : 179,
+		"clase_id" : 392,
+		"sede_id" : 800
+	},
+	{
+		"id_asistencia" : 115,
+		"fecha" : "2025-09-06 07:16:42",
+		"alumno_id" : 604,
+		"clase_id" : 200,
+		"sede_id" : 361
+	},
+	{
+		"id_asistencia" : 116,
+		"fecha" : "2025-09-24 07:23:23",
+		"alumno_id" : 659,
+		"clase_id" : 996,
+		"sede_id" : 291
+	},
+	{
+		"id_asistencia" : 117,
+		"fecha" : "2025-07-21 11:46:30",
+		"alumno_id" : 518,
+		"clase_id" : 193,
+		"sede_id" : 828
+	},
+	{
+		"id_asistencia" : 118,
+		"fecha" : "2025-09-08 03:33:17",
+		"alumno_id" : 926,
+		"clase_id" : 954,
+		"sede_id" : 487
+	},
+	{
+		"id_asistencia" : 119,
+		"fecha" : "2025-09-05 06:57:36",
+		"alumno_id" : 728,
+		"clase_id" : 316,
+		"sede_id" : 878
+	},
+	{
+		"id_asistencia" : 120,
+		"fecha" : "2025-07-30 14:49:44",
+		"alumno_id" : 287,
+		"clase_id" : 617,
+		"sede_id" : 856
+	},
+	{
+		"id_asistencia" : 121,
+		"fecha" : "2025-08-20 13:25:32",
+		"alumno_id" : 1,
+		"clase_id" : 226,
+		"sede_id" : 743
+	},
+	{
+		"id_asistencia" : 122,
+		"fecha" : "2025-08-19 18:19:50",
+		"alumno_id" : 786,
+		"clase_id" : 157,
+		"sede_id" : 924
+	},
+	{
+		"id_asistencia" : 123,
+		"fecha" : "2025-08-24 09:52:02",
+		"alumno_id" : 181,
+		"clase_id" : 541,
+		"sede_id" : 762
+	},
+	{
+		"id_asistencia" : 124,
+		"fecha" : "2025-07-23 03:03:02",
+		"alumno_id" : 25,
+		"clase_id" : 759,
+		"sede_id" : 775
+	},
+	{
+		"id_asistencia" : 125,
+		"fecha" : "2025-07-20 00:06:25",
+		"alumno_id" : 500,
+		"clase_id" : 309,
+		"sede_id" : 497
+	},
+	{
+		"id_asistencia" : 126,
+		"fecha" : "2025-08-28 06:27:53",
+		"alumno_id" : 904,
+		"clase_id" : 123,
+		"sede_id" : 961
+	},
+	{
+		"id_asistencia" : 127,
+		"fecha" : "2025-08-30 23:56:51",
+		"alumno_id" : 433,
+		"clase_id" : 145,
+		"sede_id" : 585
+	},
+	{
+		"id_asistencia" : 128,
+		"fecha" : "2025-07-15 23:22:13",
+		"alumno_id" : 854,
+		"clase_id" : 538,
+		"sede_id" : 912
+	},
+	{
+		"id_asistencia" : 129,
+		"fecha" : "2025-09-29 02:14:11",
+		"alumno_id" : 134,
+		"clase_id" : 999,
+		"sede_id" : 887
+	},
+	{
+		"id_asistencia" : 130,
+		"fecha" : "2025-07-20 04:06:20",
+		"alumno_id" : 814,
+		"clase_id" : 443,
+		"sede_id" : 70
+	},
+	{
+		"id_asistencia" : 131,
+		"fecha" : "2025-07-14 19:41:09",
+		"alumno_id" : 612,
+		"clase_id" : 868,
+		"sede_id" : 902
+	},
+	{
+		"id_asistencia" : 132,
+		"fecha" : "2025-08-14 08:00:27",
+		"alumno_id" : 314,
+		"clase_id" : 139,
+		"sede_id" : 896
+	},
+	{
+		"id_asistencia" : 133,
+		"fecha" : "2025-08-23 17:23:04",
+		"alumno_id" : 66,
+		"clase_id" : 90,
+		"sede_id" : 32
+	},
+	{
+		"id_asistencia" : 134,
+		"fecha" : "2025-07-31 11:57:01",
+		"alumno_id" : 748,
+		"clase_id" : 510,
+		"sede_id" : 250
+	},
+	{
+		"id_asistencia" : 135,
+		"fecha" : "2025-09-14 08:11:08",
+		"alumno_id" : 595,
+		"clase_id" : 93,
+		"sede_id" : 877
+	},
+	{
+		"id_asistencia" : 136,
+		"fecha" : "2025-09-14 02:04:17",
+		"alumno_id" : 345,
+		"clase_id" : 442,
+		"sede_id" : 498
+	},
+	{
+		"id_asistencia" : 137,
+		"fecha" : "2025-10-02 22:32:15",
+		"alumno_id" : 749,
+		"clase_id" : 753,
+		"sede_id" : 89
+	},
+	{
+		"id_asistencia" : 138,
+		"fecha" : "2025-07-29 09:14:27",
+		"alumno_id" : 186,
+		"clase_id" : 769,
+		"sede_id" : 972
+	},
+	{
+		"id_asistencia" : 139,
+		"fecha" : "2025-09-19 14:00:08",
+		"alumno_id" : 13,
+		"clase_id" : 290,
+		"sede_id" : 566
+	},
+	{
+		"id_asistencia" : 140,
+		"fecha" : "2025-09-22 03:53:40",
+		"alumno_id" : 876,
+		"clase_id" : 869,
+		"sede_id" : 528
+	},
+	{
+		"id_asistencia" : 141,
+		"fecha" : "2025-10-02 12:32:01",
+		"alumno_id" : 421,
+		"clase_id" : 669,
+		"sede_id" : 760
+	},
+	{
+		"id_asistencia" : 142,
+		"fecha" : "2025-07-16 07:19:23",
+		"alumno_id" : 681,
+		"clase_id" : 73,
+		"sede_id" : 877
+	},
+	{
+		"id_asistencia" : 143,
+		"fecha" : "2025-09-25 09:32:22",
+		"alumno_id" : 701,
+		"clase_id" : 788,
+		"sede_id" : 526
+	},
+	{
+		"id_asistencia" : 144,
+		"fecha" : "2025-07-17 23:50:55",
+		"alumno_id" : 321,
+		"clase_id" : 106,
+		"sede_id" : 150
+	},
+	{
+		"id_asistencia" : 145,
+		"fecha" : "2025-08-06 14:49:15",
+		"alumno_id" : 856,
+		"clase_id" : 393,
+		"sede_id" : 281
+	},
+	{
+		"id_asistencia" : 146,
+		"fecha" : "2025-08-29 21:22:50",
+		"alumno_id" : 521,
+		"clase_id" : 477,
+		"sede_id" : 795
+	},
+	{
+		"id_asistencia" : 147,
+		"fecha" : "2025-08-03 23:55:27",
+		"alumno_id" : 9,
+		"clase_id" : 456,
+		"sede_id" : 554
+	},
+	{
+		"id_asistencia" : 148,
+		"fecha" : "2025-09-04 01:30:40",
+		"alumno_id" : 897,
+		"clase_id" : 69,
+		"sede_id" : 463
+	},
+	{
+		"id_asistencia" : 149,
+		"fecha" : "2025-09-27 16:43:44",
+		"alumno_id" : 514,
+		"clase_id" : 24,
+		"sede_id" : 913
+	},
+	{
+		"id_asistencia" : 150,
+		"fecha" : "2025-08-08 04:13:09",
+		"alumno_id" : 67,
+		"clase_id" : 442,
+		"sede_id" : 635
+	},
+	{
+		"id_asistencia" : 151,
+		"fecha" : "2025-08-22 04:43:03",
+		"alumno_id" : 283,
+		"clase_id" : 578,
+		"sede_id" : 34
+	},
+	{
+		"id_asistencia" : 152,
+		"fecha" : "2025-07-12 09:42:10",
+		"alumno_id" : 932,
+		"clase_id" : 136,
+		"sede_id" : 194
+	},
+	{
+		"id_asistencia" : 153,
+		"fecha" : "2025-09-12 16:46:47",
+		"alumno_id" : 827,
+		"clase_id" : 30,
+		"sede_id" : 458
+	},
+	{
+		"id_asistencia" : 154,
+		"fecha" : "2025-08-03 09:50:40",
+		"alumno_id" : 298,
+		"clase_id" : 323,
+		"sede_id" : 172
+	},
+	{
+		"id_asistencia" : 155,
+		"fecha" : "2025-07-29 08:30:50",
+		"alumno_id" : 322,
+		"clase_id" : 809,
+		"sede_id" : 630
+	},
+	{
+		"id_asistencia" : 156,
+		"fecha" : "2025-09-12 03:04:47",
+		"alumno_id" : 766,
+		"clase_id" : 933,
+		"sede_id" : 545
+	},
+	{
+		"id_asistencia" : 157,
+		"fecha" : "2025-08-19 06:33:35",
+		"alumno_id" : 122,
+		"clase_id" : 492,
+		"sede_id" : 439
+	},
+	{
+		"id_asistencia" : 158,
+		"fecha" : "2025-08-24 03:52:38",
+		"alumno_id" : 219,
+		"clase_id" : 813,
+		"sede_id" : 800
+	},
+	{
+		"id_asistencia" : 159,
+		"fecha" : "2025-07-31 22:23:25",
+		"alumno_id" : 483,
+		"clase_id" : 212,
+		"sede_id" : 269
+	},
+	{
+		"id_asistencia" : 160,
+		"fecha" : "2025-08-22 18:02:55",
+		"alumno_id" : 428,
+		"clase_id" : 95,
+		"sede_id" : 39
+	},
+	{
+		"id_asistencia" : 161,
+		"fecha" : "2025-08-31 18:57:30",
+		"alumno_id" : 68,
+		"clase_id" : 316,
+		"sede_id" : 334
+	},
+	{
+		"id_asistencia" : 162,
+		"fecha" : "2025-07-29 04:29:15",
+		"alumno_id" : 189,
+		"clase_id" : 258,
+		"sede_id" : 332
+	},
+	{
+		"id_asistencia" : 163,
+		"fecha" : "2025-09-07 18:09:27",
+		"alumno_id" : 519,
+		"clase_id" : 439,
+		"sede_id" : 880
+	},
+	{
+		"id_asistencia" : 164,
+		"fecha" : "2025-07-07 23:18:32",
+		"alumno_id" : 190,
+		"clase_id" : 369,
+		"sede_id" : 403
+	},
+	{
+		"id_asistencia" : 165,
+		"fecha" : "2025-07-11 06:52:53",
+		"alumno_id" : 632,
+		"clase_id" : 160,
+		"sede_id" : 562
+	},
+	{
+		"id_asistencia" : 166,
+		"fecha" : "2025-09-12 00:43:30",
+		"alumno_id" : 441,
+		"clase_id" : 426,
+		"sede_id" : 582
+	},
+	{
+		"id_asistencia" : 167,
+		"fecha" : "2025-09-15 19:27:23",
+		"alumno_id" : 22,
+		"clase_id" : 591,
+		"sede_id" : 652
+	},
+	{
+		"id_asistencia" : 168,
+		"fecha" : "2025-07-15 08:22:06",
+		"alumno_id" : 973,
+		"clase_id" : 99,
+		"sede_id" : 823
+	},
+	{
+		"id_asistencia" : 169,
+		"fecha" : "2025-07-20 06:57:49",
+		"alumno_id" : 520,
+		"clase_id" : 218,
+		"sede_id" : 168
+	},
+	{
+		"id_asistencia" : 170,
+		"fecha" : "2025-08-25 19:58:58",
+		"alumno_id" : 831,
+		"clase_id" : 525,
+		"sede_id" : 122
+	},
+	{
+		"id_asistencia" : 171,
+		"fecha" : "2025-07-10 10:07:49",
+		"alumno_id" : 669,
+		"clase_id" : 47,
+		"sede_id" : 128
+	},
+	{
+		"id_asistencia" : 172,
+		"fecha" : "2025-07-17 18:10:25",
+		"alumno_id" : 196,
+		"clase_id" : 76,
+		"sede_id" : 524
+	},
+	{
+		"id_asistencia" : 173,
+		"fecha" : "2025-09-18 23:44:39",
+		"alumno_id" : 426,
+		"clase_id" : 418,
+		"sede_id" : 753
+	},
+	{
+		"id_asistencia" : 174,
+		"fecha" : "2025-07-09 19:58:03",
+		"alumno_id" : 755,
+		"clase_id" : 451,
+		"sede_id" : 274
+	},
+	{
+		"id_asistencia" : 175,
+		"fecha" : "2025-08-13 11:21:17",
+		"alumno_id" : 181,
+		"clase_id" : 538,
+		"sede_id" : 522
+	},
+	{
+		"id_asistencia" : 176,
+		"fecha" : "2025-10-02 20:21:10",
+		"alumno_id" : 148,
+		"clase_id" : 82,
+		"sede_id" : 939
+	},
+	{
+		"id_asistencia" : 177,
+		"fecha" : "2025-09-23 13:10:46",
+		"alumno_id" : 84,
+		"clase_id" : 70,
+		"sede_id" : 79
+	},
+	{
+		"id_asistencia" : 178,
+		"fecha" : "2025-07-29 19:27:43",
+		"alumno_id" : 279,
+		"clase_id" : 929,
+		"sede_id" : 226
+	},
+	{
+		"id_asistencia" : 179,
+		"fecha" : "2025-07-14 10:32:41",
+		"alumno_id" : 583,
+		"clase_id" : 362,
+		"sede_id" : 951
+	},
+	{
+		"id_asistencia" : 180,
+		"fecha" : "2025-10-02 15:46:07",
+		"alumno_id" : 571,
+		"clase_id" : 15,
+		"sede_id" : 34
+	},
+	{
+		"id_asistencia" : 181,
+		"fecha" : "2025-07-23 18:58:06",
+		"alumno_id" : 580,
+		"clase_id" : 391,
+		"sede_id" : 103
+	},
+	{
+		"id_asistencia" : 182,
+		"fecha" : "2025-09-09 08:04:28",
+		"alumno_id" : 14,
+		"clase_id" : 982,
+		"sede_id" : 800
+	},
+	{
+		"id_asistencia" : 183,
+		"fecha" : "2025-07-30 16:58:13",
+		"alumno_id" : 199,
+		"clase_id" : 27,
+		"sede_id" : 248
+	},
+	{
+		"id_asistencia" : 184,
+		"fecha" : "2025-09-06 04:19:17",
+		"alumno_id" : 440,
+		"clase_id" : 103,
+		"sede_id" : 796
+	},
+	{
+		"id_asistencia" : 185,
+		"fecha" : "2025-07-20 16:59:11",
+		"alumno_id" : 342,
+		"clase_id" : 406,
+		"sede_id" : 700
+	},
+	{
+		"id_asistencia" : 186,
+		"fecha" : "2025-08-21 02:03:38",
+		"alumno_id" : 565,
+		"clase_id" : 546,
+		"sede_id" : 881
+	},
+	{
+		"id_asistencia" : 187,
+		"fecha" : "2025-07-27 23:48:15",
+		"alumno_id" : 511,
+		"clase_id" : 716,
+		"sede_id" : 638
+	},
+	{
+		"id_asistencia" : 188,
+		"fecha" : "2025-08-23 14:08:13",
+		"alumno_id" : 356,
+		"clase_id" : 838,
+		"sede_id" : 852
+	},
+	{
+		"id_asistencia" : 189,
+		"fecha" : "2025-09-22 19:00:52",
+		"alumno_id" : 980,
+		"clase_id" : 96,
+		"sede_id" : 264
+	},
+	{
+		"id_asistencia" : 190,
+		"fecha" : "2025-09-23 11:06:39",
+		"alumno_id" : 668,
+		"clase_id" : 442,
+		"sede_id" : 498
+	},
+	{
+		"id_asistencia" : 191,
+		"fecha" : "2025-07-26 09:53:17",
+		"alumno_id" : 521,
+		"clase_id" : 920,
+		"sede_id" : 867
+	},
+	{
+		"id_asistencia" : 192,
+		"fecha" : "2025-07-14 03:00:52",
+		"alumno_id" : 473,
+		"clase_id" : 400,
+		"sede_id" : 477
+	},
+	{
+		"id_asistencia" : 193,
+		"fecha" : "2025-07-19 19:05:16",
+		"alumno_id" : 556,
+		"clase_id" : 539,
+		"sede_id" : 130
+	},
+	{
+		"id_asistencia" : 194,
+		"fecha" : "2025-07-21 14:09:48",
+		"alumno_id" : 444,
+		"clase_id" : 894,
+		"sede_id" : 981
+	},
+	{
+		"id_asistencia" : 195,
+		"fecha" : "2025-07-21 01:45:29",
+		"alumno_id" : 170,
+		"clase_id" : 943,
+		"sede_id" : 374
+	},
+	{
+		"id_asistencia" : 196,
+		"fecha" : "2025-09-13 03:06:38",
+		"alumno_id" : 713,
+		"clase_id" : 828,
+		"sede_id" : 653
+	},
+	{
+		"id_asistencia" : 197,
+		"fecha" : "2025-10-01 07:15:53",
+		"alumno_id" : 562,
+		"clase_id" : 14,
+		"sede_id" : 530
+	},
+	{
+		"id_asistencia" : 198,
+		"fecha" : "2025-08-23 05:28:07",
+		"alumno_id" : 780,
+		"clase_id" : 741,
+		"sede_id" : 768
+	},
+	{
+		"id_asistencia" : 199,
+		"fecha" : "2025-08-26 17:23:20",
+		"alumno_id" : 832,
+		"clase_id" : 709,
+		"sede_id" : 866
+	},
+	{
+		"id_asistencia" : 200,
+		"fecha" : "2025-08-18 04:08:04",
+		"alumno_id" : 528,
+		"clase_id" : 509,
+		"sede_id" : 139
+	},
+	{
+		"id_asistencia" : 201,
+		"fecha" : "2025-10-01 04:50:22",
+		"alumno_id" : 872,
+		"clase_id" : 25,
+		"sede_id" : 259
+	},
+	{
+		"id_asistencia" : 202,
+		"fecha" : "2025-07-25 10:51:50",
+		"alumno_id" : 934,
+		"clase_id" : 742,
+		"sede_id" : 509
+	},
+	{
+		"id_asistencia" : 203,
+		"fecha" : "2025-09-13 03:57:56",
+		"alumno_id" : 719,
+		"clase_id" : 953,
+		"sede_id" : 323
+	},
+	{
+		"id_asistencia" : 204,
+		"fecha" : "2025-07-08 17:26:44",
+		"alumno_id" : 32,
+		"clase_id" : 220,
+		"sede_id" : 354
+	},
+	{
+		"id_asistencia" : 205,
+		"fecha" : "2025-08-03 19:49:30",
+		"alumno_id" : 442,
+		"clase_id" : 560,
+		"sede_id" : 233
+	},
+	{
+		"id_asistencia" : 206,
+		"fecha" : "2025-09-30 15:01:08",
+		"alumno_id" : 39,
+		"clase_id" : 622,
+		"sede_id" : 240
+	},
+	{
+		"id_asistencia" : 207,
+		"fecha" : "2025-09-14 09:57:27",
+		"alumno_id" : 864,
+		"clase_id" : 846,
+		"sede_id" : 176
+	},
+	{
+		"id_asistencia" : 208,
+		"fecha" : "2025-08-23 09:14:39",
+		"alumno_id" : 277,
+		"clase_id" : 161,
+		"sede_id" : 392
+	},
+	{
+		"id_asistencia" : 209,
+		"fecha" : "2025-08-08 18:01:06",
+		"alumno_id" : 592,
+		"clase_id" : 103,
+		"sede_id" : 578
+	},
+	{
+		"id_asistencia" : 210,
+		"fecha" : "2025-08-04 01:38:26",
+		"alumno_id" : 952,
+		"clase_id" : 812,
+		"sede_id" : 66
+	},
+	{
+		"id_asistencia" : 211,
+		"fecha" : "2025-07-23 03:35:50",
+		"alumno_id" : 724,
+		"clase_id" : 631,
+		"sede_id" : 216
+	},
+	{
+		"id_asistencia" : 212,
+		"fecha" : "2025-07-19 12:04:05",
+		"alumno_id" : 924,
+		"clase_id" : 403,
+		"sede_id" : 934
+	},
+	{
+		"id_asistencia" : 213,
+		"fecha" : "2025-10-04 04:39:35",
+		"alumno_id" : 828,
+		"clase_id" : 19,
+		"sede_id" : 940
+	},
+	{
+		"id_asistencia" : 214,
+		"fecha" : "2025-08-06 08:34:26",
+		"alumno_id" : 762,
+		"clase_id" : 501,
+		"sede_id" : 678
+	},
+	{
+		"id_asistencia" : 215,
+		"fecha" : "2025-09-11 03:49:57",
+		"alumno_id" : 117,
+		"clase_id" : 736,
+		"sede_id" : 138
+	},
+	{
+		"id_asistencia" : 216,
+		"fecha" : "2025-09-03 09:13:42",
+		"alumno_id" : 966,
+		"clase_id" : 791,
+		"sede_id" : 307
+	},
+	{
+		"id_asistencia" : 217,
+		"fecha" : "2025-08-07 16:27:38",
+		"alumno_id" : 718,
+		"clase_id" : 959,
+		"sede_id" : 669
+	},
+	{
+		"id_asistencia" : 218,
+		"fecha" : "2025-10-03 17:36:05",
+		"alumno_id" : 854,
+		"clase_id" : 402,
+		"sede_id" : 380
+	},
+	{
+		"id_asistencia" : 219,
+		"fecha" : "2025-08-20 02:19:12",
+		"alumno_id" : 816,
+		"clase_id" : 685,
+		"sede_id" : 639
+	},
+	{
+		"id_asistencia" : 220,
+		"fecha" : "2025-07-22 14:10:03",
+		"alumno_id" : 331,
+		"clase_id" : 795,
+		"sede_id" : 467
+	},
+	{
+		"id_asistencia" : 221,
+		"fecha" : "2025-10-01 21:21:48",
+		"alumno_id" : 220,
+		"clase_id" : 295,
+		"sede_id" : 1005
+	},
+	{
+		"id_asistencia" : 222,
+		"fecha" : "2025-09-12 21:40:02",
+		"alumno_id" : 121,
+		"clase_id" : 992,
+		"sede_id" : 390
+	},
+	{
+		"id_asistencia" : 223,
+		"fecha" : "2025-09-27 22:40:02",
+		"alumno_id" : 706,
+		"clase_id" : 151,
+		"sede_id" : 91
+	},
+	{
+		"id_asistencia" : 224,
+		"fecha" : "2025-08-03 23:27:34",
+		"alumno_id" : 601,
+		"clase_id" : 853,
+		"sede_id" : 545
+	},
+	{
+		"id_asistencia" : 225,
+		"fecha" : "2025-07-15 03:04:28",
+		"alumno_id" : 445,
+		"clase_id" : 764,
+		"sede_id" : 600
+	},
+	{
+		"id_asistencia" : 226,
+		"fecha" : "2025-09-25 06:53:03",
+		"alumno_id" : 66,
+		"clase_id" : 551,
+		"sede_id" : 192
+	},
+	{
+		"id_asistencia" : 227,
+		"fecha" : "2025-09-19 21:36:08",
+		"alumno_id" : 499,
+		"clase_id" : 456,
+		"sede_id" : 313
+	},
+	{
+		"id_asistencia" : 228,
+		"fecha" : "2025-08-26 19:52:11",
+		"alumno_id" : 939,
+		"clase_id" : 981,
+		"sede_id" : 227
+	},
+	{
+		"id_asistencia" : 229,
+		"fecha" : "2025-08-26 05:15:56",
+		"alumno_id" : 506,
+		"clase_id" : 5,
+		"sede_id" : 211
+	},
+	{
+		"id_asistencia" : 230,
+		"fecha" : "2025-07-30 00:57:37",
+		"alumno_id" : 126,
+		"clase_id" : 240,
+		"sede_id" : 583
+	},
+	{
+		"id_asistencia" : 231,
+		"fecha" : "2025-08-25 01:39:46",
+		"alumno_id" : 857,
+		"clase_id" : 595,
+		"sede_id" : 481
+	},
+	{
+		"id_asistencia" : 232,
+		"fecha" : "2025-07-30 20:04:03",
+		"alumno_id" : 310,
+		"clase_id" : 74,
+		"sede_id" : 328
+	},
+	{
+		"id_asistencia" : 233,
+		"fecha" : "2025-09-24 03:20:06",
+		"alumno_id" : 169,
+		"clase_id" : 163,
+		"sede_id" : 130
+	},
+	{
+		"id_asistencia" : 234,
+		"fecha" : "2025-10-01 09:01:05",
+		"alumno_id" : 898,
+		"clase_id" : 35,
+		"sede_id" : 946
+	},
+	{
+		"id_asistencia" : 235,
+		"fecha" : "2025-09-13 00:31:56",
+		"alumno_id" : 350,
+		"clase_id" : 681,
+		"sede_id" : 577
+	},
+	{
+		"id_asistencia" : 236,
+		"fecha" : "2025-09-08 09:40:35",
+		"alumno_id" : 528,
+		"clase_id" : 99,
+		"sede_id" : 799
+	},
+	{
+		"id_asistencia" : 237,
+		"fecha" : "2025-08-09 11:13:07",
+		"alumno_id" : 92,
+		"clase_id" : 154,
+		"sede_id" : 141
+	},
+	{
+		"id_asistencia" : 238,
+		"fecha" : "2025-08-18 11:19:17",
+		"alumno_id" : 67,
+		"clase_id" : 581,
+		"sede_id" : 509
+	},
+	{
+		"id_asistencia" : 239,
+		"fecha" : "2025-09-21 17:55:15",
+		"alumno_id" : 196,
+		"clase_id" : 269,
+		"sede_id" : 606
+	},
+	{
+		"id_asistencia" : 240,
+		"fecha" : "2025-09-08 17:07:42",
+		"alumno_id" : 985,
+		"clase_id" : 460,
+		"sede_id" : 718
+	},
+	{
+		"id_asistencia" : 241,
+		"fecha" : "2025-09-22 11:12:57",
+		"alumno_id" : 18,
+		"clase_id" : 748,
+		"sede_id" : 904
+	},
+	{
+		"id_asistencia" : 242,
+		"fecha" : "2025-10-04 07:29:23",
+		"alumno_id" : 169,
+		"clase_id" : 544,
+		"sede_id" : 592
+	},
+	{
+		"id_asistencia" : 243,
+		"fecha" : "2025-08-25 03:40:11",
+		"alumno_id" : 475,
+		"clase_id" : 715,
+		"sede_id" : 447
+	},
+	{
+		"id_asistencia" : 244,
+		"fecha" : "2025-09-25 13:26:15",
+		"alumno_id" : 865,
+		"clase_id" : 851,
+		"sede_id" : 129
+	},
+	{
+		"id_asistencia" : 245,
+		"fecha" : "2025-07-09 01:48:10",
+		"alumno_id" : 392,
+		"clase_id" : 5,
+		"sede_id" : 343
+	},
+	{
+		"id_asistencia" : 246,
+		"fecha" : "2025-07-23 17:51:55",
+		"alumno_id" : 471,
+		"clase_id" : 53,
+		"sede_id" : 43
+	},
+	{
+		"id_asistencia" : 247,
+		"fecha" : "2025-09-19 09:05:02",
+		"alumno_id" : 72,
+		"clase_id" : 962,
+		"sede_id" : 419
+	},
+	{
+		"id_asistencia" : 248,
+		"fecha" : "2025-08-14 03:56:11",
+		"alumno_id" : 899,
+		"clase_id" : 76,
+		"sede_id" : 509
+	},
+	{
+		"id_asistencia" : 249,
+		"fecha" : "2025-09-25 22:58:39",
+		"alumno_id" : 894,
+		"clase_id" : 907,
+		"sede_id" : 811
+	},
+	{
+		"id_asistencia" : 250,
+		"fecha" : "2025-09-03 13:40:16",
+		"alumno_id" : 166,
+		"clase_id" : 702,
+		"sede_id" : 639
+	},
+	{
+		"id_asistencia" : 251,
+		"fecha" : "2025-08-05 03:09:36",
+		"alumno_id" : 982,
+		"clase_id" : 406,
+		"sede_id" : 505
+	},
+	{
+		"id_asistencia" : 252,
+		"fecha" : "2025-08-12 16:30:57",
+		"alumno_id" : 361,
+		"clase_id" : 149,
+		"sede_id" : 894
+	},
+	{
+		"id_asistencia" : 253,
+		"fecha" : "2025-08-06 08:14:59",
+		"alumno_id" : 715,
+		"clase_id" : 757,
+		"sede_id" : 792
+	},
+	{
+		"id_asistencia" : 254,
+		"fecha" : "2025-08-20 14:38:17",
+		"alumno_id" : 923,
+		"clase_id" : 941,
+		"sede_id" : 33
+	},
+	{
+		"id_asistencia" : 255,
+		"fecha" : "2025-07-21 22:43:20",
+		"alumno_id" : 281,
+		"clase_id" : 346,
+		"sede_id" : 1011
+	},
+	{
+		"id_asistencia" : 256,
+		"fecha" : "2025-08-25 05:36:12",
+		"alumno_id" : 908,
+		"clase_id" : 185,
+		"sede_id" : 550
+	},
+	{
+		"id_asistencia" : 257,
+		"fecha" : "2025-07-31 20:35:54",
+		"alumno_id" : 724,
+		"clase_id" : 536,
+		"sede_id" : 914
+	},
+	{
+		"id_asistencia" : 258,
+		"fecha" : "2025-07-14 03:18:21",
+		"alumno_id" : 914,
+		"clase_id" : 907,
+		"sede_id" : 609
+	},
+	{
+		"id_asistencia" : 259,
+		"fecha" : "2025-07-09 20:12:52",
+		"alumno_id" : 165,
+		"clase_id" : 920,
+		"sede_id" : 661
+	},
+	{
+		"id_asistencia" : 260,
+		"fecha" : "2025-08-13 13:04:58",
+		"alumno_id" : 687,
+		"clase_id" : 563,
+		"sede_id" : 745
+	},
+	{
+		"id_asistencia" : 261,
+		"fecha" : "2025-09-15 01:13:14",
+		"alumno_id" : 13,
+		"clase_id" : 694,
+		"sede_id" : 422
+	},
+	{
+		"id_asistencia" : 262,
+		"fecha" : "2025-07-24 11:26:07",
+		"alumno_id" : 747,
+		"clase_id" : 198,
+		"sede_id" : 215
+	},
+	{
+		"id_asistencia" : 263,
+		"fecha" : "2025-09-30 19:23:51",
+		"alumno_id" : 74,
+		"clase_id" : 267,
+		"sede_id" : 630
+	},
+	{
+		"id_asistencia" : 264,
+		"fecha" : "2025-09-10 16:05:07",
+		"alumno_id" : 314,
+		"clase_id" : 266,
+		"sede_id" : 433
+	},
+	{
+		"id_asistencia" : 265,
+		"fecha" : "2025-09-26 12:34:10",
+		"alumno_id" : 886,
+		"clase_id" : 552,
+		"sede_id" : 71
+	},
+	{
+		"id_asistencia" : 266,
+		"fecha" : "2025-09-02 20:51:05",
+		"alumno_id" : 450,
+		"clase_id" : 442,
+		"sede_id" : 633
+	},
+	{
+		"id_asistencia" : 267,
+		"fecha" : "2025-09-24 01:35:58",
+		"alumno_id" : 74,
+		"clase_id" : 902,
+		"sede_id" : 83
+	},
+	{
+		"id_asistencia" : 268,
+		"fecha" : "2025-07-28 01:22:27",
+		"alumno_id" : 719,
+		"clase_id" : 789,
+		"sede_id" : 274
+	},
+	{
+		"id_asistencia" : 269,
+		"fecha" : "2025-08-26 22:02:45",
+		"alumno_id" : 846,
+		"clase_id" : 149,
+		"sede_id" : 654
+	},
+	{
+		"id_asistencia" : 270,
+		"fecha" : "2025-08-23 11:49:09",
+		"alumno_id" : 705,
+		"clase_id" : 588,
+		"sede_id" : 493
+	},
+	{
+		"id_asistencia" : 271,
+		"fecha" : "2025-07-30 21:55:17",
+		"alumno_id" : 885,
+		"clase_id" : 257,
+		"sede_id" : 989
+	},
+	{
+		"id_asistencia" : 272,
+		"fecha" : "2025-09-02 14:25:59",
+		"alumno_id" : 880,
+		"clase_id" : 731,
+		"sede_id" : 464
+	},
+	{
+		"id_asistencia" : 273,
+		"fecha" : "2025-07-27 04:03:29",
+		"alumno_id" : 15,
+		"clase_id" : 870,
+		"sede_id" : 57
+	},
+	{
+		"id_asistencia" : 274,
+		"fecha" : "2025-07-17 02:52:44",
+		"alumno_id" : 520,
+		"clase_id" : 916,
+		"sede_id" : 857
+	},
+	{
+		"id_asistencia" : 275,
+		"fecha" : "2025-07-16 17:53:35",
+		"alumno_id" : 970,
+		"clase_id" : 158,
+		"sede_id" : 598
+	},
+	{
+		"id_asistencia" : 276,
+		"fecha" : "2025-09-11 04:35:30",
+		"alumno_id" : 893,
+		"clase_id" : 581,
+		"sede_id" : 564
+	},
+	{
+		"id_asistencia" : 277,
+		"fecha" : "2025-08-12 20:10:34",
+		"alumno_id" : 166,
+		"clase_id" : 987,
+		"sede_id" : 839
+	},
+	{
+		"id_asistencia" : 278,
+		"fecha" : "2025-09-04 07:17:28",
+		"alumno_id" : 688,
+		"clase_id" : 879,
+		"sede_id" : 565
+	},
+	{
+		"id_asistencia" : 279,
+		"fecha" : "2025-08-13 22:43:56",
+		"alumno_id" : 926,
+		"clase_id" : 50,
+		"sede_id" : 751
+	},
+	{
+		"id_asistencia" : 280,
+		"fecha" : "2025-08-28 19:11:13",
+		"alumno_id" : 297,
+		"clase_id" : 366,
+		"sede_id" : 156
+	},
+	{
+		"id_asistencia" : 281,
+		"fecha" : "2025-08-27 19:14:11",
+		"alumno_id" : 768,
+		"clase_id" : 32,
+		"sede_id" : 792
+	},
+	{
+		"id_asistencia" : 282,
+		"fecha" : "2025-09-18 23:12:10",
+		"alumno_id" : 180,
+		"clase_id" : 459,
+		"sede_id" : 920
+	},
+	{
+		"id_asistencia" : 283,
+		"fecha" : "2025-07-24 11:35:27",
+		"alumno_id" : 389,
+		"clase_id" : 652,
+		"sede_id" : 321
+	},
+	{
+		"id_asistencia" : 284,
+		"fecha" : "2025-07-12 05:45:29",
+		"alumno_id" : 538,
+		"clase_id" : 626,
+		"sede_id" : 370
+	},
+	{
+		"id_asistencia" : 285,
+		"fecha" : "2025-09-09 20:45:40",
+		"alumno_id" : 288,
+		"clase_id" : 697,
+		"sede_id" : 813
+	},
+	{
+		"id_asistencia" : 286,
+		"fecha" : "2025-07-26 22:10:08",
+		"alumno_id" : 494,
+		"clase_id" : 775,
+		"sede_id" : 264
+	},
+	{
+		"id_asistencia" : 287,
+		"fecha" : "2025-10-03 15:33:11",
+		"alumno_id" : 764,
+		"clase_id" : 31,
+		"sede_id" : 350
+	},
+	{
+		"id_asistencia" : 288,
+		"fecha" : "2025-08-13 04:06:08",
+		"alumno_id" : 145,
+		"clase_id" : 905,
+		"sede_id" : 743
+	},
+	{
+		"id_asistencia" : 289,
+		"fecha" : "2025-08-21 18:05:34",
+		"alumno_id" : 377,
+		"clase_id" : 451,
+		"sede_id" : 88
+	},
+	{
+		"id_asistencia" : 290,
+		"fecha" : "2025-08-11 14:05:19",
+		"alumno_id" : 382,
+		"clase_id" : 572,
+		"sede_id" : 99
+	},
+	{
+		"id_asistencia" : 291,
+		"fecha" : "2025-10-03 04:14:37",
+		"alumno_id" : 172,
+		"clase_id" : 817,
+		"sede_id" : 836
+	},
+	{
+		"id_asistencia" : 292,
+		"fecha" : "2025-07-16 21:12:24",
+		"alumno_id" : 905,
+		"clase_id" : 998,
+		"sede_id" : 841
+	},
+	{
+		"id_asistencia" : 293,
+		"fecha" : "2025-07-14 23:38:44",
+		"alumno_id" : 100,
+		"clase_id" : 398,
+		"sede_id" : 795
+	},
+	{
+		"id_asistencia" : 294,
+		"fecha" : "2025-09-22 11:36:07",
+		"alumno_id" : 733,
+		"clase_id" : 376,
+		"sede_id" : 169
+	},
+	{
+		"id_asistencia" : 295,
+		"fecha" : "2025-09-22 07:30:18",
+		"alumno_id" : 148,
+		"clase_id" : 140,
+		"sede_id" : 774
+	},
+	{
+		"id_asistencia" : 296,
+		"fecha" : "2025-10-03 00:35:13",
+		"alumno_id" : 362,
+		"clase_id" : 45,
+		"sede_id" : 73
+	},
+	{
+		"id_asistencia" : 297,
+		"fecha" : "2025-09-14 00:52:06",
+		"alumno_id" : 531,
+		"clase_id" : 353,
+		"sede_id" : 231
+	},
+	{
+		"id_asistencia" : 298,
+		"fecha" : "2025-07-23 19:24:15",
+		"alumno_id" : 884,
+		"clase_id" : 144,
+		"sede_id" : 197
+	},
+	{
+		"id_asistencia" : 299,
+		"fecha" : "2025-08-27 10:57:57",
+		"alumno_id" : 642,
+		"clase_id" : 754,
+		"sede_id" : 656
+	},
+	{
+		"id_asistencia" : 300,
+		"fecha" : "2025-09-18 03:29:30",
+		"alumno_id" : 798,
+		"clase_id" : 911,
+		"sede_id" : 636
+	},
+	{
+		"id_asistencia" : 301,
+		"fecha" : "2025-08-23 00:59:43",
+		"alumno_id" : 257,
+		"clase_id" : 48,
+		"sede_id" : 612
+	},
+	{
+		"id_asistencia" : 302,
+		"fecha" : "2025-10-02 06:48:39",
+		"alumno_id" : 312,
+		"clase_id" : 421,
+		"sede_id" : 36
+	},
+	{
+		"id_asistencia" : 303,
+		"fecha" : "2025-07-26 21:18:07",
+		"alumno_id" : 970,
+		"clase_id" : 180,
+		"sede_id" : 637
+	},
+	{
+		"id_asistencia" : 304,
+		"fecha" : "2025-08-16 11:16:13",
+		"alumno_id" : 34,
+		"clase_id" : 812,
+		"sede_id" : 817
+	},
+	{
+		"id_asistencia" : 305,
+		"fecha" : "2025-08-22 09:28:32",
+		"alumno_id" : 236,
+		"clase_id" : 146,
+		"sede_id" : 537
+	},
+	{
+		"id_asistencia" : 306,
+		"fecha" : "2025-09-22 20:40:39",
+		"alumno_id" : 113,
+		"clase_id" : 794,
+		"sede_id" : 507
+	},
+	{
+		"id_asistencia" : 307,
+		"fecha" : "2025-07-26 23:00:55",
+		"alumno_id" : 970,
+		"clase_id" : 13,
+		"sede_id" : 98
+	},
+	{
+		"id_asistencia" : 308,
+		"fecha" : "2025-08-04 09:13:13",
+		"alumno_id" : 121,
+		"clase_id" : 408,
+		"sede_id" : 326
+	},
+	{
+		"id_asistencia" : 309,
+		"fecha" : "2025-09-29 20:58:09",
+		"alumno_id" : 785,
+		"clase_id" : 190,
+		"sede_id" : 814
+	},
+	{
+		"id_asistencia" : 310,
+		"fecha" : "2025-07-22 16:17:38",
+		"alumno_id" : 763,
+		"clase_id" : 807,
+		"sede_id" : 147
+	},
+	{
+		"id_asistencia" : 311,
+		"fecha" : "2025-08-19 22:24:33",
+		"alumno_id" : 448,
+		"clase_id" : 352,
+		"sede_id" : 112
+	},
+	{
+		"id_asistencia" : 312,
+		"fecha" : "2025-08-29 15:58:02",
+		"alumno_id" : 344,
+		"clase_id" : 994,
+		"sede_id" : 990
+	},
+	{
+		"id_asistencia" : 313,
+		"fecha" : "2025-07-10 03:10:21",
+		"alumno_id" : 675,
+		"clase_id" : 969,
+		"sede_id" : 520
+	},
+	{
+		"id_asistencia" : 314,
+		"fecha" : "2025-09-21 05:05:44",
+		"alumno_id" : 652,
+		"clase_id" : 982,
+		"sede_id" : 505
+	},
+	{
+		"id_asistencia" : 315,
+		"fecha" : "2025-07-14 11:34:41",
+		"alumno_id" : 955,
+		"clase_id" : 37,
+		"sede_id" : 66
+	},
+	{
+		"id_asistencia" : 316,
+		"fecha" : "2025-08-09 07:57:09",
+		"alumno_id" : 760,
+		"clase_id" : 955,
+		"sede_id" : 744
+	},
+	{
+		"id_asistencia" : 317,
+		"fecha" : "2025-08-21 22:02:22",
+		"alumno_id" : 987,
+		"clase_id" : 438,
+		"sede_id" : 500
+	},
+	{
+		"id_asistencia" : 318,
+		"fecha" : "2025-08-07 18:58:47",
+		"alumno_id" : 668,
+		"clase_id" : 956,
+		"sede_id" : 658
+	},
+	{
+		"id_asistencia" : 319,
+		"fecha" : "2025-09-15 20:51:07",
+		"alumno_id" : 312,
+		"clase_id" : 980,
+		"sede_id" : 934
+	},
+	{
+		"id_asistencia" : 320,
+		"fecha" : "2025-09-25 22:51:10",
+		"alumno_id" : 610,
+		"clase_id" : 697,
+		"sede_id" : 642
+	},
+	{
+		"id_asistencia" : 321,
+		"fecha" : "2025-10-03 22:33:59",
+		"alumno_id" : 546,
+		"clase_id" : 127,
+		"sede_id" : 17
+	},
+	{
+		"id_asistencia" : 322,
+		"fecha" : "2025-08-31 23:10:41",
+		"alumno_id" : 834,
+		"clase_id" : 212,
+		"sede_id" : 501
+	},
+	{
+		"id_asistencia" : 323,
+		"fecha" : "2025-08-01 21:05:30",
+		"alumno_id" : 518,
+		"clase_id" : 205,
+		"sede_id" : 744
+	},
+	{
+		"id_asistencia" : 324,
+		"fecha" : "2025-09-18 04:03:52",
+		"alumno_id" : 5,
+		"clase_id" : 1,
+		"sede_id" : 399
+	},
+	{
+		"id_asistencia" : 325,
+		"fecha" : "2025-09-11 03:24:40",
+		"alumno_id" : 867,
+		"clase_id" : 521,
+		"sede_id" : 164
+	},
+	{
+		"id_asistencia" : 326,
+		"fecha" : "2025-08-06 05:44:11",
+		"alumno_id" : 623,
+		"clase_id" : 149,
+		"sede_id" : 188
+	},
+	{
+		"id_asistencia" : 327,
+		"fecha" : "2025-08-07 06:53:08",
+		"alumno_id" : 92,
+		"clase_id" : 504,
+		"sede_id" : 615
+	},
+	{
+		"id_asistencia" : 328,
+		"fecha" : "2025-09-23 15:09:20",
+		"alumno_id" : 239,
+		"clase_id" : 572,
+		"sede_id" : 899
+	},
+	{
+		"id_asistencia" : 329,
+		"fecha" : "2025-10-01 20:59:03",
+		"alumno_id" : 161,
+		"clase_id" : 93,
+		"sede_id" : 662
+	},
+	{
+		"id_asistencia" : 330,
+		"fecha" : "2025-08-17 03:49:10",
+		"alumno_id" : 116,
+		"clase_id" : 242,
+		"sede_id" : 475
+	},
+	{
+		"id_asistencia" : 331,
+		"fecha" : "2025-09-22 17:43:19",
+		"alumno_id" : 407,
+		"clase_id" : 133,
+		"sede_id" : 653
+	},
+	{
+		"id_asistencia" : 332,
+		"fecha" : "2025-08-13 03:51:21",
+		"alumno_id" : 495,
+		"clase_id" : 61,
+		"sede_id" : 920
+	},
+	{
+		"id_asistencia" : 333,
+		"fecha" : "2025-08-17 08:58:35",
+		"alumno_id" : 92,
+		"clase_id" : 541,
+		"sede_id" : 591
+	},
+	{
+		"id_asistencia" : 334,
+		"fecha" : "2025-07-20 01:15:02",
+		"alumno_id" : 640,
+		"clase_id" : 682,
+		"sede_id" : 715
+	},
+	{
+		"id_asistencia" : 335,
+		"fecha" : "2025-08-09 10:42:29",
+		"alumno_id" : 261,
+		"clase_id" : 21,
+		"sede_id" : 487
+	},
+	{
+		"id_asistencia" : 336,
+		"fecha" : "2025-08-17 23:12:47",
+		"alumno_id" : 641,
+		"clase_id" : 643,
+		"sede_id" : 475
+	},
+	{
+		"id_asistencia" : 337,
+		"fecha" : "2025-09-28 21:32:35",
+		"alumno_id" : 982,
+		"clase_id" : 713,
+		"sede_id" : 192
+	},
+	{
+		"id_asistencia" : 338,
+		"fecha" : "2025-09-22 08:33:18",
+		"alumno_id" : 229,
+		"clase_id" : 562,
+		"sede_id" : 947
+	},
+	{
+		"id_asistencia" : 339,
+		"fecha" : "2025-08-24 10:32:21",
+		"alumno_id" : 954,
+		"clase_id" : 98,
+		"sede_id" : 219
+	},
+	{
+		"id_asistencia" : 340,
+		"fecha" : "2025-07-13 10:31:16",
+		"alumno_id" : 309,
+		"clase_id" : 829,
+		"sede_id" : 742
+	},
+	{
+		"id_asistencia" : 341,
+		"fecha" : "2025-07-22 20:05:33",
+		"alumno_id" : 984,
+		"clase_id" : 557,
+		"sede_id" : 76
+	},
+	{
+		"id_asistencia" : 342,
+		"fecha" : "2025-09-13 03:10:49",
+		"alumno_id" : 859,
+		"clase_id" : 500,
+		"sede_id" : 886
+	},
+	{
+		"id_asistencia" : 343,
+		"fecha" : "2025-10-01 05:38:06",
+		"alumno_id" : 856,
+		"clase_id" : 434,
+		"sede_id" : 131
+	},
+	{
+		"id_asistencia" : 344,
+		"fecha" : "2025-07-26 05:25:22",
+		"alumno_id" : 787,
+		"clase_id" : 109,
+		"sede_id" : 162
+	},
+	{
+		"id_asistencia" : 345,
+		"fecha" : "2025-08-27 06:55:27",
+		"alumno_id" : 457,
+		"clase_id" : 650,
+		"sede_id" : 224
+	},
+	{
+		"id_asistencia" : 346,
+		"fecha" : "2025-08-19 08:00:15",
+		"alumno_id" : 523,
+		"clase_id" : 154,
+		"sede_id" : 38
+	},
+	{
+		"id_asistencia" : 347,
+		"fecha" : "2025-09-29 13:08:35",
+		"alumno_id" : 266,
+		"clase_id" : 879,
+		"sede_id" : 404
+	},
+	{
+		"id_asistencia" : 348,
+		"fecha" : "2025-07-10 21:14:07",
+		"alumno_id" : 267,
+		"clase_id" : 851,
+		"sede_id" : 725
+	},
+	{
+		"id_asistencia" : 349,
+		"fecha" : "2025-07-07 01:10:30",
+		"alumno_id" : 649,
+		"clase_id" : 438,
+		"sede_id" : 25
+	},
+	{
+		"id_asistencia" : 350,
+		"fecha" : "2025-07-20 17:54:32",
+		"alumno_id" : 692,
+		"clase_id" : 998,
+		"sede_id" : 35
+	},
+	{
+		"id_asistencia" : 351,
+		"fecha" : "2025-07-20 16:58:26",
+		"alumno_id" : 760,
+		"clase_id" : 493,
+		"sede_id" : 547
+	},
+	{
+		"id_asistencia" : 352,
+		"fecha" : "2025-08-21 03:25:47",
+		"alumno_id" : 95,
+		"clase_id" : 370,
+		"sede_id" : 916
+	},
+	{
+		"id_asistencia" : 353,
+		"fecha" : "2025-07-25 00:48:06",
+		"alumno_id" : 906,
+		"clase_id" : 984,
+		"sede_id" : 659
+	},
+	{
+		"id_asistencia" : 354,
+		"fecha" : "2025-09-14 18:13:33",
+		"alumno_id" : 39,
+		"clase_id" : 546,
+		"sede_id" : 94
+	},
+	{
+		"id_asistencia" : 355,
+		"fecha" : "2025-09-24 09:07:07",
+		"alumno_id" : 879,
+		"clase_id" : 399,
+		"sede_id" : 837
+	},
+	{
+		"id_asistencia" : 356,
+		"fecha" : "2025-08-03 22:31:20",
+		"alumno_id" : 10,
+		"clase_id" : 50,
+		"sede_id" : 864
+	},
+	{
+		"id_asistencia" : 357,
+		"fecha" : "2025-08-12 21:19:19",
+		"alumno_id" : 19,
+		"clase_id" : 942,
+		"sede_id" : 437
+	},
+	{
+		"id_asistencia" : 358,
+		"fecha" : "2025-08-16 19:11:13",
+		"alumno_id" : 221,
+		"clase_id" : 512,
+		"sede_id" : 100
+	},
+	{
+		"id_asistencia" : 359,
+		"fecha" : "2025-07-16 01:31:23",
+		"alumno_id" : 365,
+		"clase_id" : 813,
+		"sede_id" : 455
+	},
+	{
+		"id_asistencia" : 360,
+		"fecha" : "2025-09-26 20:39:07",
+		"alumno_id" : 262,
+		"clase_id" : 722,
+		"sede_id" : 494
+	},
+	{
+		"id_asistencia" : 361,
+		"fecha" : "2025-08-04 19:22:25",
+		"alumno_id" : 944,
+		"clase_id" : 335,
+		"sede_id" : 464
+	},
+	{
+		"id_asistencia" : 362,
+		"fecha" : "2025-08-27 07:40:46",
+		"alumno_id" : 89,
+		"clase_id" : 327,
+		"sede_id" : 831
+	},
+	{
+		"id_asistencia" : 363,
+		"fecha" : "2025-09-11 21:46:19",
+		"alumno_id" : 471,
+		"clase_id" : 62,
+		"sede_id" : 92
+	},
+	{
+		"id_asistencia" : 364,
+		"fecha" : "2025-07-20 22:06:38",
+		"alumno_id" : 603,
+		"clase_id" : 460,
+		"sede_id" : 569
+	},
+	{
+		"id_asistencia" : 365,
+		"fecha" : "2025-10-01 14:48:40",
+		"alumno_id" : 705,
+		"clase_id" : 981,
+		"sede_id" : 172
+	},
+	{
+		"id_asistencia" : 366,
+		"fecha" : "2025-07-27 06:26:31",
+		"alumno_id" : 402,
+		"clase_id" : 208,
+		"sede_id" : 600
+	},
+	{
+		"id_asistencia" : 367,
+		"fecha" : "2025-07-08 09:35:25",
+		"alumno_id" : 237,
+		"clase_id" : 77,
+		"sede_id" : 562
+	},
+	{
+		"id_asistencia" : 368,
+		"fecha" : "2025-09-17 09:01:14",
+		"alumno_id" : 476,
+		"clase_id" : 111,
+		"sede_id" : 264
+	},
+	{
+		"id_asistencia" : 369,
+		"fecha" : "2025-07-23 08:12:07",
+		"alumno_id" : 144,
+		"clase_id" : 929,
+		"sede_id" : 857
+	},
+	{
+		"id_asistencia" : 370,
+		"fecha" : "2025-07-16 18:55:28",
+		"alumno_id" : 241,
+		"clase_id" : 242,
+		"sede_id" : 489
+	},
+	{
+		"id_asistencia" : 371,
+		"fecha" : "2025-08-25 04:38:17",
+		"alumno_id" : 280,
+		"clase_id" : 559,
+		"sede_id" : 111
+	},
+	{
+		"id_asistencia" : 372,
+		"fecha" : "2025-09-10 19:16:24",
+		"alumno_id" : 627,
+		"clase_id" : 53,
+		"sede_id" : 759
+	},
+	{
+		"id_asistencia" : 373,
+		"fecha" : "2025-09-04 17:55:16",
+		"alumno_id" : 722,
+		"clase_id" : 731,
+		"sede_id" : 300
+	},
+	{
+		"id_asistencia" : 374,
+		"fecha" : "2025-08-26 07:26:01",
+		"alumno_id" : 326,
+		"clase_id" : 214,
+		"sede_id" : 558
+	},
+	{
+		"id_asistencia" : 375,
+		"fecha" : "2025-08-13 19:48:27",
+		"alumno_id" : 647,
+		"clase_id" : 208,
+		"sede_id" : 32
+	},
+	{
+		"id_asistencia" : 376,
+		"fecha" : "2025-10-03 23:55:20",
+		"alumno_id" : 946,
+		"clase_id" : 517,
+		"sede_id" : 869
+	},
+	{
+		"id_asistencia" : 377,
+		"fecha" : "2025-08-12 13:37:40",
+		"alumno_id" : 418,
+		"clase_id" : 918,
+		"sede_id" : 182
+	},
+	{
+		"id_asistencia" : 378,
+		"fecha" : "2025-08-14 17:31:31",
+		"alumno_id" : 620,
+		"clase_id" : 520,
+		"sede_id" : 379
+	},
+	{
+		"id_asistencia" : 379,
+		"fecha" : "2025-08-02 23:06:28",
+		"alumno_id" : 535,
+		"clase_id" : 856,
+		"sede_id" : 204
+	},
+	{
+		"id_asistencia" : 380,
+		"fecha" : "2025-07-11 07:30:36",
+		"alumno_id" : 965,
+		"clase_id" : 881,
+		"sede_id" : 411
+	},
+	{
+		"id_asistencia" : 381,
+		"fecha" : "2025-07-10 10:54:21",
+		"alumno_id" : 604,
+		"clase_id" : 257,
+		"sede_id" : 474
+	},
+	{
+		"id_asistencia" : 382,
+		"fecha" : "2025-08-28 23:06:04",
+		"alumno_id" : 58,
+		"clase_id" : 621,
+		"sede_id" : 294
+	},
+	{
+		"id_asistencia" : 383,
+		"fecha" : "2025-09-09 01:08:33",
+		"alumno_id" : 366,
+		"clase_id" : 639,
+		"sede_id" : 275
+	},
+	{
+		"id_asistencia" : 384,
+		"fecha" : "2025-07-16 11:06:17",
+		"alumno_id" : 286,
+		"clase_id" : 728,
+		"sede_id" : 810
+	},
+	{
+		"id_asistencia" : 385,
+		"fecha" : "2025-09-21 21:36:00",
+		"alumno_id" : 85,
+		"clase_id" : 322,
+		"sede_id" : 801
+	},
+	{
+		"id_asistencia" : 386,
+		"fecha" : "2025-08-19 07:41:39",
+		"alumno_id" : 118,
+		"clase_id" : 856,
+		"sede_id" : 487
+	},
+	{
+		"id_asistencia" : 387,
+		"fecha" : "2025-07-17 18:28:47",
+		"alumno_id" : 576,
+		"clase_id" : 308,
+		"sede_id" : 901
+	},
+	{
+		"id_asistencia" : 388,
+		"fecha" : "2025-09-30 08:01:08",
+		"alumno_id" : 289,
+		"clase_id" : 962,
+		"sede_id" : 641
+	},
+	{
+		"id_asistencia" : 389,
+		"fecha" : "2025-10-04 04:34:05",
+		"alumno_id" : 340,
+		"clase_id" : 554,
+		"sede_id" : 520
+	},
+	{
+		"id_asistencia" : 390,
+		"fecha" : "2025-08-15 19:50:57",
+		"alumno_id" : 836,
+		"clase_id" : 976,
+		"sede_id" : 522
+	},
+	{
+		"id_asistencia" : 391,
+		"fecha" : "2025-09-28 12:55:35",
+		"alumno_id" : 983,
+		"clase_id" : 1,
+		"sede_id" : 861
+	},
+	{
+		"id_asistencia" : 392,
+		"fecha" : "2025-08-31 15:19:24",
+		"alumno_id" : 616,
+		"clase_id" : 974,
+		"sede_id" : 197
+	},
+	{
+		"id_asistencia" : 393,
+		"fecha" : "2025-08-03 17:59:53",
+		"alumno_id" : 238,
+		"clase_id" : 366,
+		"sede_id" : 816
+	},
+	{
+		"id_asistencia" : 394,
+		"fecha" : "2025-08-04 15:45:02",
+		"alumno_id" : 862,
+		"clase_id" : 876,
+		"sede_id" : 30
+	},
+	{
+		"id_asistencia" : 395,
+		"fecha" : "2025-08-31 11:44:30",
+		"alumno_id" : 390,
+		"clase_id" : 182,
+		"sede_id" : 754
+	},
+	{
+		"id_asistencia" : 396,
+		"fecha" : "2025-07-16 01:14:28",
+		"alumno_id" : 552,
+		"clase_id" : 270,
+		"sede_id" : 82
+	},
+	{
+		"id_asistencia" : 397,
+		"fecha" : "2025-07-11 16:46:30",
+		"alumno_id" : 91,
+		"clase_id" : 762,
+		"sede_id" : 523
+	},
+	{
+		"id_asistencia" : 398,
+		"fecha" : "2025-08-08 23:38:19",
+		"alumno_id" : 565,
+		"clase_id" : 954,
+		"sede_id" : 710
+	},
+	{
+		"id_asistencia" : 399,
+		"fecha" : "2025-09-07 21:29:06",
+		"alumno_id" : 839,
+		"clase_id" : 338,
+		"sede_id" : 705
+	},
+	{
+		"id_asistencia" : 400,
+		"fecha" : "2025-07-26 07:09:20",
+		"alumno_id" : 135,
+		"clase_id" : 54,
+		"sede_id" : 272
+	},
+	{
+		"id_asistencia" : 401,
+		"fecha" : "2025-09-20 10:38:15",
+		"alumno_id" : 652,
+		"clase_id" : 318,
+		"sede_id" : 142
+	},
+	{
+		"id_asistencia" : 402,
+		"fecha" : "2025-07-28 10:34:45",
+		"alumno_id" : 866,
+		"clase_id" : 142,
+		"sede_id" : 563
+	},
+	{
+		"id_asistencia" : 403,
+		"fecha" : "2025-08-29 09:40:24",
+		"alumno_id" : 87,
+		"clase_id" : 823,
+		"sede_id" : 721
+	},
+	{
+		"id_asistencia" : 404,
+		"fecha" : "2025-08-26 01:53:22",
+		"alumno_id" : 168,
+		"clase_id" : 164,
+		"sede_id" : 23
+	},
+	{
+		"id_asistencia" : 405,
+		"fecha" : "2025-08-25 10:23:13",
+		"alumno_id" : 970,
+		"clase_id" : 741,
+		"sede_id" : 605
+	},
+	{
+		"id_asistencia" : 406,
+		"fecha" : "2025-08-15 11:21:23",
+		"alumno_id" : 186,
+		"clase_id" : 835,
+		"sede_id" : 837
+	},
+	{
+		"id_asistencia" : 407,
+		"fecha" : "2025-08-03 11:49:13",
+		"alumno_id" : 376,
+		"clase_id" : 996,
+		"sede_id" : 631
+	},
+	{
+		"id_asistencia" : 408,
+		"fecha" : "2025-09-26 12:01:32",
+		"alumno_id" : 37,
+		"clase_id" : 313,
+		"sede_id" : 129
+	},
+	{
+		"id_asistencia" : 409,
+		"fecha" : "2025-07-07 13:03:01",
+		"alumno_id" : 114,
+		"clase_id" : 606,
+		"sede_id" : 824
+	},
+	{
+		"id_asistencia" : 410,
+		"fecha" : "2025-07-18 15:55:59",
+		"alumno_id" : 184,
+		"clase_id" : 38,
+		"sede_id" : 920
+	},
+	{
+		"id_asistencia" : 411,
+		"fecha" : "2025-07-24 20:13:17",
+		"alumno_id" : 165,
+		"clase_id" : 995,
+		"sede_id" : 923
+	},
+	{
+		"id_asistencia" : 412,
+		"fecha" : "2025-09-01 03:40:58",
+		"alumno_id" : 176,
+		"clase_id" : 2,
+		"sede_id" : 312
+	},
+	{
+		"id_asistencia" : 413,
+		"fecha" : "2025-09-23 18:46:42",
+		"alumno_id" : 535,
+		"clase_id" : 534,
+		"sede_id" : 745
+	},
+	{
+		"id_asistencia" : 414,
+		"fecha" : "2025-08-30 03:10:35",
+		"alumno_id" : 545,
+		"clase_id" : 110,
+		"sede_id" : 75
+	},
+	{
+		"id_asistencia" : 415,
+		"fecha" : "2025-09-20 19:32:56",
+		"alumno_id" : 475,
+		"clase_id" : 402,
+		"sede_id" : 360
+	},
+	{
+		"id_asistencia" : 416,
+		"fecha" : "2025-08-08 01:49:04",
+		"alumno_id" : 729,
+		"clase_id" : 139,
+		"sede_id" : 209
+	},
+	{
+		"id_asistencia" : 417,
+		"fecha" : "2025-08-27 14:16:31",
+		"alumno_id" : 757,
+		"clase_id" : 4,
+		"sede_id" : 825
+	},
+	{
+		"id_asistencia" : 418,
+		"fecha" : "2025-07-13 19:53:44",
+		"alumno_id" : 331,
+		"clase_id" : 643,
+		"sede_id" : 762
+	},
+	{
+		"id_asistencia" : 419,
+		"fecha" : "2025-08-11 12:34:16",
+		"alumno_id" : 90,
+		"clase_id" : 514,
+		"sede_id" : 235
+	},
+	{
+		"id_asistencia" : 420,
+		"fecha" : "2025-07-15 19:05:37",
+		"alumno_id" : 201,
+		"clase_id" : 722,
+		"sede_id" : 429
+	},
+	{
+		"id_asistencia" : 421,
+		"fecha" : "2025-09-05 14:08:27",
+		"alumno_id" : 783,
+		"clase_id" : 572,
+		"sede_id" : 501
+	},
+	{
+		"id_asistencia" : 422,
+		"fecha" : "2025-08-11 20:28:17",
+		"alumno_id" : 396,
+		"clase_id" : 74,
+		"sede_id" : 616
+	},
+	{
+		"id_asistencia" : 423,
+		"fecha" : "2025-07-08 02:37:20",
+		"alumno_id" : 600,
+		"clase_id" : 277,
+		"sede_id" : 612
+	},
+	{
+		"id_asistencia" : 424,
+		"fecha" : "2025-07-27 04:28:59",
+		"alumno_id" : 285,
+		"clase_id" : 537,
+		"sede_id" : 119
+	},
+	{
+		"id_asistencia" : 425,
+		"fecha" : "2025-10-01 21:30:53",
+		"alumno_id" : 779,
+		"clase_id" : 693,
+		"sede_id" : 760
+	},
+	{
+		"id_asistencia" : 426,
+		"fecha" : "2025-09-06 06:58:37",
+		"alumno_id" : 573,
+		"clase_id" : 290,
+		"sede_id" : 313
+	},
+	{
+		"id_asistencia" : 427,
+		"fecha" : "2025-08-17 20:16:02",
+		"alumno_id" : 826,
+		"clase_id" : 920,
+		"sede_id" : 588
+	},
+	{
+		"id_asistencia" : 428,
+		"fecha" : "2025-08-27 14:42:28",
+		"alumno_id" : 438,
+		"clase_id" : 582,
+		"sede_id" : 731
+	},
+	{
+		"id_asistencia" : 429,
+		"fecha" : "2025-07-31 02:51:38",
+		"alumno_id" : 609,
+		"clase_id" : 555,
+		"sede_id" : 800
+	},
+	{
+		"id_asistencia" : 430,
+		"fecha" : "2025-07-15 03:08:21",
+		"alumno_id" : 83,
+		"clase_id" : 817,
+		"sede_id" : 56
+	},
+	{
+		"id_asistencia" : 431,
+		"fecha" : "2025-08-17 11:38:00",
+		"alumno_id" : 777,
+		"clase_id" : 705,
+		"sede_id" : 177
+	},
+	{
+		"id_asistencia" : 432,
+		"fecha" : "2025-07-31 03:20:00",
+		"alumno_id" : 330,
+		"clase_id" : 703,
+		"sede_id" : 860
+	},
+	{
+		"id_asistencia" : 433,
+		"fecha" : "2025-08-01 00:05:57",
+		"alumno_id" : 550,
+		"clase_id" : 899,
+		"sede_id" : 803
+	},
+	{
+		"id_asistencia" : 434,
+		"fecha" : "2025-10-02 20:01:09",
+		"alumno_id" : 396,
+		"clase_id" : 821,
+		"sede_id" : 733
+	},
+	{
+		"id_asistencia" : 435,
+		"fecha" : "2025-10-01 23:51:42",
+		"alumno_id" : 154,
+		"clase_id" : 950,
+		"sede_id" : 87
+	},
+	{
+		"id_asistencia" : 436,
+		"fecha" : "2025-08-13 03:44:08",
+		"alumno_id" : 908,
+		"clase_id" : 24,
+		"sede_id" : 226
+	},
+	{
+		"id_asistencia" : 437,
+		"fecha" : "2025-09-09 18:10:35",
+		"alumno_id" : 204,
+		"clase_id" : 894,
+		"sede_id" : 252
+	},
+	{
+		"id_asistencia" : 438,
+		"fecha" : "2025-07-29 10:55:35",
+		"alumno_id" : 817,
+		"clase_id" : 472,
+		"sede_id" : 239
+	},
+	{
+		"id_asistencia" : 439,
+		"fecha" : "2025-09-01 10:11:41",
+		"alumno_id" : 16,
+		"clase_id" : 327,
+		"sede_id" : 893
+	},
+	{
+		"id_asistencia" : 440,
+		"fecha" : "2025-09-20 07:23:18",
+		"alumno_id" : 890,
+		"clase_id" : 217,
+		"sede_id" : 485
+	},
+	{
+		"id_asistencia" : 441,
+		"fecha" : "2025-09-12 18:31:04",
+		"alumno_id" : 497,
+		"clase_id" : 115,
+		"sede_id" : 466
+	},
+	{
+		"id_asistencia" : 442,
+		"fecha" : "2025-08-13 01:32:04",
+		"alumno_id" : 443,
+		"clase_id" : 862,
+		"sede_id" : 224
+	},
+	{
+		"id_asistencia" : 443,
+		"fecha" : "2025-09-30 15:47:54",
+		"alumno_id" : 938,
+		"clase_id" : 574,
+		"sede_id" : 367
+	},
+	{
+		"id_asistencia" : 444,
+		"fecha" : "2025-08-05 11:41:13",
+		"alumno_id" : 828,
+		"clase_id" : 95,
+		"sede_id" : 837
+	},
+	{
+		"id_asistencia" : 445,
+		"fecha" : "2025-09-01 04:42:34",
+		"alumno_id" : 469,
+		"clase_id" : 382,
+		"sede_id" : 235
+	},
+	{
+		"id_asistencia" : 446,
+		"fecha" : "2025-08-04 12:26:34",
+		"alumno_id" : 203,
+		"clase_id" : 139,
+		"sede_id" : 429
+	},
+	{
+		"id_asistencia" : 447,
+		"fecha" : "2025-08-06 03:11:34",
+		"alumno_id" : 569,
+		"clase_id" : 710,
+		"sede_id" : 624
+	},
+	{
+		"id_asistencia" : 448,
+		"fecha" : "2025-09-04 12:08:07",
+		"alumno_id" : 510,
+		"clase_id" : 134,
+		"sede_id" : 305
+	},
+	{
+		"id_asistencia" : 449,
+		"fecha" : "2025-08-22 16:12:54",
+		"alumno_id" : 363,
+		"clase_id" : 72,
+		"sede_id" : 925
+	},
+	{
+		"id_asistencia" : 450,
+		"fecha" : "2025-09-11 11:49:52",
+		"alumno_id" : 258,
+		"clase_id" : 260,
+		"sede_id" : 967
+	},
+	{
+		"id_asistencia" : 451,
+		"fecha" : "2025-09-13 12:20:58",
+		"alumno_id" : 39,
+		"clase_id" : 973,
+		"sede_id" : 561
+	},
+	{
+		"id_asistencia" : 452,
+		"fecha" : "2025-08-22 22:53:49",
+		"alumno_id" : 318,
+		"clase_id" : 595,
+		"sede_id" : 435
+	},
+	{
+		"id_asistencia" : 453,
+		"fecha" : "2025-07-30 14:33:10",
+		"alumno_id" : 426,
+		"clase_id" : 828,
+		"sede_id" : 375
+	},
+	{
+		"id_asistencia" : 454,
+		"fecha" : "2025-07-30 09:57:30",
+		"alumno_id" : 847,
+		"clase_id" : 756,
+		"sede_id" : 699
+	},
+	{
+		"id_asistencia" : 455,
+		"fecha" : "2025-09-16 18:15:39",
+		"alumno_id" : 88,
+		"clase_id" : 543,
+		"sede_id" : 528
+	},
+	{
+		"id_asistencia" : 456,
+		"fecha" : "2025-09-15 07:59:58",
+		"alumno_id" : 420,
+		"clase_id" : 955,
+		"sede_id" : 372
+	},
+	{
+		"id_asistencia" : 457,
+		"fecha" : "2025-08-09 07:50:43",
+		"alumno_id" : 542,
+		"clase_id" : 239,
+		"sede_id" : 810
+	},
+	{
+		"id_asistencia" : 458,
+		"fecha" : "2025-09-03 15:43:25",
+		"alumno_id" : 628,
+		"clase_id" : 736,
+		"sede_id" : 486
+	},
+	{
+		"id_asistencia" : 459,
+		"fecha" : "2025-07-21 08:56:40",
+		"alumno_id" : 770,
+		"clase_id" : 978,
+		"sede_id" : 401
+	},
+	{
+		"id_asistencia" : 460,
+		"fecha" : "2025-07-20 07:12:14",
+		"alumno_id" : 721,
+		"clase_id" : 232,
+		"sede_id" : 975
+	},
+	{
+		"id_asistencia" : 461,
+		"fecha" : "2025-08-10 06:53:41",
+		"alumno_id" : 703,
+		"clase_id" : 854,
+		"sede_id" : 518
+	},
+	{
+		"id_asistencia" : 462,
+		"fecha" : "2025-09-06 21:00:22",
+		"alumno_id" : 438,
+		"clase_id" : 342,
+		"sede_id" : 660
+	},
+	{
+		"id_asistencia" : 463,
+		"fecha" : "2025-08-04 07:27:36",
+		"alumno_id" : 21,
+		"clase_id" : 863,
+		"sede_id" : 801
+	},
+	{
+		"id_asistencia" : 464,
+		"fecha" : "2025-08-18 14:35:52",
+		"alumno_id" : 11,
+		"clase_id" : 970,
+		"sede_id" : 920
+	},
+	{
+		"id_asistencia" : 465,
+		"fecha" : "2025-08-20 20:29:44",
+		"alumno_id" : 487,
+		"clase_id" : 263,
+		"sede_id" : 417
+	},
+	{
+		"id_asistencia" : 466,
+		"fecha" : "2025-07-10 04:30:45",
+		"alumno_id" : 671,
+		"clase_id" : 499,
+		"sede_id" : 738
+	},
+	{
+		"id_asistencia" : 467,
+		"fecha" : "2025-09-30 07:11:57",
+		"alumno_id" : 99,
+		"clase_id" : 701,
+		"sede_id" : 53
+	},
+	{
+		"id_asistencia" : 468,
+		"fecha" : "2025-09-01 16:46:51",
+		"alumno_id" : 982,
+		"clase_id" : 288,
+		"sede_id" : 596
+	},
+	{
+		"id_asistencia" : 469,
+		"fecha" : "2025-07-22 13:40:30",
+		"alumno_id" : 524,
+		"clase_id" : 437,
+		"sede_id" : 535
+	},
+	{
+		"id_asistencia" : 470,
+		"fecha" : "2025-09-22 04:29:43",
+		"alumno_id" : 384,
+		"clase_id" : 34,
+		"sede_id" : 54
+	},
+	{
+		"id_asistencia" : 471,
+		"fecha" : "2025-09-10 17:23:29",
+		"alumno_id" : 984,
+		"clase_id" : 984,
+		"sede_id" : 514
+	},
+	{
+		"id_asistencia" : 472,
+		"fecha" : "2025-08-19 08:41:11",
+		"alumno_id" : 210,
+		"clase_id" : 466,
+		"sede_id" : 724
+	},
+	{
+		"id_asistencia" : 473,
+		"fecha" : "2025-07-08 00:20:12",
+		"alumno_id" : 829,
+		"clase_id" : 686,
+		"sede_id" : 161
+	},
+	{
+		"id_asistencia" : 474,
+		"fecha" : "2025-09-06 20:04:05",
+		"alumno_id" : 769,
+		"clase_id" : 830,
+		"sede_id" : 237
+	},
+	{
+		"id_asistencia" : 475,
+		"fecha" : "2025-09-19 13:31:02",
+		"alumno_id" : 252,
+		"clase_id" : 235,
+		"sede_id" : 701
+	},
+	{
+		"id_asistencia" : 476,
+		"fecha" : "2025-07-13 04:55:59",
+		"alumno_id" : 782,
+		"clase_id" : 501,
+		"sede_id" : 506
+	},
+	{
+		"id_asistencia" : 477,
+		"fecha" : "2025-08-05 00:19:17",
+		"alumno_id" : 661,
+		"clase_id" : 344,
+		"sede_id" : 928
+	},
+	{
+		"id_asistencia" : 478,
+		"fecha" : "2025-10-03 19:29:49",
+		"alumno_id" : 293,
+		"clase_id" : 199,
+		"sede_id" : 986
+	},
+	{
+		"id_asistencia" : 479,
+		"fecha" : "2025-09-12 00:55:17",
+		"alumno_id" : 405,
+		"clase_id" : 630,
+		"sede_id" : 106
+	},
+	{
+		"id_asistencia" : 480,
+		"fecha" : "2025-09-09 02:51:54",
+		"alumno_id" : 103,
+		"clase_id" : 719,
+		"sede_id" : 304
+	},
+	{
+		"id_asistencia" : 481,
+		"fecha" : "2025-09-07 03:18:52",
+		"alumno_id" : 851,
+		"clase_id" : 339,
+		"sede_id" : 188
+	},
+	{
+		"id_asistencia" : 482,
+		"fecha" : "2025-09-19 06:45:51",
+		"alumno_id" : 180,
+		"clase_id" : 476,
+		"sede_id" : 614
+	},
+	{
+		"id_asistencia" : 483,
+		"fecha" : "2025-08-05 22:13:24",
+		"alumno_id" : 173,
+		"clase_id" : 734,
+		"sede_id" : 327
+	},
+	{
+		"id_asistencia" : 484,
+		"fecha" : "2025-09-01 03:49:20",
+		"alumno_id" : 364,
+		"clase_id" : 915,
+		"sede_id" : 448
+	},
+	{
+		"id_asistencia" : 485,
+		"fecha" : "2025-09-28 00:06:31",
+		"alumno_id" : 706,
+		"clase_id" : 208,
+		"sede_id" : 913
+	},
+	{
+		"id_asistencia" : 486,
+		"fecha" : "2025-08-19 07:20:19",
+		"alumno_id" : 652,
+		"clase_id" : 830,
+		"sede_id" : 751
+	},
+	{
+		"id_asistencia" : 487,
+		"fecha" : "2025-09-18 19:13:18",
+		"alumno_id" : 179,
+		"clase_id" : 416,
+		"sede_id" : 812
+	},
+	{
+		"id_asistencia" : 488,
+		"fecha" : "2025-09-27 19:28:00",
+		"alumno_id" : 896,
+		"clase_id" : 926,
+		"sede_id" : 760
+	},
+	{
+		"id_asistencia" : 489,
+		"fecha" : "2025-08-03 23:49:12",
+		"alumno_id" : 205,
+		"clase_id" : 527,
+		"sede_id" : 67
+	},
+	{
+		"id_asistencia" : 490,
+		"fecha" : "2025-08-06 15:18:52",
+		"alumno_id" : 947,
+		"clase_id" : 466,
+		"sede_id" : 765
+	},
+	{
+		"id_asistencia" : 491,
+		"fecha" : "2025-07-30 16:43:34",
+		"alumno_id" : 555,
+		"clase_id" : 805,
+		"sede_id" : 524
+	},
+	{
+		"id_asistencia" : 492,
+		"fecha" : "2025-07-20 10:18:51",
+		"alumno_id" : 11,
+		"clase_id" : 670,
+		"sede_id" : 300
+	},
+	{
+		"id_asistencia" : 493,
+		"fecha" : "2025-07-27 10:14:51",
+		"alumno_id" : 832,
+		"clase_id" : 684,
+		"sede_id" : 911
+	},
+	{
+		"id_asistencia" : 494,
+		"fecha" : "2025-08-23 14:12:24",
+		"alumno_id" : 812,
+		"clase_id" : 196,
+		"sede_id" : 208
+	},
+	{
+		"id_asistencia" : 495,
+		"fecha" : "2025-07-22 19:13:16",
+		"alumno_id" : 147,
+		"clase_id" : 244,
+		"sede_id" : 711
+	},
+	{
+		"id_asistencia" : 496,
+		"fecha" : "2025-09-10 12:52:58",
+		"alumno_id" : 662,
+		"clase_id" : 165,
+		"sede_id" : 631
+	},
+	{
+		"id_asistencia" : 497,
+		"fecha" : "2025-09-19 01:27:05",
+		"alumno_id" : 387,
+		"clase_id" : 364,
+		"sede_id" : 719
+	},
+	{
+		"id_asistencia" : 498,
+		"fecha" : "2025-07-30 17:04:39",
+		"alumno_id" : 516,
+		"clase_id" : 602,
+		"sede_id" : 213
+	},
+	{
+		"id_asistencia" : 499,
+		"fecha" : "2025-07-17 20:52:32",
+		"alumno_id" : 453,
+		"clase_id" : 729,
+		"sede_id" : 58
+	},
+	{
+		"id_asistencia" : 500,
+		"fecha" : "2025-09-25 23:22:48",
+		"alumno_id" : 891,
+		"clase_id" : 959,
+		"sede_id" : 56
+	},
+	{
+		"id_asistencia" : 501,
+		"fecha" : "2025-09-19 20:55:50",
+		"alumno_id" : 182,
+		"clase_id" : 489,
+		"sede_id" : 96
+	},
+	{
+		"id_asistencia" : 502,
+		"fecha" : "2025-10-02 04:44:13",
+		"alumno_id" : 664,
+		"clase_id" : 502,
+		"sede_id" : 711
+	},
+	{
+		"id_asistencia" : 503,
+		"fecha" : "2025-08-19 18:03:21",
+		"alumno_id" : 298,
+		"clase_id" : 46,
+		"sede_id" : 246
+	},
+	{
+		"id_asistencia" : 504,
+		"fecha" : "2025-09-19 07:31:02",
+		"alumno_id" : 726,
+		"clase_id" : 213,
+		"sede_id" : 108
+	},
+	{
+		"id_asistencia" : 505,
+		"fecha" : "2025-10-03 19:34:54",
+		"alumno_id" : 284,
+		"clase_id" : 913,
+		"sede_id" : 37
+	},
+	{
+		"id_asistencia" : 506,
+		"fecha" : "2025-08-04 19:54:10",
+		"alumno_id" : 353,
+		"clase_id" : 512,
+		"sede_id" : 97
+	},
+	{
+		"id_asistencia" : 507,
+		"fecha" : "2025-08-27 06:44:30",
+		"alumno_id" : 300,
+		"clase_id" : 344,
+		"sede_id" : 355
+	},
+	{
+		"id_asistencia" : 508,
+		"fecha" : "2025-08-13 07:42:15",
+		"alumno_id" : 191,
+		"clase_id" : 399,
+		"sede_id" : 136
+	},
+	{
+		"id_asistencia" : 509,
+		"fecha" : "2025-10-02 01:25:00",
+		"alumno_id" : 705,
+		"clase_id" : 241,
+		"sede_id" : 958
+	},
+	{
+		"id_asistencia" : 510,
+		"fecha" : "2025-09-10 07:46:51",
+		"alumno_id" : 615,
+		"clase_id" : 217,
+		"sede_id" : 77
+	},
+	{
+		"id_asistencia" : 511,
+		"fecha" : "2025-07-15 01:44:01",
+		"alumno_id" : 414,
+		"clase_id" : 417,
+		"sede_id" : 87
+	},
+	{
+		"id_asistencia" : 512,
+		"fecha" : "2025-08-12 03:52:46",
+		"alumno_id" : 505,
+		"clase_id" : 980,
+		"sede_id" : 590
+	},
+	{
+		"id_asistencia" : 513,
+		"fecha" : "2025-07-08 04:08:43",
+		"alumno_id" : 869,
+		"clase_id" : 953,
+		"sede_id" : 697
+	},
+	{
+		"id_asistencia" : 514,
+		"fecha" : "2025-07-10 10:37:28",
+		"alumno_id" : 912,
+		"clase_id" : 118,
+		"sede_id" : 311
+	},
+	{
+		"id_asistencia" : 515,
+		"fecha" : "2025-08-03 17:08:39",
+		"alumno_id" : 681,
+		"clase_id" : 309,
+		"sede_id" : 87
+	},
+	{
+		"id_asistencia" : 516,
+		"fecha" : "2025-08-02 11:01:55",
+		"alumno_id" : 184,
+		"clase_id" : 832,
+		"sede_id" : 435
+	},
+	{
+		"id_asistencia" : 517,
+		"fecha" : "2025-08-09 09:51:07",
+		"alumno_id" : 631,
+		"clase_id" : 526,
+		"sede_id" : 516
+	},
+	{
+		"id_asistencia" : 518,
+		"fecha" : "2025-07-12 18:54:47",
+		"alumno_id" : 645,
+		"clase_id" : 466,
+		"sede_id" : 865
+	},
+	{
+		"id_asistencia" : 519,
+		"fecha" : "2025-10-04 16:35:00",
+		"alumno_id" : 912,
+		"clase_id" : 446,
+		"sede_id" : 350
+	},
+	{
+		"id_asistencia" : 520,
+		"fecha" : "2025-08-05 19:58:10",
+		"alumno_id" : 652,
+		"clase_id" : 124,
+		"sede_id" : 373
+	},
+	{
+		"id_asistencia" : 521,
+		"fecha" : "2025-08-15 09:38:57",
+		"alumno_id" : 45,
+		"clase_id" : 775,
+		"sede_id" : 940
+	},
+	{
+		"id_asistencia" : 522,
+		"fecha" : "2025-08-08 09:35:45",
+		"alumno_id" : 543,
+		"clase_id" : 718,
+		"sede_id" : 290
+	},
+	{
+		"id_asistencia" : 523,
+		"fecha" : "2025-08-31 15:08:51",
+		"alumno_id" : 183,
+		"clase_id" : 765,
+		"sede_id" : 522
+	},
+	{
+		"id_asistencia" : 524,
+		"fecha" : "2025-09-27 02:13:25",
+		"alumno_id" : 734,
+		"clase_id" : 431,
+		"sede_id" : 119
+	},
+	{
+		"id_asistencia" : 525,
+		"fecha" : "2025-08-11 00:22:24",
+		"alumno_id" : 744,
+		"clase_id" : 600,
+		"sede_id" : 280
+	},
+	{
+		"id_asistencia" : 526,
+		"fecha" : "2025-08-21 04:32:19",
+		"alumno_id" : 255,
+		"clase_id" : 804,
+		"sede_id" : 744
+	},
+	{
+		"id_asistencia" : 527,
+		"fecha" : "2025-08-21 04:22:11",
+		"alumno_id" : 117,
+		"clase_id" : 242,
+		"sede_id" : 472
+	},
+	{
+		"id_asistencia" : 528,
+		"fecha" : "2025-07-15 22:07:19",
+		"alumno_id" : 185,
+		"clase_id" : 218,
+		"sede_id" : 780
+	},
+	{
+		"id_asistencia" : 529,
+		"fecha" : "2025-09-22 05:40:03",
+		"alumno_id" : 799,
+		"clase_id" : 973,
+		"sede_id" : 141
+	},
+	{
+		"id_asistencia" : 530,
+		"fecha" : "2025-09-16 21:21:48",
+		"alumno_id" : 636,
+		"clase_id" : 508,
+		"sede_id" : 60
+	},
+	{
+		"id_asistencia" : 531,
+		"fecha" : "2025-08-24 07:55:50",
+		"alumno_id" : 45,
+		"clase_id" : 264,
+		"sede_id" : 331
+	},
+	{
+		"id_asistencia" : 532,
+		"fecha" : "2025-10-01 06:30:31",
+		"alumno_id" : 667,
+		"clase_id" : 944,
+		"sede_id" : 723
+	},
+	{
+		"id_asistencia" : 533,
+		"fecha" : "2025-08-11 11:13:03",
+		"alumno_id" : 487,
+		"clase_id" : 416,
+		"sede_id" : 898
+	},
+	{
+		"id_asistencia" : 534,
+		"fecha" : "2025-08-30 09:47:34",
+		"alumno_id" : 258,
+		"clase_id" : 55,
+		"sede_id" : 827
+	},
+	{
+		"id_asistencia" : 535,
+		"fecha" : "2025-09-11 09:08:14",
+		"alumno_id" : 35,
+		"clase_id" : 877,
+		"sede_id" : 178
+	},
+	{
+		"id_asistencia" : 536,
+		"fecha" : "2025-09-06 23:32:01",
+		"alumno_id" : 790,
+		"clase_id" : 582,
+		"sede_id" : 601
+	},
+	{
+		"id_asistencia" : 537,
+		"fecha" : "2025-08-29 06:08:16",
+		"alumno_id" : 764,
+		"clase_id" : 689,
+		"sede_id" : 511
+	},
+	{
+		"id_asistencia" : 538,
+		"fecha" : "2025-07-30 22:42:58",
+		"alumno_id" : 581,
+		"clase_id" : 554,
+		"sede_id" : 384
+	},
+	{
+		"id_asistencia" : 539,
+		"fecha" : "2025-08-28 05:40:54",
+		"alumno_id" : 803,
+		"clase_id" : 199,
+		"sede_id" : 697
+	},
+	{
+		"id_asistencia" : 540,
+		"fecha" : "2025-08-10 09:36:50",
+		"alumno_id" : 957,
+		"clase_id" : 950,
+		"sede_id" : 932
+	},
+	{
+		"id_asistencia" : 541,
+		"fecha" : "2025-09-29 16:39:34",
+		"alumno_id" : 221,
+		"clase_id" : 684,
+		"sede_id" : 213
+	},
+	{
+		"id_asistencia" : 542,
+		"fecha" : "2025-08-29 21:24:20",
+		"alumno_id" : 524,
+		"clase_id" : 172,
+		"sede_id" : 741
+	},
+	{
+		"id_asistencia" : 543,
+		"fecha" : "2025-09-17 11:23:06",
+		"alumno_id" : 569,
+		"clase_id" : 381,
+		"sede_id" : 628
+	},
+	{
+		"id_asistencia" : 544,
+		"fecha" : "2025-09-14 15:54:00",
+		"alumno_id" : 33,
+		"clase_id" : 148,
+		"sede_id" : 753
+	},
+	{
+		"id_asistencia" : 545,
+		"fecha" : "2025-07-26 00:18:57",
+		"alumno_id" : 962,
+		"clase_id" : 310,
+		"sede_id" : 148
+	},
+	{
+		"id_asistencia" : 546,
+		"fecha" : "2025-09-13 12:18:40",
+		"alumno_id" : 426,
+		"clase_id" : 918,
+		"sede_id" : 851
+	},
+	{
+		"id_asistencia" : 547,
+		"fecha" : "2025-07-21 22:58:38",
+		"alumno_id" : 49,
+		"clase_id" : 388,
+		"sede_id" : 758
+	},
+	{
+		"id_asistencia" : 548,
+		"fecha" : "2025-07-08 10:54:59",
+		"alumno_id" : 966,
+		"clase_id" : 186,
+		"sede_id" : 248
+	},
+	{
+		"id_asistencia" : 549,
+		"fecha" : "2025-07-26 01:06:03",
+		"alumno_id" : 234,
+		"clase_id" : 762,
+		"sede_id" : 249
+	},
+	{
+		"id_asistencia" : 550,
+		"fecha" : "2025-09-21 08:56:23",
+		"alumno_id" : 168,
+		"clase_id" : 342,
+		"sede_id" : 706
+	},
+	{
+		"id_asistencia" : 551,
+		"fecha" : "2025-10-01 00:55:13",
+		"alumno_id" : 59,
+		"clase_id" : 965,
+		"sede_id" : 661
+	},
+	{
+		"id_asistencia" : 552,
+		"fecha" : "2025-08-15 19:05:29",
+		"alumno_id" : 759,
+		"clase_id" : 776,
+		"sede_id" : 976
+	},
+	{
+		"id_asistencia" : 553,
+		"fecha" : "2025-10-03 00:03:39",
+		"alumno_id" : 713,
+		"clase_id" : 435,
+		"sede_id" : 155
+	},
+	{
+		"id_asistencia" : 554,
+		"fecha" : "2025-08-15 07:04:48",
+		"alumno_id" : 808,
+		"clase_id" : 716,
+		"sede_id" : 46
+	},
+	{
+		"id_asistencia" : 555,
+		"fecha" : "2025-07-10 16:14:34",
+		"alumno_id" : 915,
+		"clase_id" : 38,
+		"sede_id" : 630
+	},
+	{
+		"id_asistencia" : 556,
+		"fecha" : "2025-09-02 21:43:00",
+		"alumno_id" : 139,
+		"clase_id" : 182,
+		"sede_id" : 748
+	},
+	{
+		"id_asistencia" : 557,
+		"fecha" : "2025-07-08 06:48:31",
+		"alumno_id" : 979,
+		"clase_id" : 712,
+		"sede_id" : 868
+	},
+	{
+		"id_asistencia" : 558,
+		"fecha" : "2025-09-17 04:26:42",
+		"alumno_id" : 70,
+		"clase_id" : 85,
+		"sede_id" : 577
+	},
+	{
+		"id_asistencia" : 559,
+		"fecha" : "2025-08-26 23:33:14",
+		"alumno_id" : 957,
+		"clase_id" : 562,
+		"sede_id" : 675
+	},
+	{
+		"id_asistencia" : 560,
+		"fecha" : "2025-08-28 20:29:49",
+		"alumno_id" : 586,
+		"clase_id" : 393,
+		"sede_id" : 65
+	},
+	{
+		"id_asistencia" : 561,
+		"fecha" : "2025-08-15 20:49:48",
+		"alumno_id" : 962,
+		"clase_id" : 201,
+		"sede_id" : 212
+	},
+	{
+		"id_asistencia" : 562,
+		"fecha" : "2025-07-20 18:18:42",
+		"alumno_id" : 905,
+		"clase_id" : 753,
+		"sede_id" : 141
+	},
+	{
+		"id_asistencia" : 563,
+		"fecha" : "2025-09-08 01:12:34",
+		"alumno_id" : 897,
+		"clase_id" : 78,
+		"sede_id" : 704
+	},
+	{
+		"id_asistencia" : 564,
+		"fecha" : "2025-09-13 12:48:25",
+		"alumno_id" : 44,
+		"clase_id" : 620,
+		"sede_id" : 943
+	},
+	{
+		"id_asistencia" : 565,
+		"fecha" : "2025-08-13 22:43:33",
+		"alumno_id" : 742,
+		"clase_id" : 309,
+		"sede_id" : 674
+	},
+	{
+		"id_asistencia" : 566,
+		"fecha" : "2025-09-03 05:24:13",
+		"alumno_id" : 1000,
+		"clase_id" : 158,
+		"sede_id" : 182
+	},
+	{
+		"id_asistencia" : 567,
+		"fecha" : "2025-07-12 13:06:15",
+		"alumno_id" : 113,
+		"clase_id" : 347,
+		"sede_id" : 889
+	},
+	{
+		"id_asistencia" : 568,
+		"fecha" : "2025-09-02 17:48:51",
+		"alumno_id" : 13,
+		"clase_id" : 403,
+		"sede_id" : 941
+	},
+	{
+		"id_asistencia" : 569,
+		"fecha" : "2025-07-30 11:04:49",
+		"alumno_id" : 608,
+		"clase_id" : 592,
+		"sede_id" : 329
+	},
+	{
+		"id_asistencia" : 570,
+		"fecha" : "2025-07-12 09:34:02",
+		"alumno_id" : 750,
+		"clase_id" : 747,
+		"sede_id" : 910
+	},
+	{
+		"id_asistencia" : 571,
+		"fecha" : "2025-09-06 03:15:56",
+		"alumno_id" : 351,
+		"clase_id" : 314,
+		"sede_id" : 950
+	},
+	{
+		"id_asistencia" : 572,
+		"fecha" : "2025-09-26 17:46:51",
+		"alumno_id" : 586,
+		"clase_id" : 685,
+		"sede_id" : 254
+	},
+	{
+		"id_asistencia" : 573,
+		"fecha" : "2025-07-29 13:52:23",
+		"alumno_id" : 302,
+		"clase_id" : 585,
+		"sede_id" : 754
+	},
+	{
+		"id_asistencia" : 574,
+		"fecha" : "2025-09-09 01:30:46",
+		"alumno_id" : 421,
+		"clase_id" : 174,
+		"sede_id" : 522
+	},
+	{
+		"id_asistencia" : 575,
+		"fecha" : "2025-09-11 02:06:27",
+		"alumno_id" : 579,
+		"clase_id" : 321,
+		"sede_id" : 880
+	},
+	{
+		"id_asistencia" : 576,
+		"fecha" : "2025-08-31 08:19:31",
+		"alumno_id" : 174,
+		"clase_id" : 386,
+		"sede_id" : 801
+	},
+	{
+		"id_asistencia" : 577,
+		"fecha" : "2025-09-10 11:34:56",
+		"alumno_id" : 332,
+		"clase_id" : 23,
+		"sede_id" : 780
+	},
+	{
+		"id_asistencia" : 578,
+		"fecha" : "2025-09-20 21:07:18",
+		"alumno_id" : 256,
+		"clase_id" : 154,
+		"sede_id" : 871
+	},
+	{
+		"id_asistencia" : 579,
+		"fecha" : "2025-08-30 08:37:02",
+		"alumno_id" : 110,
+		"clase_id" : 166,
+		"sede_id" : 828
+	},
+	{
+		"id_asistencia" : 580,
+		"fecha" : "2025-08-01 13:38:10",
+		"alumno_id" : 138,
+		"clase_id" : 911,
+		"sede_id" : 157
+	},
+	{
+		"id_asistencia" : 581,
+		"fecha" : "2025-09-15 02:47:40",
+		"alumno_id" : 654,
+		"clase_id" : 631,
+		"sede_id" : 335
+	},
+	{
+		"id_asistencia" : 582,
+		"fecha" : "2025-09-26 13:40:11",
+		"alumno_id" : 107,
+		"clase_id" : 151,
+		"sede_id" : 141
+	},
+	{
+		"id_asistencia" : 583,
+		"fecha" : "2025-09-13 23:20:49",
+		"alumno_id" : 454,
+		"clase_id" : 898,
+		"sede_id" : 86
+	},
+	{
+		"id_asistencia" : 584,
+		"fecha" : "2025-09-01 17:18:49",
+		"alumno_id" : 424,
+		"clase_id" : 75,
+		"sede_id" : 382
+	},
+	{
+		"id_asistencia" : 585,
+		"fecha" : "2025-08-12 12:15:23",
+		"alumno_id" : 457,
+		"clase_id" : 946,
+		"sede_id" : 327
+	},
+	{
+		"id_asistencia" : 586,
+		"fecha" : "2025-09-18 20:41:32",
+		"alumno_id" : 16,
+		"clase_id" : 547,
+		"sede_id" : 84
+	},
+	{
+		"id_asistencia" : 587,
+		"fecha" : "2025-09-04 15:22:16",
+		"alumno_id" : 448,
+		"clase_id" : 531,
+		"sede_id" : 983
+	},
+	{
+		"id_asistencia" : 588,
+		"fecha" : "2025-09-29 08:48:03",
+		"alumno_id" : 16,
+		"clase_id" : 28,
+		"sede_id" : 656
+	},
+	{
+		"id_asistencia" : 589,
+		"fecha" : "2025-08-20 07:27:04",
+		"alumno_id" : 641,
+		"clase_id" : 81,
+		"sede_id" : 815
+	},
+	{
+		"id_asistencia" : 590,
+		"fecha" : "2025-08-24 23:33:43",
+		"alumno_id" : 426,
+		"clase_id" : 620,
+		"sede_id" : 384
+	},
+	{
+		"id_asistencia" : 591,
+		"fecha" : "2025-09-11 13:39:28",
+		"alumno_id" : 551,
+		"clase_id" : 648,
+		"sede_id" : 66
+	},
+	{
+		"id_asistencia" : 592,
+		"fecha" : "2025-08-08 14:11:00",
+		"alumno_id" : 170,
+		"clase_id" : 788,
+		"sede_id" : 293
+	},
+	{
+		"id_asistencia" : 593,
+		"fecha" : "2025-09-08 02:03:47",
+		"alumno_id" : 336,
+		"clase_id" : 301,
+		"sede_id" : 237
+	},
+	{
+		"id_asistencia" : 594,
+		"fecha" : "2025-08-07 08:25:51",
+		"alumno_id" : 915,
+		"clase_id" : 86,
+		"sede_id" : 587
+	},
+	{
+		"id_asistencia" : 595,
+		"fecha" : "2025-09-19 22:41:54",
+		"alumno_id" : 23,
+		"clase_id" : 454,
+		"sede_id" : 361
+	},
+	{
+		"id_asistencia" : 596,
+		"fecha" : "2025-09-06 18:35:58",
+		"alumno_id" : 618,
+		"clase_id" : 930,
+		"sede_id" : 139
+	},
+	{
+		"id_asistencia" : 597,
+		"fecha" : "2025-07-29 02:47:48",
+		"alumno_id" : 657,
+		"clase_id" : 172,
+		"sede_id" : 396
+	},
+	{
+		"id_asistencia" : 598,
+		"fecha" : "2025-07-17 18:07:30",
+		"alumno_id" : 87,
+		"clase_id" : 76,
+		"sede_id" : 745
+	},
+	{
+		"id_asistencia" : 599,
+		"fecha" : "2025-09-12 05:55:15",
+		"alumno_id" : 145,
+		"clase_id" : 794,
+		"sede_id" : 915
+	},
+	{
+		"id_asistencia" : 600,
+		"fecha" : "2025-08-03 02:44:02",
+		"alumno_id" : 277,
+		"clase_id" : 224,
+		"sede_id" : 676
+	},
+	{
+		"id_asistencia" : 601,
+		"fecha" : "2025-07-12 20:48:35",
+		"alumno_id" : 670,
+		"clase_id" : 780,
+		"sede_id" : 888
+	},
+	{
+		"id_asistencia" : 602,
+		"fecha" : "2025-07-14 13:55:04",
+		"alumno_id" : 918,
+		"clase_id" : 370,
+		"sede_id" : 945
+	},
+	{
+		"id_asistencia" : 603,
+		"fecha" : "2025-07-16 20:28:29",
+		"alumno_id" : 12,
+		"clase_id" : 432,
+		"sede_id" : 91
+	},
+	{
+		"id_asistencia" : 604,
+		"fecha" : "2025-09-02 06:22:16",
+		"alumno_id" : 419,
+		"clase_id" : 240,
+		"sede_id" : 337
+	},
+	{
+		"id_asistencia" : 605,
+		"fecha" : "2025-10-04 10:11:01",
+		"alumno_id" : 840,
+		"clase_id" : 746,
+		"sede_id" : 508
+	},
+	{
+		"id_asistencia" : 606,
+		"fecha" : "2025-08-26 18:44:30",
+		"alumno_id" : 791,
+		"clase_id" : 513,
+		"sede_id" : 79
+	},
+	{
+		"id_asistencia" : 607,
+		"fecha" : "2025-09-25 00:45:57",
+		"alumno_id" : 661,
+		"clase_id" : 903,
+		"sede_id" : 235
+	},
+	{
+		"id_asistencia" : 608,
+		"fecha" : "2025-08-31 02:34:12",
+		"alumno_id" : 68,
+		"clase_id" : 519,
+		"sede_id" : 615
+	},
+	{
+		"id_asistencia" : 609,
+		"fecha" : "2025-08-09 12:47:43",
+		"alumno_id" : 567,
+		"clase_id" : 420,
+		"sede_id" : 285
+	},
+	{
+		"id_asistencia" : 610,
+		"fecha" : "2025-09-22 08:35:35",
+		"alumno_id" : 358,
+		"clase_id" : 374,
+		"sede_id" : 685
+	},
+	{
+		"id_asistencia" : 611,
+		"fecha" : "2025-07-14 12:50:23",
+		"alumno_id" : 406,
+		"clase_id" : 708,
+		"sede_id" : 25
+	},
+	{
+		"id_asistencia" : 612,
+		"fecha" : "2025-09-30 15:46:50",
+		"alumno_id" : 624,
+		"clase_id" : 889,
+		"sede_id" : 680
+	},
+	{
+		"id_asistencia" : 613,
+		"fecha" : "2025-07-12 02:26:54",
+		"alumno_id" : 213,
+		"clase_id" : 789,
+		"sede_id" : 669
+	},
+	{
+		"id_asistencia" : 614,
+		"fecha" : "2025-08-14 05:25:45",
+		"alumno_id" : 115,
+		"clase_id" : 646,
+		"sede_id" : 774
+	},
+	{
+		"id_asistencia" : 615,
+		"fecha" : "2025-08-11 16:55:35",
+		"alumno_id" : 892,
+		"clase_id" : 203,
+		"sede_id" : 905
+	},
+	{
+		"id_asistencia" : 616,
+		"fecha" : "2025-08-18 20:11:07",
+		"alumno_id" : 921,
+		"clase_id" : 932,
+		"sede_id" : 708
+	},
+	{
+		"id_asistencia" : 617,
+		"fecha" : "2025-09-21 13:35:50",
+		"alumno_id" : 335,
+		"clase_id" : 717,
+		"sede_id" : 517
+	},
+	{
+		"id_asistencia" : 618,
+		"fecha" : "2025-09-28 08:38:37",
+		"alumno_id" : 411,
+		"clase_id" : 548,
+		"sede_id" : 273
+	},
+	{
+		"id_asistencia" : 619,
+		"fecha" : "2025-07-14 13:09:40",
+		"alumno_id" : 927,
+		"clase_id" : 789,
+		"sede_id" : 927
+	},
+	{
+		"id_asistencia" : 620,
+		"fecha" : "2025-09-03 20:36:38",
+		"alumno_id" : 679,
+		"clase_id" : 121,
+		"sede_id" : 338
+	},
+	{
+		"id_asistencia" : 621,
+		"fecha" : "2025-07-12 03:25:50",
+		"alumno_id" : 400,
+		"clase_id" : 79,
+		"sede_id" : 527
+	},
+	{
+		"id_asistencia" : 622,
+		"fecha" : "2025-08-26 18:10:31",
+		"alumno_id" : 778,
+		"clase_id" : 235,
+		"sede_id" : 446
+	},
+	{
+		"id_asistencia" : 623,
+		"fecha" : "2025-07-12 03:50:34",
+		"alumno_id" : 17,
+		"clase_id" : 692,
+		"sede_id" : 786
+	},
+	{
+		"id_asistencia" : 624,
+		"fecha" : "2025-08-16 07:55:13",
+		"alumno_id" : 794,
+		"clase_id" : 720,
+		"sede_id" : 235
+	},
+	{
+		"id_asistencia" : 625,
+		"fecha" : "2025-08-12 10:26:01",
+		"alumno_id" : 173,
+		"clase_id" : 794,
+		"sede_id" : 174
+	},
+	{
+		"id_asistencia" : 626,
+		"fecha" : "2025-09-20 14:19:44",
+		"alumno_id" : 347,
+		"clase_id" : 535,
+		"sede_id" : 244
+	},
+	{
+		"id_asistencia" : 627,
+		"fecha" : "2025-07-13 05:36:03",
+		"alumno_id" : 492,
+		"clase_id" : 821,
+		"sede_id" : 175
+	},
+	{
+		"id_asistencia" : 628,
+		"fecha" : "2025-09-28 20:41:36",
+		"alumno_id" : 639,
+		"clase_id" : 487,
+		"sede_id" : 92
+	},
+	{
+		"id_asistencia" : 629,
+		"fecha" : "2025-08-31 21:34:39",
+		"alumno_id" : 903,
+		"clase_id" : 846,
+		"sede_id" : 566
+	},
+	{
+		"id_asistencia" : 630,
+		"fecha" : "2025-08-04 22:15:29",
+		"alumno_id" : 700,
+		"clase_id" : 412,
+		"sede_id" : 120
+	},
+	{
+		"id_asistencia" : 631,
+		"fecha" : "2025-09-13 08:07:26",
+		"alumno_id" : 247,
+		"clase_id" : 620,
+		"sede_id" : 33
+	},
+	{
+		"id_asistencia" : 632,
+		"fecha" : "2025-07-11 13:18:29",
+		"alumno_id" : 959,
+		"clase_id" : 610,
+		"sede_id" : 269
+	},
+	{
+		"id_asistencia" : 633,
+		"fecha" : "2025-09-23 14:59:50",
+		"alumno_id" : 175,
+		"clase_id" : 975,
+		"sede_id" : 770
+	},
+	{
+		"id_asistencia" : 634,
+		"fecha" : "2025-08-17 18:13:51",
+		"alumno_id" : 867,
+		"clase_id" : 450,
+		"sede_id" : 761
+	},
+	{
+		"id_asistencia" : 635,
+		"fecha" : "2025-07-10 11:43:20",
+		"alumno_id" : 50,
+		"clase_id" : 165,
+		"sede_id" : 949
+	},
+	{
+		"id_asistencia" : 636,
+		"fecha" : "2025-09-14 05:10:19",
+		"alumno_id" : 559,
+		"clase_id" : 991,
+		"sede_id" : 432
+	},
+	{
+		"id_asistencia" : 637,
+		"fecha" : "2025-10-03 18:49:50",
+		"alumno_id" : 306,
+		"clase_id" : 452,
+		"sede_id" : 706
+	},
+	{
+		"id_asistencia" : 638,
+		"fecha" : "2025-07-20 02:35:17",
+		"alumno_id" : 600,
+		"clase_id" : 329,
+		"sede_id" : 177
+	},
+	{
+		"id_asistencia" : 639,
+		"fecha" : "2025-09-08 00:49:09",
+		"alumno_id" : 287,
+		"clase_id" : 424,
+		"sede_id" : 865
+	},
+	{
+		"id_asistencia" : 640,
+		"fecha" : "2025-07-26 02:20:58",
+		"alumno_id" : 641,
+		"clase_id" : 249,
+		"sede_id" : 842
+	},
+	{
+		"id_asistencia" : 641,
+		"fecha" : "2025-08-17 01:52:42",
+		"alumno_id" : 761,
+		"clase_id" : 433,
+		"sede_id" : 429
+	},
+	{
+		"id_asistencia" : 642,
+		"fecha" : "2025-07-11 08:38:10",
+		"alumno_id" : 783,
+		"clase_id" : 553,
+		"sede_id" : 705
+	},
+	{
+		"id_asistencia" : 643,
+		"fecha" : "2025-09-10 22:36:10",
+		"alumno_id" : 198,
+		"clase_id" : 199,
+		"sede_id" : 233
+	},
+	{
+		"id_asistencia" : 644,
+		"fecha" : "2025-09-18 19:59:06",
+		"alumno_id" : 881,
+		"clase_id" : 463,
+		"sede_id" : 185
+	},
+	{
+		"id_asistencia" : 645,
+		"fecha" : "2025-07-13 21:40:03",
+		"alumno_id" : 833,
+		"clase_id" : 451,
+		"sede_id" : 529
+	},
+	{
+		"id_asistencia" : 646,
+		"fecha" : "2025-09-23 05:40:21",
+		"alumno_id" : 954,
+		"clase_id" : 897,
+		"sede_id" : 556
+	},
+	{
+		"id_asistencia" : 647,
+		"fecha" : "2025-09-20 15:41:51",
+		"alumno_id" : 568,
+		"clase_id" : 534,
+		"sede_id" : 884
+	},
+	{
+		"id_asistencia" : 648,
+		"fecha" : "2025-08-28 06:06:12",
+		"alumno_id" : 246,
+		"clase_id" : 119,
+		"sede_id" : 757
+	},
+	{
+		"id_asistencia" : 649,
+		"fecha" : "2025-08-10 11:23:05",
+		"alumno_id" : 176,
+		"clase_id" : 114,
+		"sede_id" : 484
+	},
+	{
+		"id_asistencia" : 650,
+		"fecha" : "2025-08-21 17:21:50",
+		"alumno_id" : 136,
+		"clase_id" : 112,
+		"sede_id" : 969
+	},
+	{
+		"id_asistencia" : 651,
+		"fecha" : "2025-09-29 12:25:00",
+		"alumno_id" : 666,
+		"clase_id" : 635,
+		"sede_id" : 677
+	},
+	{
+		"id_asistencia" : 652,
+		"fecha" : "2025-08-29 16:12:54",
+		"alumno_id" : 846,
+		"clase_id" : 66,
+		"sede_id" : 366
+	},
+	{
+		"id_asistencia" : 653,
+		"fecha" : "2025-09-01 18:33:36",
+		"alumno_id" : 647,
+		"clase_id" : 57,
+		"sede_id" : 729
+	},
+	{
+		"id_asistencia" : 654,
+		"fecha" : "2025-09-07 04:49:26",
+		"alumno_id" : 687,
+		"clase_id" : 62,
+		"sede_id" : 639
+	},
+	{
+		"id_asistencia" : 655,
+		"fecha" : "2025-08-31 14:18:26",
+		"alumno_id" : 78,
+		"clase_id" : 75,
+		"sede_id" : 669
+	},
+	{
+		"id_asistencia" : 656,
+		"fecha" : "2025-07-24 14:38:30",
+		"alumno_id" : 482,
+		"clase_id" : 861,
+		"sede_id" : 369
+	},
+	{
+		"id_asistencia" : 657,
+		"fecha" : "2025-09-05 05:16:04",
+		"alumno_id" : 949,
+		"clase_id" : 910,
+		"sede_id" : 419
+	},
+	{
+		"id_asistencia" : 658,
+		"fecha" : "2025-08-31 02:28:11",
+		"alumno_id" : 643,
+		"clase_id" : 723,
+		"sede_id" : 798
+	},
+	{
+		"id_asistencia" : 659,
+		"fecha" : "2025-08-07 07:02:23",
+		"alumno_id" : 249,
+		"clase_id" : 820,
+		"sede_id" : 365
+	},
+	{
+		"id_asistencia" : 660,
+		"fecha" : "2025-07-16 03:03:38",
+		"alumno_id" : 748,
+		"clase_id" : 589,
+		"sede_id" : 861
+	},
+	{
+		"id_asistencia" : 661,
+		"fecha" : "2025-08-11 09:58:19",
+		"alumno_id" : 107,
+		"clase_id" : 729,
+		"sede_id" : 256
+	},
+	{
+		"id_asistencia" : 662,
+		"fecha" : "2025-07-18 00:50:42",
+		"alumno_id" : 121,
+		"clase_id" : 583,
+		"sede_id" : 287
+	},
+	{
+		"id_asistencia" : 663,
+		"fecha" : "2025-09-03 07:45:50",
+		"alumno_id" : 427,
+		"clase_id" : 810,
+		"sede_id" : 206
+	},
+	{
+		"id_asistencia" : 664,
+		"fecha" : "2025-08-14 10:21:28",
+		"alumno_id" : 670,
+		"clase_id" : 271,
+		"sede_id" : 276
+	},
+	{
+		"id_asistencia" : 665,
+		"fecha" : "2025-08-02 04:49:47",
+		"alumno_id" : 378,
+		"clase_id" : 41,
+		"sede_id" : 643
+	},
+	{
+		"id_asistencia" : 666,
+		"fecha" : "2025-09-18 06:06:46",
+		"alumno_id" : 951,
+		"clase_id" : 826,
+		"sede_id" : 380
+	},
+	{
+		"id_asistencia" : 667,
+		"fecha" : "2025-10-04 09:04:26",
+		"alumno_id" : 984,
+		"clase_id" : 972,
+		"sede_id" : 718
+	},
+	{
+		"id_asistencia" : 668,
+		"fecha" : "2025-09-09 12:06:51",
+		"alumno_id" : 145,
+		"clase_id" : 994,
+		"sede_id" : 449
+	},
+	{
+		"id_asistencia" : 669,
+		"fecha" : "2025-07-08 21:08:58",
+		"alumno_id" : 303,
+		"clase_id" : 31,
+		"sede_id" : 746
+	},
+	{
+		"id_asistencia" : 670,
+		"fecha" : "2025-09-12 20:14:19",
+		"alumno_id" : 258,
+		"clase_id" : 69,
+		"sede_id" : 20
+	},
+	{
+		"id_asistencia" : 671,
+		"fecha" : "2025-08-06 22:01:47",
+		"alumno_id" : 719,
+		"clase_id" : 963,
+		"sede_id" : 540
+	},
+	{
+		"id_asistencia" : 672,
+		"fecha" : "2025-07-19 23:19:58",
+		"alumno_id" : 9,
+		"clase_id" : 353,
+		"sede_id" : 846
+	},
+	{
+		"id_asistencia" : 673,
+		"fecha" : "2025-07-24 01:43:43",
+		"alumno_id" : 661,
+		"clase_id" : 385,
+		"sede_id" : 260
+	},
+	{
+		"id_asistencia" : 674,
+		"fecha" : "2025-08-21 17:17:52",
+		"alumno_id" : 186,
+		"clase_id" : 662,
+		"sede_id" : 179
+	},
+	{
+		"id_asistencia" : 675,
+		"fecha" : "2025-09-29 03:38:11",
+		"alumno_id" : 961,
+		"clase_id" : 570,
+		"sede_id" : 285
+	},
+	{
+		"id_asistencia" : 676,
+		"fecha" : "2025-08-26 08:05:04",
+		"alumno_id" : 841,
+		"clase_id" : 35,
+		"sede_id" : 199
+	},
+	{
+		"id_asistencia" : 677,
+		"fecha" : "2025-08-13 05:12:46",
+		"alumno_id" : 980,
+		"clase_id" : 568,
+		"sede_id" : 513
+	},
+	{
+		"id_asistencia" : 678,
+		"fecha" : "2025-08-05 10:15:44",
+		"alumno_id" : 620,
+		"clase_id" : 297,
+		"sede_id" : 762
+	},
+	{
+		"id_asistencia" : 679,
+		"fecha" : "2025-08-24 19:46:26",
+		"alumno_id" : 210,
+		"clase_id" : 762,
+		"sede_id" : 490
+	},
+	{
+		"id_asistencia" : 680,
+		"fecha" : "2025-08-13 00:33:15",
+		"alumno_id" : 614,
+		"clase_id" : 223,
+		"sede_id" : 805
+	},
+	{
+		"id_asistencia" : 681,
+		"fecha" : "2025-10-04 01:16:28",
+		"alumno_id" : 200,
+		"clase_id" : 803,
+		"sede_id" : 62
+	},
+	{
+		"id_asistencia" : 682,
+		"fecha" : "2025-07-14 02:34:56",
+		"alumno_id" : 803,
+		"clase_id" : 841,
+		"sede_id" : 310
+	},
+	{
+		"id_asistencia" : 683,
+		"fecha" : "2025-08-24 01:05:02",
+		"alumno_id" : 738,
+		"clase_id" : 479,
+		"sede_id" : 199
+	},
+	{
+		"id_asistencia" : 684,
+		"fecha" : "2025-09-21 01:05:51",
+		"alumno_id" : 797,
+		"clase_id" : 489,
+		"sede_id" : 848
+	},
+	{
+		"id_asistencia" : 685,
+		"fecha" : "2025-09-26 13:18:31",
+		"alumno_id" : 113,
+		"clase_id" : 45,
+		"sede_id" : 381
+	},
+	{
+		"id_asistencia" : 686,
+		"fecha" : "2025-07-30 16:10:01",
+		"alumno_id" : 537,
+		"clase_id" : 429,
+		"sede_id" : 594
+	},
+	{
+		"id_asistencia" : 687,
+		"fecha" : "2025-09-27 22:57:22",
+		"alumno_id" : 383,
+		"clase_id" : 20,
+		"sede_id" : 518
+	},
+	{
+		"id_asistencia" : 688,
+		"fecha" : "2025-07-18 09:08:19",
+		"alumno_id" : 683,
+		"clase_id" : 657,
+		"sede_id" : 116
+	},
+	{
+		"id_asistencia" : 689,
+		"fecha" : "2025-08-27 09:31:54",
+		"alumno_id" : 264,
+		"clase_id" : 305,
+		"sede_id" : 495
+	},
+	{
+		"id_asistencia" : 690,
+		"fecha" : "2025-09-03 17:44:52",
+		"alumno_id" : 247,
+		"clase_id" : 379,
+		"sede_id" : 693
+	},
+	{
+		"id_asistencia" : 691,
+		"fecha" : "2025-07-14 18:01:22",
+		"alumno_id" : 998,
+		"clase_id" : 743,
+		"sede_id" : 835
+	},
+	{
+		"id_asistencia" : 692,
+		"fecha" : "2025-07-18 18:54:47",
+		"alumno_id" : 274,
+		"clase_id" : 560,
+		"sede_id" : 654
+	},
+	{
+		"id_asistencia" : 693,
+		"fecha" : "2025-09-01 08:11:59",
+		"alumno_id" : 659,
+		"clase_id" : 625,
+		"sede_id" : 733
+	},
+	{
+		"id_asistencia" : 694,
+		"fecha" : "2025-07-21 09:21:54",
+		"alumno_id" : 853,
+		"clase_id" : 295,
+		"sede_id" : 691
+	},
+	{
+		"id_asistencia" : 695,
+		"fecha" : "2025-10-04 13:34:25",
+		"alumno_id" : 21,
+		"clase_id" : 907,
+		"sede_id" : 758
+	},
+	{
+		"id_asistencia" : 696,
+		"fecha" : "2025-07-25 09:10:02",
+		"alumno_id" : 826,
+		"clase_id" : 1000,
+		"sede_id" : 429
+	},
+	{
+		"id_asistencia" : 697,
+		"fecha" : "2025-09-13 10:18:47",
+		"alumno_id" : 172,
+		"clase_id" : 700,
+		"sede_id" : 90
+	},
+	{
+		"id_asistencia" : 698,
+		"fecha" : "2025-08-08 22:38:17",
+		"alumno_id" : 41,
+		"clase_id" : 261,
+		"sede_id" : 464
+	},
+	{
+		"id_asistencia" : 699,
+		"fecha" : "2025-08-25 22:36:21",
+		"alumno_id" : 778,
+		"clase_id" : 275,
+		"sede_id" : 214
+	},
+	{
+		"id_asistencia" : 700,
+		"fecha" : "2025-08-28 21:44:49",
+		"alumno_id" : 568,
+		"clase_id" : 468,
+		"sede_id" : 365
+	},
+	{
+		"id_asistencia" : 701,
+		"fecha" : "2025-07-31 15:24:16",
+		"alumno_id" : 377,
+		"clase_id" : 457,
+		"sede_id" : 685
+	},
+	{
+		"id_asistencia" : 702,
+		"fecha" : "2025-09-01 18:10:19",
+		"alumno_id" : 851,
+		"clase_id" : 378,
+		"sede_id" : 406
+	},
+	{
+		"id_asistencia" : 703,
+		"fecha" : "2025-08-18 04:20:02",
+		"alumno_id" : 769,
+		"clase_id" : 884,
+		"sede_id" : 199
+	},
+	{
+		"id_asistencia" : 704,
+		"fecha" : "2025-07-17 19:04:05",
+		"alumno_id" : 121,
+		"clase_id" : 185,
+		"sede_id" : 959
+	},
+	{
+		"id_asistencia" : 705,
+		"fecha" : "2025-08-31 08:02:18",
+		"alumno_id" : 461,
+		"clase_id" : 165,
+		"sede_id" : 723
+	},
+	{
+		"id_asistencia" : 706,
+		"fecha" : "2025-09-05 03:48:03",
+		"alumno_id" : 388,
+		"clase_id" : 882,
+		"sede_id" : 539
+	},
+	{
+		"id_asistencia" : 707,
+		"fecha" : "2025-08-16 12:10:49",
+		"alumno_id" : 814,
+		"clase_id" : 431,
+		"sede_id" : 910
+	},
+	{
+		"id_asistencia" : 708,
+		"fecha" : "2025-08-13 17:58:12",
+		"alumno_id" : 480,
+		"clase_id" : 436,
+		"sede_id" : 985
+	},
+	{
+		"id_asistencia" : 709,
+		"fecha" : "2025-09-19 16:06:21",
+		"alumno_id" : 38,
+		"clase_id" : 197,
+		"sede_id" : 496
+	},
+	{
+		"id_asistencia" : 710,
+		"fecha" : "2025-08-29 07:42:44",
+		"alumno_id" : 924,
+		"clase_id" : 610,
+		"sede_id" : 810
+	},
+	{
+		"id_asistencia" : 711,
+		"fecha" : "2025-09-24 12:37:32",
+		"alumno_id" : 325,
+		"clase_id" : 537,
+		"sede_id" : 345
+	},
+	{
+		"id_asistencia" : 712,
+		"fecha" : "2025-08-08 14:50:46",
+		"alumno_id" : 600,
+		"clase_id" : 273,
+		"sede_id" : 306
+	},
+	{
+		"id_asistencia" : 713,
+		"fecha" : "2025-09-25 00:39:43",
+		"alumno_id" : 387,
+		"clase_id" : 660,
+		"sede_id" : 717
+	},
+	{
+		"id_asistencia" : 714,
+		"fecha" : "2025-08-30 08:19:02",
+		"alumno_id" : 105,
+		"clase_id" : 585,
+		"sede_id" : 704
+	},
+	{
+		"id_asistencia" : 715,
+		"fecha" : "2025-09-15 19:30:37",
+		"alumno_id" : 224,
+		"clase_id" : 635,
+		"sede_id" : 156
+	},
+	{
+		"id_asistencia" : 716,
+		"fecha" : "2025-08-10 12:51:18",
+		"alumno_id" : 218,
+		"clase_id" : 407,
+		"sede_id" : 561
+	},
+	{
+		"id_asistencia" : 717,
+		"fecha" : "2025-08-01 16:43:22",
+		"alumno_id" : 603,
+		"clase_id" : 515,
+		"sede_id" : 985
+	},
+	{
+		"id_asistencia" : 718,
+		"fecha" : "2025-08-05 02:34:46",
+		"alumno_id" : 161,
+		"clase_id" : 184,
+		"sede_id" : 82
+	},
+	{
+		"id_asistencia" : 719,
+		"fecha" : "2025-10-04 19:11:32",
+		"alumno_id" : 942,
+		"clase_id" : 384,
+		"sede_id" : 220
+	},
+	{
+		"id_asistencia" : 720,
+		"fecha" : "2025-10-01 16:45:12",
+		"alumno_id" : 15,
+		"clase_id" : 751,
+		"sede_id" : 197
+	},
+	{
+		"id_asistencia" : 721,
+		"fecha" : "2025-08-12 11:00:35",
+		"alumno_id" : 621,
+		"clase_id" : 897,
+		"sede_id" : 256
+	},
+	{
+		"id_asistencia" : 722,
+		"fecha" : "2025-10-04 03:22:40",
+		"alumno_id" : 662,
+		"clase_id" : 290,
+		"sede_id" : 447
+	},
+	{
+		"id_asistencia" : 723,
+		"fecha" : "2025-09-08 04:30:48",
+		"alumno_id" : 718,
+		"clase_id" : 97,
+		"sede_id" : 832
+	},
+	{
+		"id_asistencia" : 724,
+		"fecha" : "2025-09-27 02:32:44",
+		"alumno_id" : 158,
+		"clase_id" : 696,
+		"sede_id" : 548
+	},
+	{
+		"id_asistencia" : 725,
+		"fecha" : "2025-07-29 19:52:26",
+		"alumno_id" : 28,
+		"clase_id" : 570,
+		"sede_id" : 452
+	},
+	{
+		"id_asistencia" : 726,
+		"fecha" : "2025-08-13 14:36:11",
+		"alumno_id" : 462,
+		"clase_id" : 751,
+		"sede_id" : 116
+	},
+	{
+		"id_asistencia" : 727,
+		"fecha" : "2025-07-24 04:38:01",
+		"alumno_id" : 342,
+		"clase_id" : 536,
+		"sede_id" : 160
+	},
+	{
+		"id_asistencia" : 728,
+		"fecha" : "2025-09-22 01:53:23",
+		"alumno_id" : 972,
+		"clase_id" : 758,
+		"sede_id" : 24
+	},
+	{
+		"id_asistencia" : 729,
+		"fecha" : "2025-10-04 05:46:10",
+		"alumno_id" : 826,
+		"clase_id" : 955,
+		"sede_id" : 360
+	},
+	{
+		"id_asistencia" : 730,
+		"fecha" : "2025-09-15 00:26:44",
+		"alumno_id" : 239,
+		"clase_id" : 815,
+		"sede_id" : 544
+	},
+	{
+		"id_asistencia" : 731,
+		"fecha" : "2025-09-09 21:45:32",
+		"alumno_id" : 143,
+		"clase_id" : 168,
+		"sede_id" : 156
+	},
+	{
+		"id_asistencia" : 732,
+		"fecha" : "2025-07-27 11:26:32",
+		"alumno_id" : 310,
+		"clase_id" : 790,
+		"sede_id" : 420
+	},
+	{
+		"id_asistencia" : 733,
+		"fecha" : "2025-09-20 07:41:21",
+		"alumno_id" : 408,
+		"clase_id" : 675,
+		"sede_id" : 741
+	},
+	{
+		"id_asistencia" : 734,
+		"fecha" : "2025-09-25 23:50:15",
+		"alumno_id" : 196,
+		"clase_id" : 234,
+		"sede_id" : 801
+	},
+	{
+		"id_asistencia" : 735,
+		"fecha" : "2025-08-21 02:32:37",
+		"alumno_id" : 545,
+		"clase_id" : 735,
+		"sede_id" : 379
+	},
+	{
+		"id_asistencia" : 736,
+		"fecha" : "2025-10-02 06:52:31",
+		"alumno_id" : 328,
+		"clase_id" : 56,
+		"sede_id" : 630
+	},
+	{
+		"id_asistencia" : 737,
+		"fecha" : "2025-07-15 05:45:16",
+		"alumno_id" : 195,
+		"clase_id" : 612,
+		"sede_id" : 304
+	},
+	{
+		"id_asistencia" : 738,
+		"fecha" : "2025-08-25 15:08:25",
+		"alumno_id" : 625,
+		"clase_id" : 252,
+		"sede_id" : 846
+	},
+	{
+		"id_asistencia" : 739,
+		"fecha" : "2025-08-13 14:27:44",
+		"alumno_id" : 415,
+		"clase_id" : 813,
+		"sede_id" : 212
+	},
+	{
+		"id_asistencia" : 740,
+		"fecha" : "2025-08-07 17:48:54",
+		"alumno_id" : 676,
+		"clase_id" : 313,
+		"sede_id" : 647
+	},
+	{
+		"id_asistencia" : 741,
+		"fecha" : "2025-08-01 17:44:38",
+		"alumno_id" : 712,
+		"clase_id" : 716,
+		"sede_id" : 991
+	},
+	{
+		"id_asistencia" : 742,
+		"fecha" : "2025-08-11 20:13:42",
+		"alumno_id" : 722,
+		"clase_id" : 163,
+		"sede_id" : 574
+	},
+	{
+		"id_asistencia" : 743,
+		"fecha" : "2025-08-30 22:14:03",
+		"alumno_id" : 257,
+		"clase_id" : 6,
+		"sede_id" : 860
+	},
+	{
+		"id_asistencia" : 744,
+		"fecha" : "2025-08-11 10:40:52",
+		"alumno_id" : 956,
+		"clase_id" : 706,
+		"sede_id" : 582
+	},
+	{
+		"id_asistencia" : 745,
+		"fecha" : "2025-07-09 15:07:27",
+		"alumno_id" : 316,
+		"clase_id" : 627,
+		"sede_id" : 403
+	},
+	{
+		"id_asistencia" : 746,
+		"fecha" : "2025-09-30 12:17:31",
+		"alumno_id" : 806,
+		"clase_id" : 555,
+		"sede_id" : 711
+	},
+	{
+		"id_asistencia" : 747,
+		"fecha" : "2025-07-11 10:16:27",
+		"alumno_id" : 428,
+		"clase_id" : 406,
+		"sede_id" : 35
+	},
+	{
+		"id_asistencia" : 748,
+		"fecha" : "2025-08-28 08:20:15",
+		"alumno_id" : 596,
+		"clase_id" : 16,
+		"sede_id" : 23
+	},
+	{
+		"id_asistencia" : 749,
+		"fecha" : "2025-08-15 01:43:36",
+		"alumno_id" : 470,
+		"clase_id" : 959,
+		"sede_id" : 983
+	},
+	{
+		"id_asistencia" : 750,
+		"fecha" : "2025-09-30 01:50:39",
+		"alumno_id" : 993,
+		"clase_id" : 604,
+		"sede_id" : 372
+	},
+	{
+		"id_asistencia" : 751,
+		"fecha" : "2025-07-23 12:07:15",
+		"alumno_id" : 146,
+		"clase_id" : 917,
+		"sede_id" : 170
+	},
+	{
+		"id_asistencia" : 752,
+		"fecha" : "2025-07-30 08:51:33",
+		"alumno_id" : 67,
+		"clase_id" : 279,
+		"sede_id" : 681
+	},
+	{
+		"id_asistencia" : 753,
+		"fecha" : "2025-07-25 18:39:59",
+		"alumno_id" : 287,
+		"clase_id" : 487,
+		"sede_id" : 974
+	},
+	{
+		"id_asistencia" : 754,
+		"fecha" : "2025-08-08 12:00:55",
+		"alumno_id" : 27,
+		"clase_id" : 355,
+		"sede_id" : 725
+	},
+	{
+		"id_asistencia" : 755,
+		"fecha" : "2025-07-11 11:07:41",
+		"alumno_id" : 589,
+		"clase_id" : 867,
+		"sede_id" : 591
+	},
+	{
+		"id_asistencia" : 756,
+		"fecha" : "2025-07-20 06:27:45",
+		"alumno_id" : 289,
+		"clase_id" : 573,
+		"sede_id" : 427
+	},
+	{
+		"id_asistencia" : 757,
+		"fecha" : "2025-08-31 20:06:34",
+		"alumno_id" : 31,
+		"clase_id" : 742,
+		"sede_id" : 846
+	},
+	{
+		"id_asistencia" : 758,
+		"fecha" : "2025-07-14 22:36:39",
+		"alumno_id" : 923,
+		"clase_id" : 604,
+		"sede_id" : 251
+	},
+	{
+		"id_asistencia" : 759,
+		"fecha" : "2025-09-29 23:44:19",
+		"alumno_id" : 99,
+		"clase_id" : 986,
+		"sede_id" : 62
+	},
+	{
+		"id_asistencia" : 760,
+		"fecha" : "2025-07-27 00:30:14",
+		"alumno_id" : 155,
+		"clase_id" : 300,
+		"sede_id" : 227
+	},
+	{
+		"id_asistencia" : 761,
+		"fecha" : "2025-07-19 10:36:29",
+		"alumno_id" : 844,
+		"clase_id" : 242,
+		"sede_id" : 524
+	},
+	{
+		"id_asistencia" : 762,
+		"fecha" : "2025-08-04 00:54:32",
+		"alumno_id" : 1,
+		"clase_id" : 345,
+		"sede_id" : 56
+	},
+	{
+		"id_asistencia" : 763,
+		"fecha" : "2025-07-31 18:33:09",
+		"alumno_id" : 438,
+		"clase_id" : 776,
+		"sede_id" : 428
+	},
+	{
+		"id_asistencia" : 764,
+		"fecha" : "2025-07-16 18:50:07",
+		"alumno_id" : 818,
+		"clase_id" : 448,
+		"sede_id" : 312
+	},
+	{
+		"id_asistencia" : 765,
+		"fecha" : "2025-09-09 20:23:27",
+		"alumno_id" : 814,
+		"clase_id" : 162,
+		"sede_id" : 180
+	},
+	{
+		"id_asistencia" : 766,
+		"fecha" : "2025-08-01 10:04:26",
+		"alumno_id" : 633,
+		"clase_id" : 534,
+		"sede_id" : 456
+	},
+	{
+		"id_asistencia" : 767,
+		"fecha" : "2025-07-17 05:27:18",
+		"alumno_id" : 136,
+		"clase_id" : 433,
+		"sede_id" : 365
+	},
+	{
+		"id_asistencia" : 768,
+		"fecha" : "2025-10-02 03:14:59",
+		"alumno_id" : 130,
+		"clase_id" : 639,
+		"sede_id" : 744
+	},
+	{
+		"id_asistencia" : 769,
+		"fecha" : "2025-09-23 15:39:17",
+		"alumno_id" : 468,
+		"clase_id" : 614,
+		"sede_id" : 487
+	},
+	{
+		"id_asistencia" : 770,
+		"fecha" : "2025-07-31 19:51:55",
+		"alumno_id" : 511,
+		"clase_id" : 642,
+		"sede_id" : 855
+	},
+	{
+		"id_asistencia" : 771,
+		"fecha" : "2025-09-29 19:06:52",
+		"alumno_id" : 350,
+		"clase_id" : 490,
+		"sede_id" : 451
+	},
+	{
+		"id_asistencia" : 772,
+		"fecha" : "2025-08-06 01:32:56",
+		"alumno_id" : 375,
+		"clase_id" : 288,
+		"sede_id" : 166
+	},
+	{
+		"id_asistencia" : 773,
+		"fecha" : "2025-07-25 15:46:21",
+		"alumno_id" : 771,
+		"clase_id" : 637,
+		"sede_id" : 741
+	},
+	{
+		"id_asistencia" : 774,
+		"fecha" : "2025-08-12 04:17:10",
+		"alumno_id" : 665,
+		"clase_id" : 383,
+		"sede_id" : 594
+	},
+	{
+		"id_asistencia" : 775,
+		"fecha" : "2025-07-17 09:35:32",
+		"alumno_id" : 395,
+		"clase_id" : 93,
+		"sede_id" : 116
+	},
+	{
+		"id_asistencia" : 776,
+		"fecha" : "2025-07-20 15:01:58",
+		"alumno_id" : 931,
+		"clase_id" : 622,
+		"sede_id" : 858
+	},
+	{
+		"id_asistencia" : 777,
+		"fecha" : "2025-08-06 04:51:24",
+		"alumno_id" : 989,
+		"clase_id" : 208,
+		"sede_id" : 365
+	},
+	{
+		"id_asistencia" : 778,
+		"fecha" : "2025-07-16 17:30:31",
+		"alumno_id" : 531,
+		"clase_id" : 560,
+		"sede_id" : 414
+	},
+	{
+		"id_asistencia" : 779,
+		"fecha" : "2025-07-17 01:10:00",
+		"alumno_id" : 945,
+		"clase_id" : 628,
+		"sede_id" : 854
+	},
+	{
+		"id_asistencia" : 780,
+		"fecha" : "2025-07-24 11:22:15",
+		"alumno_id" : 809,
+		"clase_id" : 459,
+		"sede_id" : 382
+	},
+	{
+		"id_asistencia" : 781,
+		"fecha" : "2025-09-09 19:29:29",
+		"alumno_id" : 380,
+		"clase_id" : 894,
+		"sede_id" : 384
+	},
+	{
+		"id_asistencia" : 782,
+		"fecha" : "2025-08-26 12:00:15",
+		"alumno_id" : 941,
+		"clase_id" : 529,
+		"sede_id" : 262
+	},
+	{
+		"id_asistencia" : 783,
+		"fecha" : "2025-07-22 13:19:27",
+		"alumno_id" : 529,
+		"clase_id" : 657,
+		"sede_id" : 88
+	},
+	{
+		"id_asistencia" : 784,
+		"fecha" : "2025-07-22 12:53:20",
+		"alumno_id" : 418,
+		"clase_id" : 455,
+		"sede_id" : 609
+	},
+	{
+		"id_asistencia" : 785,
+		"fecha" : "2025-09-22 13:18:49",
+		"alumno_id" : 127,
+		"clase_id" : 648,
+		"sede_id" : 976
+	},
+	{
+		"id_asistencia" : 786,
+		"fecha" : "2025-08-14 11:20:34",
+		"alumno_id" : 423,
+		"clase_id" : 581,
+		"sede_id" : 763
+	},
+	{
+		"id_asistencia" : 787,
+		"fecha" : "2025-08-14 18:06:33",
+		"alumno_id" : 950,
+		"clase_id" : 458,
+		"sede_id" : 822
+	},
+	{
+		"id_asistencia" : 788,
+		"fecha" : "2025-08-08 00:48:33",
+		"alumno_id" : 513,
+		"clase_id" : 911,
+		"sede_id" : 626
+	},
+	{
+		"id_asistencia" : 789,
+		"fecha" : "2025-07-20 21:51:51",
+		"alumno_id" : 427,
+		"clase_id" : 724,
+		"sede_id" : 735
+	},
+	{
+		"id_asistencia" : 790,
+		"fecha" : "2025-07-11 15:12:30",
+		"alumno_id" : 551,
+		"clase_id" : 508,
+		"sede_id" : 742
+	},
+	{
+		"id_asistencia" : 791,
+		"fecha" : "2025-07-28 18:22:54",
+		"alumno_id" : 712,
+		"clase_id" : 150,
+		"sede_id" : 1003
+	},
+	{
+		"id_asistencia" : 792,
+		"fecha" : "2025-09-26 15:21:19",
+		"alumno_id" : 242,
+		"clase_id" : 760,
+		"sede_id" : 34
+	},
+	{
+		"id_asistencia" : 793,
+		"fecha" : "2025-09-25 08:25:39",
+		"alumno_id" : 81,
+		"clase_id" : 211,
+		"sede_id" : 445
+	},
+	{
+		"id_asistencia" : 794,
+		"fecha" : "2025-08-30 13:42:04",
+		"alumno_id" : 69,
+		"clase_id" : 438,
+		"sede_id" : 814
+	},
+	{
+		"id_asistencia" : 795,
+		"fecha" : "2025-09-18 05:00:40",
+		"alumno_id" : 490,
+		"clase_id" : 180,
+		"sede_id" : 294
+	},
+	{
+		"id_asistencia" : 796,
+		"fecha" : "2025-09-03 00:25:48",
+		"alumno_id" : 461,
+		"clase_id" : 122,
+		"sede_id" : 693
+	},
+	{
+		"id_asistencia" : 797,
+		"fecha" : "2025-09-21 00:19:23",
+		"alumno_id" : 496,
+		"clase_id" : 225,
+		"sede_id" : 493
+	},
+	{
+		"id_asistencia" : 798,
+		"fecha" : "2025-07-26 18:55:10",
+		"alumno_id" : 727,
+		"clase_id" : 209,
+		"sede_id" : 447
+	},
+	{
+		"id_asistencia" : 799,
+		"fecha" : "2025-07-10 13:38:44",
+		"alumno_id" : 442,
+		"clase_id" : 39,
+		"sede_id" : 783
+	},
+	{
+		"id_asistencia" : 800,
+		"fecha" : "2025-07-22 04:41:48",
+		"alumno_id" : 637,
+		"clase_id" : 345,
+		"sede_id" : 951
+	},
+	{
+		"id_asistencia" : 801,
+		"fecha" : "2025-08-17 14:20:54",
+		"alumno_id" : 729,
+		"clase_id" : 547,
+		"sede_id" : 849
+	},
+	{
+		"id_asistencia" : 802,
+		"fecha" : "2025-09-07 13:17:20",
+		"alumno_id" : 140,
+		"clase_id" : 132,
+		"sede_id" : 102
+	},
+	{
+		"id_asistencia" : 803,
+		"fecha" : "2025-07-13 13:00:46",
+		"alumno_id" : 954,
+		"clase_id" : 8,
+		"sede_id" : 304
+	},
+	{
+		"id_asistencia" : 804,
+		"fecha" : "2025-09-18 01:59:04",
+		"alumno_id" : 605,
+		"clase_id" : 188,
+		"sede_id" : 989
+	},
+	{
+		"id_asistencia" : 805,
+		"fecha" : "2025-09-17 15:36:13",
+		"alumno_id" : 541,
+		"clase_id" : 694,
+		"sede_id" : 86
+	},
+	{
+		"id_asistencia" : 806,
+		"fecha" : "2025-07-20 17:32:34",
+		"alumno_id" : 308,
+		"clase_id" : 248,
+		"sede_id" : 162
+	},
+	{
+		"id_asistencia" : 807,
+		"fecha" : "2025-08-28 02:09:54",
+		"alumno_id" : 585,
+		"clase_id" : 546,
+		"sede_id" : 673
+	},
+	{
+		"id_asistencia" : 808,
+		"fecha" : "2025-08-06 21:30:40",
+		"alumno_id" : 773,
+		"clase_id" : 938,
+		"sede_id" : 256
+	},
+	{
+		"id_asistencia" : 809,
+		"fecha" : "2025-08-05 14:20:08",
+		"alumno_id" : 796,
+		"clase_id" : 295,
+		"sede_id" : 480
+	},
+	{
+		"id_asistencia" : 810,
+		"fecha" : "2025-09-09 02:37:49",
+		"alumno_id" : 944,
+		"clase_id" : 722,
+		"sede_id" : 400
+	},
+	{
+		"id_asistencia" : 811,
+		"fecha" : "2025-07-16 23:05:53",
+		"alumno_id" : 480,
+		"clase_id" : 358,
+		"sede_id" : 545
+	},
+	{
+		"id_asistencia" : 812,
+		"fecha" : "2025-08-31 06:16:32",
+		"alumno_id" : 501,
+		"clase_id" : 995,
+		"sede_id" : 123
+	},
+	{
+		"id_asistencia" : 813,
+		"fecha" : "2025-09-28 04:45:26",
+		"alumno_id" : 309,
+		"clase_id" : 192,
+		"sede_id" : 324
+	},
+	{
+		"id_asistencia" : 814,
+		"fecha" : "2025-09-28 22:44:29",
+		"alumno_id" : 785,
+		"clase_id" : 376,
+		"sede_id" : 210
+	},
+	{
+		"id_asistencia" : 815,
+		"fecha" : "2025-08-13 22:39:13",
+		"alumno_id" : 959,
+		"clase_id" : 635,
+		"sede_id" : 536
+	},
+	{
+		"id_asistencia" : 816,
+		"fecha" : "2025-08-15 18:23:55",
+		"alumno_id" : 738,
+		"clase_id" : 260,
+		"sede_id" : 150
+	},
+	{
+		"id_asistencia" : 817,
+		"fecha" : "2025-08-26 22:09:03",
+		"alumno_id" : 422,
+		"clase_id" : 580,
+		"sede_id" : 783
+	},
+	{
+		"id_asistencia" : 818,
+		"fecha" : "2025-08-14 17:23:48",
+		"alumno_id" : 976,
+		"clase_id" : 688,
+		"sede_id" : 839
+	},
+	{
+		"id_asistencia" : 819,
+		"fecha" : "2025-09-12 20:55:30",
+		"alumno_id" : 981,
+		"clase_id" : 356,
+		"sede_id" : 576
+	},
+	{
+		"id_asistencia" : 820,
+		"fecha" : "2025-09-12 09:47:23",
+		"alumno_id" : 210,
+		"clase_id" : 143,
+		"sede_id" : 751
+	},
+	{
+		"id_asistencia" : 821,
+		"fecha" : "2025-07-15 07:01:50",
+		"alumno_id" : 344,
+		"clase_id" : 31,
+		"sede_id" : 996
+	},
+	{
+		"id_asistencia" : 822,
+		"fecha" : "2025-09-28 21:34:53",
+		"alumno_id" : 472,
+		"clase_id" : 995,
+		"sede_id" : 898
+	},
+	{
+		"id_asistencia" : 823,
+		"fecha" : "2025-09-21 19:30:31",
+		"alumno_id" : 226,
+		"clase_id" : 233,
+		"sede_id" : 50
+	},
+	{
+		"id_asistencia" : 824,
+		"fecha" : "2025-08-28 15:24:36",
+		"alumno_id" : 712,
+		"clase_id" : 535,
+		"sede_id" : 761
+	},
+	{
+		"id_asistencia" : 825,
+		"fecha" : "2025-08-26 13:28:31",
+		"alumno_id" : 790,
+		"clase_id" : 678,
+		"sede_id" : 600
+	},
+	{
+		"id_asistencia" : 826,
+		"fecha" : "2025-07-29 22:27:37",
+		"alumno_id" : 652,
+		"clase_id" : 965,
+		"sede_id" : 328
+	},
+	{
+		"id_asistencia" : 827,
+		"fecha" : "2025-07-15 15:50:04",
+		"alumno_id" : 546,
+		"clase_id" : 216,
+		"sede_id" : 860
+	},
+	{
+		"id_asistencia" : 828,
+		"fecha" : "2025-07-31 19:03:45",
+		"alumno_id" : 682,
+		"clase_id" : 671,
+		"sede_id" : 860
+	},
+	{
+		"id_asistencia" : 829,
+		"fecha" : "2025-09-30 10:08:53",
+		"alumno_id" : 540,
+		"clase_id" : 867,
+		"sede_id" : 932
+	},
+	{
+		"id_asistencia" : 830,
+		"fecha" : "2025-08-03 16:17:09",
+		"alumno_id" : 36,
+		"clase_id" : 226,
+		"sede_id" : 189
+	},
+	{
+		"id_asistencia" : 831,
+		"fecha" : "2025-07-22 03:21:48",
+		"alumno_id" : 379,
+		"clase_id" : 404,
+		"sede_id" : 539
+	},
+	{
+		"id_asistencia" : 832,
+		"fecha" : "2025-09-21 16:04:11",
+		"alumno_id" : 569,
+		"clase_id" : 136,
+		"sede_id" : 926
+	},
+	{
+		"id_asistencia" : 833,
+		"fecha" : "2025-08-30 08:12:07",
+		"alumno_id" : 121,
+		"clase_id" : 718,
+		"sede_id" : 620
+	},
+	{
+		"id_asistencia" : 834,
+		"fecha" : "2025-08-09 03:15:24",
+		"alumno_id" : 967,
+		"clase_id" : 779,
+		"sede_id" : 263
+	},
+	{
+		"id_asistencia" : 835,
+		"fecha" : "2025-09-19 20:15:04",
+		"alumno_id" : 842,
+		"clase_id" : 889,
+		"sede_id" : 436
+	},
+	{
+		"id_asistencia" : 836,
+		"fecha" : "2025-10-03 19:23:24",
+		"alumno_id" : 720,
+		"clase_id" : 175,
+		"sede_id" : 853
+	},
+	{
+		"id_asistencia" : 837,
+		"fecha" : "2025-08-05 13:45:53",
+		"alumno_id" : 89,
+		"clase_id" : 278,
+		"sede_id" : 908
+	},
+	{
+		"id_asistencia" : 838,
+		"fecha" : "2025-09-02 17:44:34",
+		"alumno_id" : 751,
+		"clase_id" : 482,
+		"sede_id" : 876
+	},
+	{
+		"id_asistencia" : 839,
+		"fecha" : "2025-07-10 13:38:28",
+		"alumno_id" : 932,
+		"clase_id" : 415,
+		"sede_id" : 211
+	},
+	{
+		"id_asistencia" : 840,
+		"fecha" : "2025-09-25 10:36:36",
+		"alumno_id" : 447,
+		"clase_id" : 314,
+		"sede_id" : 210
+	},
+	{
+		"id_asistencia" : 841,
+		"fecha" : "2025-08-05 08:29:38",
+		"alumno_id" : 215,
+		"clase_id" : 42,
+		"sede_id" : 775
+	},
+	{
+		"id_asistencia" : 842,
+		"fecha" : "2025-07-26 09:58:08",
+		"alumno_id" : 39,
+		"clase_id" : 151,
+		"sede_id" : 47
+	},
+	{
+		"id_asistencia" : 843,
+		"fecha" : "2025-07-25 15:30:12",
+		"alumno_id" : 118,
+		"clase_id" : 534,
+		"sede_id" : 144
+	},
+	{
+		"id_asistencia" : 844,
+		"fecha" : "2025-09-08 04:33:36",
+		"alumno_id" : 197,
+		"clase_id" : 402,
+		"sede_id" : 388
+	},
+	{
+		"id_asistencia" : 845,
+		"fecha" : "2025-08-05 04:55:15",
+		"alumno_id" : 22,
+		"clase_id" : 43,
+		"sede_id" : 926
+	},
+	{
+		"id_asistencia" : 846,
+		"fecha" : "2025-09-13 12:09:19",
+		"alumno_id" : 970,
+		"clase_id" : 284,
+		"sede_id" : 495
+	},
+	{
+		"id_asistencia" : 847,
+		"fecha" : "2025-08-03 19:53:32",
+		"alumno_id" : 432,
+		"clase_id" : 878,
+		"sede_id" : 103
+	},
+	{
+		"id_asistencia" : 848,
+		"fecha" : "2025-09-02 05:45:30",
+		"alumno_id" : 415,
+		"clase_id" : 567,
+		"sede_id" : 308
+	},
+	{
+		"id_asistencia" : 849,
+		"fecha" : "2025-08-02 01:07:01",
+		"alumno_id" : 328,
+		"clase_id" : 465,
+		"sede_id" : 897
+	},
+	{
+		"id_asistencia" : 850,
+		"fecha" : "2025-08-02 11:30:19",
+		"alumno_id" : 12,
+		"clase_id" : 136,
+		"sede_id" : 359
+	},
+	{
+		"id_asistencia" : 851,
+		"fecha" : "2025-09-02 21:24:24",
+		"alumno_id" : 341,
+		"clase_id" : 63,
+		"sede_id" : 378
+	},
+	{
+		"id_asistencia" : 852,
+		"fecha" : "2025-07-26 22:51:01",
+		"alumno_id" : 6,
+		"clase_id" : 702,
+		"sede_id" : 871
+	},
+	{
+		"id_asistencia" : 853,
+		"fecha" : "2025-09-28 08:37:54",
+		"alumno_id" : 673,
+		"clase_id" : 806,
+		"sede_id" : 129
+	},
+	{
+		"id_asistencia" : 854,
+		"fecha" : "2025-10-01 11:04:11",
+		"alumno_id" : 138,
+		"clase_id" : 560,
+		"sede_id" : 878
+	},
+	{
+		"id_asistencia" : 855,
+		"fecha" : "2025-08-30 00:03:10",
+		"alumno_id" : 968,
+		"clase_id" : 63,
+		"sede_id" : 644
+	},
+	{
+		"id_asistencia" : 856,
+		"fecha" : "2025-09-17 20:19:38",
+		"alumno_id" : 946,
+		"clase_id" : 103,
+		"sede_id" : 473
+	},
+	{
+		"id_asistencia" : 857,
+		"fecha" : "2025-09-06 03:43:19",
+		"alumno_id" : 175,
+		"clase_id" : 360,
+		"sede_id" : 217
+	},
+	{
+		"id_asistencia" : 858,
+		"fecha" : "2025-08-02 05:39:52",
+		"alumno_id" : 813,
+		"clase_id" : 593,
+		"sede_id" : 778
+	},
+	{
+		"id_asistencia" : 859,
+		"fecha" : "2025-09-09 05:42:37",
+		"alumno_id" : 389,
+		"clase_id" : 720,
+		"sede_id" : 416
+	},
+	{
+		"id_asistencia" : 860,
+		"fecha" : "2025-09-13 22:44:56",
+		"alumno_id" : 993,
+		"clase_id" : 400,
+		"sede_id" : 701
+	},
+	{
+		"id_asistencia" : 861,
+		"fecha" : "2025-07-14 04:10:23",
+		"alumno_id" : 163,
+		"clase_id" : 732,
+		"sede_id" : 275
+	},
+	{
+		"id_asistencia" : 862,
+		"fecha" : "2025-07-14 04:47:09",
+		"alumno_id" : 419,
+		"clase_id" : 145,
+		"sede_id" : 950
+	},
+	{
+		"id_asistencia" : 863,
+		"fecha" : "2025-09-24 21:47:46",
+		"alumno_id" : 1000,
+		"clase_id" : 485,
+		"sede_id" : 220
+	},
+	{
+		"id_asistencia" : 864,
+		"fecha" : "2025-07-15 00:21:35",
+		"alumno_id" : 310,
+		"clase_id" : 961,
+		"sede_id" : 971
+	},
+	{
+		"id_asistencia" : 865,
+		"fecha" : "2025-08-02 05:28:53",
+		"alumno_id" : 141,
+		"clase_id" : 414,
+		"sede_id" : 374
+	},
+	{
+		"id_asistencia" : 866,
+		"fecha" : "2025-07-15 19:27:42",
+		"alumno_id" : 76,
+		"clase_id" : 652,
+		"sede_id" : 841
+	},
+	{
+		"id_asistencia" : 867,
+		"fecha" : "2025-08-06 08:05:45",
+		"alumno_id" : 308,
+		"clase_id" : 124,
+		"sede_id" : 479
+	},
+	{
+		"id_asistencia" : 868,
+		"fecha" : "2025-07-13 18:33:09",
+		"alumno_id" : 122,
+		"clase_id" : 169,
+		"sede_id" : 248
+	},
+	{
+		"id_asistencia" : 869,
+		"fecha" : "2025-09-16 19:32:43",
+		"alumno_id" : 750,
+		"clase_id" : 178,
+		"sede_id" : 782
+	},
+	{
+		"id_asistencia" : 870,
+		"fecha" : "2025-08-15 04:18:12",
+		"alumno_id" : 17,
+		"clase_id" : 141,
+		"sede_id" : 438
+	},
+	{
+		"id_asistencia" : 871,
+		"fecha" : "2025-09-03 16:52:27",
+		"alumno_id" : 31,
+		"clase_id" : 567,
+		"sede_id" : 421
+	},
+	{
+		"id_asistencia" : 872,
+		"fecha" : "2025-09-17 10:37:52",
+		"alumno_id" : 750,
+		"clase_id" : 717,
+		"sede_id" : 766
+	},
+	{
+		"id_asistencia" : 873,
+		"fecha" : "2025-07-10 14:43:53",
+		"alumno_id" : 842,
+		"clase_id" : 650,
+		"sede_id" : 502
+	},
+	{
+		"id_asistencia" : 874,
+		"fecha" : "2025-08-05 00:02:46",
+		"alumno_id" : 296,
+		"clase_id" : 238,
+		"sede_id" : 409
+	},
+	{
+		"id_asistencia" : 875,
+		"fecha" : "2025-08-13 15:11:07",
+		"alumno_id" : 28,
+		"clase_id" : 843,
+		"sede_id" : 767
+	},
+	{
+		"id_asistencia" : 876,
+		"fecha" : "2025-09-23 20:06:42",
+		"alumno_id" : 828,
+		"clase_id" : 50,
+		"sede_id" : 551
+	},
+	{
+		"id_asistencia" : 877,
+		"fecha" : "2025-07-29 09:08:34",
+		"alumno_id" : 729,
+		"clase_id" : 957,
+		"sede_id" : 378
+	},
+	{
+		"id_asistencia" : 878,
+		"fecha" : "2025-09-28 00:23:35",
+		"alumno_id" : 656,
+		"clase_id" : 231,
+		"sede_id" : 667
+	},
+	{
+		"id_asistencia" : 879,
+		"fecha" : "2025-09-07 20:52:47",
+		"alumno_id" : 969,
+		"clase_id" : 121,
+		"sede_id" : 835
+	},
+	{
+		"id_asistencia" : 880,
+		"fecha" : "2025-09-21 12:42:02",
+		"alumno_id" : 549,
+		"clase_id" : 650,
+		"sede_id" : 879
+	},
+	{
+		"id_asistencia" : 881,
+		"fecha" : "2025-08-16 06:04:24",
+		"alumno_id" : 741,
+		"clase_id" : 69,
+		"sede_id" : 590
+	},
+	{
+		"id_asistencia" : 882,
+		"fecha" : "2025-08-25 17:53:37",
+		"alumno_id" : 763,
+		"clase_id" : 255,
+		"sede_id" : 929
+	},
+	{
+		"id_asistencia" : 883,
+		"fecha" : "2025-07-19 23:42:13",
+		"alumno_id" : 422,
+		"clase_id" : 47,
+		"sede_id" : 604
+	},
+	{
+		"id_asistencia" : 884,
+		"fecha" : "2025-08-10 10:52:04",
+		"alumno_id" : 223,
+		"clase_id" : 381,
+		"sede_id" : 308
+	},
+	{
+		"id_asistencia" : 885,
+		"fecha" : "2025-07-28 01:49:00",
+		"alumno_id" : 649,
+		"clase_id" : 107,
+		"sede_id" : 935
+	},
+	{
+		"id_asistencia" : 886,
+		"fecha" : "2025-07-25 11:16:42",
+		"alumno_id" : 121,
+		"clase_id" : 430,
+		"sede_id" : 354
+	},
+	{
+		"id_asistencia" : 887,
+		"fecha" : "2025-07-11 08:38:46",
+		"alumno_id" : 240,
+		"clase_id" : 457,
+		"sede_id" : 788
+	},
+	{
+		"id_asistencia" : 888,
+		"fecha" : "2025-07-17 00:21:50",
+		"alumno_id" : 750,
+		"clase_id" : 143,
+		"sede_id" : 317
+	},
+	{
+		"id_asistencia" : 889,
+		"fecha" : "2025-10-03 15:20:34",
+		"alumno_id" : 151,
+		"clase_id" : 830,
+		"sede_id" : 861
+	},
+	{
+		"id_asistencia" : 890,
+		"fecha" : "2025-08-29 17:58:56",
+		"alumno_id" : 316,
+		"clase_id" : 875,
+		"sede_id" : 603
+	},
+	{
+		"id_asistencia" : 891,
+		"fecha" : "2025-08-25 08:09:48",
+		"alumno_id" : 61,
+		"clase_id" : 683,
+		"sede_id" : 110
+	},
+	{
+		"id_asistencia" : 892,
+		"fecha" : "2025-07-29 17:06:08",
+		"alumno_id" : 403,
+		"clase_id" : 124,
+		"sede_id" : 482
+	},
+	{
+		"id_asistencia" : 893,
+		"fecha" : "2025-08-03 18:58:21",
+		"alumno_id" : 498,
+		"clase_id" : 973,
+		"sede_id" : 447
+	},
+	{
+		"id_asistencia" : 894,
+		"fecha" : "2025-08-24 11:31:11",
+		"alumno_id" : 928,
+		"clase_id" : 608,
+		"sede_id" : 1002
+	},
+	{
+		"id_asistencia" : 895,
+		"fecha" : "2025-07-23 06:11:47",
+		"alumno_id" : 608,
+		"clase_id" : 578,
+		"sede_id" : 187
+	},
+	{
+		"id_asistencia" : 896,
+		"fecha" : "2025-08-10 22:54:48",
+		"alumno_id" : 680,
+		"clase_id" : 853,
+		"sede_id" : 56
+	},
+	{
+		"id_asistencia" : 897,
+		"fecha" : "2025-08-26 07:19:15",
+		"alumno_id" : 50,
+		"clase_id" : 551,
+		"sede_id" : 474
+	},
+	{
+		"id_asistencia" : 898,
+		"fecha" : "2025-07-14 02:05:21",
+		"alumno_id" : 934,
+		"clase_id" : 187,
+		"sede_id" : 898
+	},
+	{
+		"id_asistencia" : 899,
+		"fecha" : "2025-09-13 06:56:17",
+		"alumno_id" : 695,
+		"clase_id" : 644,
+		"sede_id" : 701
+	},
+	{
+		"id_asistencia" : 900,
+		"fecha" : "2025-07-08 01:17:45",
+		"alumno_id" : 187,
+		"clase_id" : 8,
+		"sede_id" : 387
+	},
+	{
+		"id_asistencia" : 901,
+		"fecha" : "2025-09-15 12:25:09",
+		"alumno_id" : 602,
+		"clase_id" : 79,
+		"sede_id" : 297
+	},
+	{
+		"id_asistencia" : 902,
+		"fecha" : "2025-09-24 02:36:18",
+		"alumno_id" : 315,
+		"clase_id" : 619,
+		"sede_id" : 899
+	},
+	{
+		"id_asistencia" : 903,
+		"fecha" : "2025-07-27 12:23:40",
+		"alumno_id" : 922,
+		"clase_id" : 965,
+		"sede_id" : 482
+	},
+	{
+		"id_asistencia" : 904,
+		"fecha" : "2025-08-28 09:13:04",
+		"alumno_id" : 640,
+		"clase_id" : 635,
+		"sede_id" : 80
+	},
+	{
+		"id_asistencia" : 905,
+		"fecha" : "2025-10-04 03:12:53",
+		"alumno_id" : 377,
+		"clase_id" : 513,
+		"sede_id" : 89
+	},
+	{
+		"id_asistencia" : 906,
+		"fecha" : "2025-08-27 20:28:29",
+		"alumno_id" : 454,
+		"clase_id" : 136,
+		"sede_id" : 814
+	},
+	{
+		"id_asistencia" : 907,
+		"fecha" : "2025-09-07 13:29:44",
+		"alumno_id" : 323,
+		"clase_id" : 377,
+		"sede_id" : 897
+	},
+	{
+		"id_asistencia" : 908,
+		"fecha" : "2025-09-11 00:10:06",
+		"alumno_id" : 729,
+		"clase_id" : 766,
+		"sede_id" : 1009
+	},
+	{
+		"id_asistencia" : 909,
+		"fecha" : "2025-08-07 03:00:27",
+		"alumno_id" : 888,
+		"clase_id" : 702,
+		"sede_id" : 720
+	},
+	{
+		"id_asistencia" : 910,
+		"fecha" : "2025-08-06 13:30:05",
+		"alumno_id" : 48,
+		"clase_id" : 966,
+		"sede_id" : 924
+	},
+	{
+		"id_asistencia" : 911,
+		"fecha" : "2025-09-20 21:07:19",
+		"alumno_id" : 601,
+		"clase_id" : 709,
+		"sede_id" : 207
+	},
+	{
+		"id_asistencia" : 912,
+		"fecha" : "2025-09-04 21:18:01",
+		"alumno_id" : 856,
+		"clase_id" : 171,
+		"sede_id" : 415
+	},
+	{
+		"id_asistencia" : 913,
+		"fecha" : "2025-07-16 16:12:03",
+		"alumno_id" : 213,
+		"clase_id" : 596,
+		"sede_id" : 390
+	},
+	{
+		"id_asistencia" : 914,
+		"fecha" : "2025-08-13 12:40:21",
+		"alumno_id" : 966,
+		"clase_id" : 693,
+		"sede_id" : 482
+	},
+	{
+		"id_asistencia" : 915,
+		"fecha" : "2025-09-05 00:14:36",
+		"alumno_id" : 590,
+		"clase_id" : 592,
+		"sede_id" : 219
+	},
+	{
+		"id_asistencia" : 916,
+		"fecha" : "2025-09-07 17:26:45",
+		"alumno_id" : 444,
+		"clase_id" : 650,
+		"sede_id" : 898
+	},
+	{
+		"id_asistencia" : 917,
+		"fecha" : "2025-08-20 16:02:33",
+		"alumno_id" : 628,
+		"clase_id" : 871,
+		"sede_id" : 937
+	},
+	{
+		"id_asistencia" : 918,
+		"fecha" : "2025-08-25 12:54:45",
+		"alumno_id" : 748,
+		"clase_id" : 300,
+		"sede_id" : 1016
+	},
+	{
+		"id_asistencia" : 919,
+		"fecha" : "2025-09-28 21:15:41",
+		"alumno_id" : 899,
+		"clase_id" : 884,
+		"sede_id" : 633
+	},
+	{
+		"id_asistencia" : 920,
+		"fecha" : "2025-08-19 06:38:46",
+		"alumno_id" : 858,
+		"clase_id" : 354,
+		"sede_id" : 693
+	},
+	{
+		"id_asistencia" : 921,
+		"fecha" : "2025-10-03 11:24:03",
+		"alumno_id" : 867,
+		"clase_id" : 905,
+		"sede_id" : 955
+	},
+	{
+		"id_asistencia" : 922,
+		"fecha" : "2025-08-08 02:36:33",
+		"alumno_id" : 570,
+		"clase_id" : 774,
+		"sede_id" : 175
+	},
+	{
+		"id_asistencia" : 923,
+		"fecha" : "2025-09-10 20:30:14",
+		"alumno_id" : 932,
+		"clase_id" : 939,
+		"sede_id" : 374
+	},
+	{
+		"id_asistencia" : 924,
+		"fecha" : "2025-09-23 18:28:25",
+		"alumno_id" : 162,
+		"clase_id" : 117,
+		"sede_id" : 56
+	},
+	{
+		"id_asistencia" : 925,
+		"fecha" : "2025-09-24 09:41:15",
+		"alumno_id" : 798,
+		"clase_id" : 313,
+		"sede_id" : 48
+	},
+	{
+		"id_asistencia" : 926,
+		"fecha" : "2025-09-23 21:44:03",
+		"alumno_id" : 991,
+		"clase_id" : 99,
+		"sede_id" : 303
+	},
+	{
+		"id_asistencia" : 927,
+		"fecha" : "2025-09-02 06:29:11",
+		"alumno_id" : 853,
+		"clase_id" : 67,
+		"sede_id" : 152
+	},
+	{
+		"id_asistencia" : 928,
+		"fecha" : "2025-08-27 11:16:11",
+		"alumno_id" : 432,
+		"clase_id" : 518,
+		"sede_id" : 428
+	},
+	{
+		"id_asistencia" : 929,
+		"fecha" : "2025-07-19 02:58:00",
+		"alumno_id" : 146,
+		"clase_id" : 180,
+		"sede_id" : 263
+	},
+	{
+		"id_asistencia" : 930,
+		"fecha" : "2025-07-09 10:17:12",
+		"alumno_id" : 50,
+		"clase_id" : 107,
+		"sede_id" : 922
+	},
+	{
+		"id_asistencia" : 931,
+		"fecha" : "2025-07-30 10:22:14",
+		"alumno_id" : 62,
+		"clase_id" : 756,
+		"sede_id" : 40
+	},
+	{
+		"id_asistencia" : 932,
+		"fecha" : "2025-08-18 17:07:09",
+		"alumno_id" : 147,
+		"clase_id" : 699,
+		"sede_id" : 212
+	},
+	{
+		"id_asistencia" : 933,
+		"fecha" : "2025-08-25 19:55:52",
+		"alumno_id" : 886,
+		"clase_id" : 549,
+		"sede_id" : 109
+	},
+	{
+		"id_asistencia" : 934,
+		"fecha" : "2025-07-29 04:48:04",
+		"alumno_id" : 759,
+		"clase_id" : 926,
+		"sede_id" : 203
+	},
+	{
+		"id_asistencia" : 935,
+		"fecha" : "2025-09-21 14:22:36",
+		"alumno_id" : 349,
+		"clase_id" : 74,
+		"sede_id" : 100
+	},
+	{
+		"id_asistencia" : 936,
+		"fecha" : "2025-07-26 18:28:23",
+		"alumno_id" : 299,
+		"clase_id" : 502,
+		"sede_id" : 807
+	},
+	{
+		"id_asistencia" : 937,
+		"fecha" : "2025-07-24 11:24:36",
+		"alumno_id" : 534,
+		"clase_id" : 89,
+		"sede_id" : 434
+	},
+	{
+		"id_asistencia" : 938,
+		"fecha" : "2025-09-22 14:56:49",
+		"alumno_id" : 595,
+		"clase_id" : 175,
+		"sede_id" : 458
+	},
+	{
+		"id_asistencia" : 939,
+		"fecha" : "2025-07-09 17:43:37",
+		"alumno_id" : 899,
+		"clase_id" : 244,
+		"sede_id" : 71
+	},
+	{
+		"id_asistencia" : 940,
+		"fecha" : "2025-08-21 06:41:32",
+		"alumno_id" : 624,
+		"clase_id" : 331,
+		"sede_id" : 761
+	},
+	{
+		"id_asistencia" : 941,
+		"fecha" : "2025-07-23 05:21:50",
+		"alumno_id" : 991,
+		"clase_id" : 207,
+		"sede_id" : 98
+	},
+	{
+		"id_asistencia" : 942,
+		"fecha" : "2025-08-08 08:05:43",
+		"alumno_id" : 679,
+		"clase_id" : 252,
+		"sede_id" : 593
+	},
+	{
+		"id_asistencia" : 943,
+		"fecha" : "2025-08-15 21:47:27",
+		"alumno_id" : 762,
+		"clase_id" : 48,
+		"sede_id" : 296
+	},
+	{
+		"id_asistencia" : 944,
+		"fecha" : "2025-08-26 00:29:28",
+		"alumno_id" : 850,
+		"clase_id" : 472,
+		"sede_id" : 203
+	},
+	{
+		"id_asistencia" : 945,
+		"fecha" : "2025-08-17 09:48:16",
+		"alumno_id" : 325,
+		"clase_id" : 435,
+		"sede_id" : 86
+	},
+	{
+		"id_asistencia" : 946,
+		"fecha" : "2025-07-26 13:33:13",
+		"alumno_id" : 777,
+		"clase_id" : 194,
+		"sede_id" : 875
+	},
+	{
+		"id_asistencia" : 947,
+		"fecha" : "2025-10-04 17:27:58",
+		"alumno_id" : 30,
+		"clase_id" : 605,
+		"sede_id" : 912
+	},
+	{
+		"id_asistencia" : 948,
+		"fecha" : "2025-08-30 09:18:50",
+		"alumno_id" : 649,
+		"clase_id" : 363,
+		"sede_id" : 108
+	},
+	{
+		"id_asistencia" : 949,
+		"fecha" : "2025-08-23 05:00:20",
+		"alumno_id" : 568,
+		"clase_id" : 642,
+		"sede_id" : 353
+	},
+	{
+		"id_asistencia" : 950,
+		"fecha" : "2025-09-26 01:28:04",
+		"alumno_id" : 758,
+		"clase_id" : 807,
+		"sede_id" : 713
+	},
+	{
+		"id_asistencia" : 951,
+		"fecha" : "2025-08-06 05:02:28",
+		"alumno_id" : 264,
+		"clase_id" : 244,
+		"sede_id" : 101
+	},
+	{
+		"id_asistencia" : 952,
+		"fecha" : "2025-08-13 02:20:17",
+		"alumno_id" : 199,
+		"clase_id" : 372,
+		"sede_id" : 38
+	},
+	{
+		"id_asistencia" : 953,
+		"fecha" : "2025-09-18 06:56:30",
+		"alumno_id" : 425,
+		"clase_id" : 287,
+		"sede_id" : 493
+	},
+	{
+		"id_asistencia" : 954,
+		"fecha" : "2025-08-20 19:31:50",
+		"alumno_id" : 515,
+		"clase_id" : 559,
+		"sede_id" : 704
+	},
+	{
+		"id_asistencia" : 955,
+		"fecha" : "2025-07-08 14:15:51",
+		"alumno_id" : 744,
+		"clase_id" : 213,
+		"sede_id" : 171
+	},
+	{
+		"id_asistencia" : 956,
+		"fecha" : "2025-09-21 03:25:44",
+		"alumno_id" : 728,
+		"clase_id" : 425,
+		"sede_id" : 52
+	},
+	{
+		"id_asistencia" : 957,
+		"fecha" : "2025-07-15 12:38:01",
+		"alumno_id" : 185,
+		"clase_id" : 269,
+		"sede_id" : 783
+	},
+	{
+		"id_asistencia" : 958,
+		"fecha" : "2025-09-05 01:13:08",
+		"alumno_id" : 551,
+		"clase_id" : 755,
+		"sede_id" : 983
+	},
+	{
+		"id_asistencia" : 959,
+		"fecha" : "2025-09-05 08:59:52",
+		"alumno_id" : 450,
+		"clase_id" : 293,
+		"sede_id" : 36
+	},
+	{
+		"id_asistencia" : 960,
+		"fecha" : "2025-08-24 06:14:19",
+		"alumno_id" : 762,
+		"clase_id" : 716,
+		"sede_id" : 654
+	},
+	{
+		"id_asistencia" : 961,
+		"fecha" : "2025-08-08 07:21:02",
+		"alumno_id" : 694,
+		"clase_id" : 212,
+		"sede_id" : 1010
+	},
+	{
+		"id_asistencia" : 962,
+		"fecha" : "2025-09-08 13:58:49",
+		"alumno_id" : 635,
+		"clase_id" : 715,
+		"sede_id" : 709
+	},
+	{
+		"id_asistencia" : 963,
+		"fecha" : "2025-10-01 09:53:31",
+		"alumno_id" : 396,
+		"clase_id" : 409,
+		"sede_id" : 885
+	},
+	{
+		"id_asistencia" : 964,
+		"fecha" : "2025-07-23 00:09:36",
+		"alumno_id" : 758,
+		"clase_id" : 181,
+		"sede_id" : 661
+	},
+	{
+		"id_asistencia" : 965,
+		"fecha" : "2025-08-11 12:24:18",
+		"alumno_id" : 242,
+		"clase_id" : 46,
+		"sede_id" : 620
+	},
+	{
+		"id_asistencia" : 966,
+		"fecha" : "2025-07-08 11:42:39",
+		"alumno_id" : 853,
+		"clase_id" : 846,
+		"sede_id" : 961
+	},
+	{
+		"id_asistencia" : 967,
+		"fecha" : "2025-08-31 20:21:10",
+		"alumno_id" : 743,
+		"clase_id" : 35,
+		"sede_id" : 540
+	},
+	{
+		"id_asistencia" : 968,
+		"fecha" : "2025-09-13 01:10:28",
+		"alumno_id" : 397,
+		"clase_id" : 331,
+		"sede_id" : 704
+	},
+	{
+		"id_asistencia" : 969,
+		"fecha" : "2025-09-08 07:42:16",
+		"alumno_id" : 541,
+		"clase_id" : 980,
+		"sede_id" : 298
+	},
+	{
+		"id_asistencia" : 970,
+		"fecha" : "2025-08-07 16:40:03",
+		"alumno_id" : 834,
+		"clase_id" : 219,
+		"sede_id" : 254
+	},
+	{
+		"id_asistencia" : 971,
+		"fecha" : "2025-07-29 00:41:53",
+		"alumno_id" : 902,
+		"clase_id" : 941,
+		"sede_id" : 485
+	},
+	{
+		"id_asistencia" : 972,
+		"fecha" : "2025-07-29 21:11:44",
+		"alumno_id" : 131,
+		"clase_id" : 134,
+		"sede_id" : 203
+	},
+	{
+		"id_asistencia" : 973,
+		"fecha" : "2025-07-23 02:49:13",
+		"alumno_id" : 967,
+		"clase_id" : 187,
+		"sede_id" : 773
+	},
+	{
+		"id_asistencia" : 974,
+		"fecha" : "2025-08-27 05:46:01",
+		"alumno_id" : 289,
+		"clase_id" : 992,
+		"sede_id" : 529
+	},
+	{
+		"id_asistencia" : 975,
+		"fecha" : "2025-09-23 22:38:47",
+		"alumno_id" : 250,
+		"clase_id" : 878,
+		"sede_id" : 291
+	},
+	{
+		"id_asistencia" : 976,
+		"fecha" : "2025-09-29 18:56:29",
+		"alumno_id" : 64,
+		"clase_id" : 604,
+		"sede_id" : 757
+	},
+	{
+		"id_asistencia" : 977,
+		"fecha" : "2025-08-14 17:30:24",
+		"alumno_id" : 132,
+		"clase_id" : 590,
+		"sede_id" : 132
+	},
+	{
+		"id_asistencia" : 978,
+		"fecha" : "2025-09-24 10:05:35",
+		"alumno_id" : 384,
+		"clase_id" : 59,
+		"sede_id" : 127
+	},
+	{
+		"id_asistencia" : 979,
+		"fecha" : "2025-08-01 00:37:02",
+		"alumno_id" : 518,
+		"clase_id" : 426,
+		"sede_id" : 994
+	},
+	{
+		"id_asistencia" : 980,
+		"fecha" : "2025-09-27 22:15:02",
+		"alumno_id" : 785,
+		"clase_id" : 328,
+		"sede_id" : 709
+	},
+	{
+		"id_asistencia" : 981,
+		"fecha" : "2025-09-15 08:47:36",
+		"alumno_id" : 793,
+		"clase_id" : 239,
+		"sede_id" : 397
+	},
+	{
+		"id_asistencia" : 982,
+		"fecha" : "2025-08-02 14:16:31",
+		"alumno_id" : 632,
+		"clase_id" : 50,
+		"sede_id" : 985
+	},
+	{
+		"id_asistencia" : 983,
+		"fecha" : "2025-08-02 19:10:30",
+		"alumno_id" : 416,
+		"clase_id" : 560,
+		"sede_id" : 940
+	},
+	{
+		"id_asistencia" : 984,
+		"fecha" : "2025-08-08 21:46:37",
+		"alumno_id" : 304,
+		"clase_id" : 225,
+		"sede_id" : 603
+	},
+	{
+		"id_asistencia" : 985,
+		"fecha" : "2025-09-28 04:46:02",
+		"alumno_id" : 800,
+		"clase_id" : 760,
+		"sede_id" : 799
+	},
+	{
+		"id_asistencia" : 986,
+		"fecha" : "2025-09-03 01:22:40",
+		"alumno_id" : 183,
+		"clase_id" : 687,
+		"sede_id" : 666
+	},
+	{
+		"id_asistencia" : 987,
+		"fecha" : "2025-07-10 01:13:59",
+		"alumno_id" : 225,
+		"clase_id" : 81,
+		"sede_id" : 171
+	},
+	{
+		"id_asistencia" : 988,
+		"fecha" : "2025-07-13 07:20:32",
+		"alumno_id" : 528,
+		"clase_id" : 372,
+		"sede_id" : 1010
+	},
+	{
+		"id_asistencia" : 989,
+		"fecha" : "2025-08-01 12:58:08",
+		"alumno_id" : 921,
+		"clase_id" : 267,
+		"sede_id" : 154
+	},
+	{
+		"id_asistencia" : 990,
+		"fecha" : "2025-09-03 14:17:27",
+		"alumno_id" : 740,
+		"clase_id" : 997,
+		"sede_id" : 178
+	},
+	{
+		"id_asistencia" : 991,
+		"fecha" : "2025-09-24 15:44:58",
+		"alumno_id" : 168,
+		"clase_id" : 215,
+		"sede_id" : 923
+	},
+	{
+		"id_asistencia" : 992,
+		"fecha" : "2025-07-24 14:38:00",
+		"alumno_id" : 245,
+		"clase_id" : 529,
+		"sede_id" : 609
+	},
+	{
+		"id_asistencia" : 993,
+		"fecha" : "2025-09-14 06:41:42",
+		"alumno_id" : 641,
+		"clase_id" : 866,
+		"sede_id" : 315
+	},
+	{
+		"id_asistencia" : 994,
+		"fecha" : "2025-07-11 16:17:30",
+		"alumno_id" : 508,
+		"clase_id" : 370,
+		"sede_id" : 238
+	},
+	{
+		"id_asistencia" : 995,
+		"fecha" : "2025-08-07 13:23:22",
+		"alumno_id" : 861,
+		"clase_id" : 698,
+		"sede_id" : 23
+	},
+	{
+		"id_asistencia" : 996,
+		"fecha" : "2025-09-14 02:31:11",
+		"alumno_id" : 519,
+		"clase_id" : 653,
+		"sede_id" : 729
+	},
+	{
+		"id_asistencia" : 997,
+		"fecha" : "2025-10-03 06:32:19",
+		"alumno_id" : 413,
+		"clase_id" : 713,
+		"sede_id" : 134
+	},
+	{
+		"id_asistencia" : 998,
+		"fecha" : "2025-07-15 07:14:55",
+		"alumno_id" : 154,
+		"clase_id" : 534,
+		"sede_id" : 244
+	},
+	{
+		"id_asistencia" : 999,
+		"fecha" : "2025-07-27 02:29:23",
+		"alumno_id" : 140,
+		"clase_id" : 863,
+		"sede_id" : 584
+	},
+	{
+		"id_asistencia" : 1000,
+		"fecha" : "2025-09-04 03:17:24",
+		"alumno_id" : 777,
+		"clase_id" : 358,
+		"sede_id" : 516
+	}
+]}

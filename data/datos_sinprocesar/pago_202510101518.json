@@ -1,0 +1,7003 @@
+{
+"pago": [
+	{
+		"id_pago" : 1,
+		"fecha" : "2025-03-13 10:49:09",
+		"valor_pago" : 108322.02,
+		"periodo" : "2025-02",
+		"alumno_id" : 314
+	},
+	{
+		"id_pago" : 2,
+		"fecha" : "2025-03-03 20:18:22",
+		"valor_pago" : 145432.21,
+		"periodo" : "2025-03",
+		"alumno_id" : 375
+	},
+	{
+		"id_pago" : 3,
+		"fecha" : "2024-10-12 08:09:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 54
+	},
+	{
+		"id_pago" : 4,
+		"fecha" : "2025-03-16 00:39:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 529
+	},
+	{
+		"id_pago" : 5,
+		"fecha" : "2024-11-11 11:04:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "oRjibsu",
+		"alumno_id" : 531
+	},
+	{
+		"id_pago" : 6,
+		"fecha" : "2025-03-27 07:03:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 170
+	},
+	{
+		"id_pago" : 7,
+		"fecha" : "2025-07-02 01:29:57",
+		"valor_pago" : 138502.59,
+		"periodo" : "2025-02",
+		"alumno_id" : 817
+	},
+	{
+		"id_pago" : 8,
+		"fecha" : "2025-04-30 22:35:50",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 498
+	},
+	{
+		"id_pago" : 9,
+		"fecha" : "2025-02-17 04:50:24",
+		"valor_pago" : 138586.83,
+		"periodo" : null,
+		"alumno_id" : 470
+	},
+	{
+		"id_pago" : 10,
+		"fecha" : "2025-07-26 10:48:00",
+		"valor_pago" : 141565.42,
+		"periodo" : "2025-05",
+		"alumno_id" : 313
+	},
+	{
+		"id_pago" : 11,
+		"fecha" : "2024-11-03 02:59:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 900
+	},
+	{
+		"id_pago" : 12,
+		"fecha" : "2025-06-16 08:45:43",
+		"valor_pago" : 143240.11,
+		"periodo" : "2025-05",
+		"alumno_id" : 154
+	},
+	{
+		"id_pago" : 13,
+		"fecha" : "2025-02-05 13:57:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "NPfv",
+		"alumno_id" : 769
+	},
+	{
+		"id_pago" : 14,
+		"fecha" : "2025-09-16 01:23:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 818
+	},
+	{
+		"id_pago" : 15,
+		"fecha" : "2025-07-13 13:44:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 463
+	},
+	{
+		"id_pago" : 16,
+		"fecha" : "2025-06-23 01:53:13",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 153
+	},
+	{
+		"id_pago" : 17,
+		"fecha" : "2025-08-17 10:51:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 130
+	},
+	{
+		"id_pago" : 18,
+		"fecha" : "2025-07-17 13:44:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 263
+	},
+	{
+		"id_pago" : 19,
+		"fecha" : "2024-12-04 17:13:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 123
+	},
+	{
+		"id_pago" : 20,
+		"fecha" : "2025-04-16 04:58:11",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 881
+	},
+	{
+		"id_pago" : 21,
+		"fecha" : "2025-09-09 20:44:54",
+		"valor_pago" : 103864.64,
+		"periodo" : "2025-02",
+		"alumno_id" : 453
+	},
+	{
+		"id_pago" : 22,
+		"fecha" : "2025-06-16 07:10:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "LtJoKt",
+		"alumno_id" : 12
+	},
+	{
+		"id_pago" : 23,
+		"fecha" : "2024-11-07 10:12:17",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 263
+	},
+	{
+		"id_pago" : 24,
+		"fecha" : "2025-06-26 07:06:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 466
+	},
+	{
+		"id_pago" : 25,
+		"fecha" : "2025-05-18 00:54:39",
+		"valor_pago" : 98014.30,
+		"periodo" : "2025-05",
+		"alumno_id" : 329
+	},
+	{
+		"id_pago" : 26,
+		"fecha" : "2025-09-30 15:47:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 766
+	},
+	{
+		"id_pago" : 27,
+		"fecha" : "2025-03-25 15:30:26",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 329
+	},
+	{
+		"id_pago" : 28,
+		"fecha" : "2024-10-28 02:43:18",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 223
+	},
+	{
+		"id_pago" : 29,
+		"fecha" : "2025-06-10 08:27:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "UvGMJK",
+		"alumno_id" : 183
+	},
+	{
+		"id_pago" : 30,
+		"fecha" : "2025-04-29 07:02:51",
+		"valor_pago" : 80779.46,
+		"periodo" : "2025-04",
+		"alumno_id" : 18
+	},
+	{
+		"id_pago" : 31,
+		"fecha" : "2025-09-02 12:15:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "qzDvHlb",
+		"alumno_id" : 850
+	},
+	{
+		"id_pago" : 32,
+		"fecha" : "2025-06-23 15:00:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 882
+	},
+	{
+		"id_pago" : 33,
+		"fecha" : "2025-06-16 19:49:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 806
+	},
+	{
+		"id_pago" : 34,
+		"fecha" : "2024-10-17 11:26:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 906
+	},
+	{
+		"id_pago" : 35,
+		"fecha" : "2025-09-05 06:09:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 167
+	},
+	{
+		"id_pago" : 36,
+		"fecha" : "2025-05-22 20:43:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 513
+	},
+	{
+		"id_pago" : 37,
+		"fecha" : "2025-05-01 18:39:33",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 271
+	},
+	{
+		"id_pago" : 38,
+		"fecha" : "2025-07-09 10:29:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 124
+	},
+	{
+		"id_pago" : 39,
+		"fecha" : "2025-02-09 08:12:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 76
+	},
+	{
+		"id_pago" : 40,
+		"fecha" : "2024-12-09 20:38:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 95
+	},
+	{
+		"id_pago" : 41,
+		"fecha" : "2025-09-03 09:53:17",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 793
+	},
+	{
+		"id_pago" : 42,
+		"fecha" : "2025-07-25 21:53:52",
+		"valor_pago" : 22169.81,
+		"periodo" : "2025-02",
+		"alumno_id" : 683
+	},
+	{
+		"id_pago" : 43,
+		"fecha" : "2025-02-08 14:34:56",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 170
+	},
+	{
+		"id_pago" : 44,
+		"fecha" : "2025-07-06 04:15:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 381
+	},
+	{
+		"id_pago" : 45,
+		"fecha" : "2025-07-26 01:59:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 598
+	},
+	{
+		"id_pago" : 46,
+		"fecha" : "2025-04-25 22:00:05",
+		"valor_pago" : null,
+		"periodo" : "dsyF",
+		"alumno_id" : 962
+	},
+	{
+		"id_pago" : 47,
+		"fecha" : "2025-02-02 04:56:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 642
+	},
+	{
+		"id_pago" : 48,
+		"fecha" : "2025-03-22 05:22:53",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 295
+	},
+	{
+		"id_pago" : 49,
+		"fecha" : "2025-07-07 01:11:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 469
+	},
+	{
+		"id_pago" : 50,
+		"fecha" : "2025-07-10 06:41:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 682
+	},
+	{
+		"id_pago" : 51,
+		"fecha" : "2024-11-23 07:39:55",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 745
+	},
+	{
+		"id_pago" : 52,
+		"fecha" : "2025-08-08 15:39:26",
+		"valor_pago" : 51587.83,
+		"periodo" : "2025-04",
+		"alumno_id" : 815
+	},
+	{
+		"id_pago" : 53,
+		"fecha" : "2024-12-11 17:51:36",
+		"valor_pago" : 87807.84,
+		"periodo" : "2025-02",
+		"alumno_id" : 869
+	},
+	{
+		"id_pago" : 54,
+		"fecha" : "2025-03-02 09:51:42",
+		"valor_pago" : 77498.67,
+		"periodo" : "2025-02",
+		"alumno_id" : 51
+	},
+	{
+		"id_pago" : 55,
+		"fecha" : "2025-02-14 23:24:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 73
+	},
+	{
+		"id_pago" : 56,
+		"fecha" : "2024-10-24 04:28:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 571
+	},
+	{
+		"id_pago" : 57,
+		"fecha" : "2025-05-09 08:30:32",
+		"valor_pago" : 96618.56,
+		"periodo" : "2025-02",
+		"alumno_id" : 415
+	},
+	{
+		"id_pago" : 58,
+		"fecha" : "2025-04-26 03:39:10",
+		"valor_pago" : 32018.85,
+		"periodo" : "2025-03",
+		"alumno_id" : 683
+	},
+	{
+		"id_pago" : 59,
+		"fecha" : "2025-09-16 04:43:52",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 848
+	},
+	{
+		"id_pago" : 60,
+		"fecha" : "2025-02-14 15:32:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 255
+	},
+	{
+		"id_pago" : 61,
+		"fecha" : "2025-05-06 23:17:53",
+		"valor_pago" : null,
+		"periodo" : "bSlJD",
+		"alumno_id" : 55
+	},
+	{
+		"id_pago" : 62,
+		"fecha" : "2025-08-17 19:16:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "JsWUWD",
+		"alumno_id" : 443
+	},
+	{
+		"id_pago" : 63,
+		"fecha" : "2025-08-09 05:10:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "KpnK",
+		"alumno_id" : 35
+	},
+	{
+		"id_pago" : 64,
+		"fecha" : "2024-10-30 01:10:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 234
+	},
+	{
+		"id_pago" : 65,
+		"fecha" : "2024-11-08 10:01:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 465
+	},
+	{
+		"id_pago" : 66,
+		"fecha" : "2025-07-31 23:14:20",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 296
+	},
+	{
+		"id_pago" : 67,
+		"fecha" : "2025-09-01 15:55:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 461
+	},
+	{
+		"id_pago" : 68,
+		"fecha" : "2025-05-05 01:01:06",
+		"valor_pago" : 60620.39,
+		"periodo" : null,
+		"alumno_id" : 23
+	},
+	{
+		"id_pago" : 69,
+		"fecha" : "2025-09-02 08:00:13",
+		"valor_pago" : 124525.51,
+		"periodo" : "bsuDqZ",
+		"alumno_id" : 890
+	},
+	{
+		"id_pago" : 70,
+		"fecha" : "2025-08-10 22:05:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 26
+	},
+	{
+		"id_pago" : 71,
+		"fecha" : "2025-07-24 13:55:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "sswr",
+		"alumno_id" : 3
+	},
+	{
+		"id_pago" : 72,
+		"fecha" : "2024-11-09 00:00:35",
+		"valor_pago" : 84360.31,
+		"periodo" : "2025-01",
+		"alumno_id" : 27
+	},
+	{
+		"id_pago" : 73,
+		"fecha" : "2025-09-13 17:38:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 880
+	},
+	{
+		"id_pago" : 74,
+		"fecha" : "2025-02-15 05:14:03",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 445
+	},
+	{
+		"id_pago" : 75,
+		"fecha" : "2024-10-15 06:23:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 116
+	},
+	{
+		"id_pago" : 76,
+		"fecha" : "2025-07-23 17:07:03",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 644
+	},
+	{
+		"id_pago" : 77,
+		"fecha" : "2024-10-10 10:23:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 243
+	},
+	{
+		"id_pago" : 78,
+		"fecha" : "2025-08-20 02:11:42",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 897
+	},
+	{
+		"id_pago" : 79,
+		"fecha" : "2025-03-17 08:51:25",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 206
+	},
+	{
+		"id_pago" : 80,
+		"fecha" : "2025-07-17 11:18:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 182
+	},
+	{
+		"id_pago" : 81,
+		"fecha" : "2025-05-31 20:21:17",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 937
+	},
+	{
+		"id_pago" : 82,
+		"fecha" : "2025-04-27 18:33:32",
+		"valor_pago" : 102858.09,
+		"periodo" : null,
+		"alumno_id" : 50
+	},
+	{
+		"id_pago" : 83,
+		"fecha" : "2025-02-08 10:51:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 599
+	},
+	{
+		"id_pago" : 84,
+		"fecha" : "2025-08-04 08:32:01",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 719
+	},
+	{
+		"id_pago" : 85,
+		"fecha" : "2025-07-26 00:42:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "qUGSiNU",
+		"alumno_id" : 948
+	},
+	{
+		"id_pago" : 86,
+		"fecha" : "2025-07-30 15:55:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 623
+	},
+	{
+		"id_pago" : 87,
+		"fecha" : "2025-08-04 23:23:58",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 16
+	},
+	{
+		"id_pago" : 88,
+		"fecha" : "2025-04-14 12:46:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "pCpPw",
+		"alumno_id" : 966
+	},
+	{
+		"id_pago" : 89,
+		"fecha" : "2024-11-25 04:00:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 181
+	},
+	{
+		"id_pago" : 90,
+		"fecha" : "2024-10-19 08:18:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 583
+	},
+	{
+		"id_pago" : 91,
+		"fecha" : "2025-01-26 03:18:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 864
+	},
+	{
+		"id_pago" : 92,
+		"fecha" : "2024-10-27 06:30:01",
+		"valor_pago" : 35319.90,
+		"periodo" : "2025-05",
+		"alumno_id" : 212
+	},
+	{
+		"id_pago" : 93,
+		"fecha" : "2025-05-08 22:21:00",
+		"valor_pago" : 43679.78,
+		"periodo" : "2025-03",
+		"alumno_id" : 651
+	},
+	{
+		"id_pago" : 94,
+		"fecha" : "2025-05-12 12:14:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 589
+	},
+	{
+		"id_pago" : 95,
+		"fecha" : "2024-12-21 21:03:32",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 846
+	},
+	{
+		"id_pago" : 96,
+		"fecha" : "2025-05-27 06:03:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 655
+	},
+	{
+		"id_pago" : 97,
+		"fecha" : "2024-11-30 21:22:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 364
+	},
+	{
+		"id_pago" : 98,
+		"fecha" : "2025-07-28 12:44:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 660
+	},
+	{
+		"id_pago" : 99,
+		"fecha" : "2025-07-21 13:33:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 852
+	},
+	{
+		"id_pago" : 100,
+		"fecha" : "2025-07-20 21:59:48",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 768
+	},
+	{
+		"id_pago" : 101,
+		"fecha" : "2025-06-03 01:05:24",
+		"valor_pago" : 60109.48,
+		"periodo" : "2025-04",
+		"alumno_id" : 719
+	},
+	{
+		"id_pago" : 102,
+		"fecha" : "2025-01-28 23:01:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 83
+	},
+	{
+		"id_pago" : 103,
+		"fecha" : "2025-05-19 05:52:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 56
+	},
+	{
+		"id_pago" : 104,
+		"fecha" : "2025-08-06 19:03:48",
+		"valor_pago" : 55415.81,
+		"periodo" : "gdWXCI",
+		"alumno_id" : 366
+	},
+	{
+		"id_pago" : 105,
+		"fecha" : "2025-03-25 10:43:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 481
+	},
+	{
+		"id_pago" : 106,
+		"fecha" : "2025-06-11 19:57:33",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 977
+	},
+	{
+		"id_pago" : 107,
+		"fecha" : "2025-03-19 04:48:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 48
+	},
+	{
+		"id_pago" : 108,
+		"fecha" : "2025-09-02 05:25:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 197
+	},
+	{
+		"id_pago" : 109,
+		"fecha" : "2024-12-13 11:59:39",
+		"valor_pago" : 43886.62,
+		"periodo" : "2025-02",
+		"alumno_id" : 614
+	},
+	{
+		"id_pago" : 110,
+		"fecha" : "2024-10-25 10:24:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 512
+	},
+	{
+		"id_pago" : 111,
+		"fecha" : "2025-01-23 17:16:33",
+		"valor_pago" : 103344.87,
+		"periodo" : "2025-02",
+		"alumno_id" : 659
+	},
+	{
+		"id_pago" : 112,
+		"fecha" : "2025-07-20 12:30:40",
+		"valor_pago" : 125805.07,
+		"periodo" : "2025-03",
+		"alumno_id" : 954
+	},
+	{
+		"id_pago" : 113,
+		"fecha" : "2025-04-14 00:42:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 540
+	},
+	{
+		"id_pago" : 114,
+		"fecha" : "2025-06-08 19:11:05",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 732
+	},
+	{
+		"id_pago" : 115,
+		"fecha" : "2024-12-10 18:54:42",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 780
+	},
+	{
+		"id_pago" : 116,
+		"fecha" : "2025-05-08 01:46:01",
+		"valor_pago" : 27738.71,
+		"periodo" : "2025-01",
+		"alumno_id" : 233
+	},
+	{
+		"id_pago" : 117,
+		"fecha" : "2025-05-01 04:21:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 609
+	},
+	{
+		"id_pago" : 118,
+		"fecha" : "2025-05-25 19:24:23",
+		"valor_pago" : 147675.29,
+		"periodo" : "oDlj",
+		"alumno_id" : 331
+	},
+	{
+		"id_pago" : 119,
+		"fecha" : "2025-05-20 12:52:21",
+		"valor_pago" : 72008.55,
+		"periodo" : "2025-05",
+		"alumno_id" : 507
+	},
+	{
+		"id_pago" : 120,
+		"fecha" : "2025-09-09 10:10:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 791
+	},
+	{
+		"id_pago" : 121,
+		"fecha" : "2025-03-03 10:31:38",
+		"valor_pago" : 50772.62,
+		"periodo" : "2025-04",
+		"alumno_id" : 712
+	},
+	{
+		"id_pago" : 122,
+		"fecha" : "2025-02-21 23:35:02",
+		"valor_pago" : null,
+		"periodo" : "jcGLf",
+		"alumno_id" : 996
+	},
+	{
+		"id_pago" : 123,
+		"fecha" : "2025-09-08 01:15:51",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 719
+	},
+	{
+		"id_pago" : 124,
+		"fecha" : "2024-10-30 07:39:00",
+		"valor_pago" : null,
+		"periodo" : "HLlU",
+		"alumno_id" : 319
+	},
+	{
+		"id_pago" : 125,
+		"fecha" : "2024-12-20 23:32:41",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 810
+	},
+	{
+		"id_pago" : 126,
+		"fecha" : "2024-12-10 23:27:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 940
+	},
+	{
+		"id_pago" : 127,
+		"fecha" : "2025-09-29 10:29:58",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 651
+	},
+	{
+		"id_pago" : 128,
+		"fecha" : "2025-01-27 11:17:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 870
+	},
+	{
+		"id_pago" : 129,
+		"fecha" : "2025-02-27 02:16:34",
+		"valor_pago" : 65836.96,
+		"periodo" : "2025-05",
+		"alumno_id" : 392
+	},
+	{
+		"id_pago" : 130,
+		"fecha" : "2025-01-26 19:42:42",
+		"valor_pago" : 109089.82,
+		"periodo" : "2025-02",
+		"alumno_id" : 528
+	},
+	{
+		"id_pago" : 131,
+		"fecha" : "2024-10-12 19:36:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 786
+	},
+	{
+		"id_pago" : 132,
+		"fecha" : "2025-01-30 23:07:21",
+		"valor_pago" : 149256.13,
+		"periodo" : "2025-01",
+		"alumno_id" : 920
+	},
+	{
+		"id_pago" : 133,
+		"fecha" : "2025-01-14 15:35:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 11
+	},
+	{
+		"id_pago" : 134,
+		"fecha" : "2025-02-13 07:01:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "RsBssH",
+		"alumno_id" : 973
+	},
+	{
+		"id_pago" : 135,
+		"fecha" : "2025-09-19 09:19:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 840
+	},
+	{
+		"id_pago" : 136,
+		"fecha" : "2025-08-01 03:49:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 652
+	},
+	{
+		"id_pago" : 137,
+		"fecha" : "2025-03-22 22:11:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 909
+	},
+	{
+		"id_pago" : 138,
+		"fecha" : "2025-03-29 07:13:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 656
+	},
+	{
+		"id_pago" : 139,
+		"fecha" : "2024-12-09 18:01:10",
+		"valor_pago" : 103273.49,
+		"periodo" : "XZxsr",
+		"alumno_id" : 124
+	},
+	{
+		"id_pago" : 140,
+		"fecha" : "2025-01-17 10:55:57",
+		"valor_pago" : 26260.95,
+		"periodo" : "2025-01",
+		"alumno_id" : 509
+	},
+	{
+		"id_pago" : 141,
+		"fecha" : "2025-04-23 10:23:57",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 535
+	},
+	{
+		"id_pago" : 142,
+		"fecha" : "2025-05-12 18:21:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 872
+	},
+	{
+		"id_pago" : 143,
+		"fecha" : "2024-11-09 16:27:55",
+		"valor_pago" : 72242.40,
+		"periodo" : "2025-01",
+		"alumno_id" : 286
+	},
+	{
+		"id_pago" : 144,
+		"fecha" : "2025-06-11 11:50:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 310
+	},
+	{
+		"id_pago" : 145,
+		"fecha" : "2025-05-08 23:14:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 156
+	},
+	{
+		"id_pago" : 146,
+		"fecha" : "2025-07-11 11:40:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 874
+	},
+	{
+		"id_pago" : 147,
+		"fecha" : "2024-12-19 21:28:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 820
+	},
+	{
+		"id_pago" : 148,
+		"fecha" : "2025-04-01 07:23:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 633
+	},
+	{
+		"id_pago" : 149,
+		"fecha" : "2025-05-18 22:54:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 296
+	},
+	{
+		"id_pago" : 150,
+		"fecha" : "2025-01-15 10:21:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 82
+	},
+	{
+		"id_pago" : 151,
+		"fecha" : "2025-08-21 11:02:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 483
+	},
+	{
+		"id_pago" : 152,
+		"fecha" : "2024-11-30 06:25:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 139
+	},
+	{
+		"id_pago" : 153,
+		"fecha" : "2025-01-15 11:00:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "EIRt",
+		"alumno_id" : 698
+	},
+	{
+		"id_pago" : 154,
+		"fecha" : "2024-10-11 23:44:53",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 92
+	},
+	{
+		"id_pago" : 155,
+		"fecha" : "2025-07-14 00:50:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 25
+	},
+	{
+		"id_pago" : 156,
+		"fecha" : "2025-08-22 21:54:23",
+		"valor_pago" : 54605.88,
+		"periodo" : "2025-05",
+		"alumno_id" : 726
+	},
+	{
+		"id_pago" : 157,
+		"fecha" : "2024-12-13 13:06:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 276
+	},
+	{
+		"id_pago" : 158,
+		"fecha" : "2025-04-05 23:01:34",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 592
+	},
+	{
+		"id_pago" : 159,
+		"fecha" : "2025-09-10 12:59:45",
+		"valor_pago" : 136315.34,
+		"periodo" : "Zaoxh",
+		"alumno_id" : 783
+	},
+	{
+		"id_pago" : 160,
+		"fecha" : "2025-09-23 12:45:32",
+		"valor_pago" : 125758.22,
+		"periodo" : null,
+		"alumno_id" : 176
+	},
+	{
+		"id_pago" : 161,
+		"fecha" : "2025-07-23 05:21:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 436
+	},
+	{
+		"id_pago" : 162,
+		"fecha" : "2025-04-20 07:17:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 245
+	},
+	{
+		"id_pago" : 163,
+		"fecha" : "2025-05-02 12:05:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 730
+	},
+	{
+		"id_pago" : 164,
+		"fecha" : "2025-02-18 08:10:01",
+		"valor_pago" : 105657.51,
+		"periodo" : "2025-01",
+		"alumno_id" : 875
+	},
+	{
+		"id_pago" : 165,
+		"fecha" : "2025-08-09 06:58:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 645
+	},
+	{
+		"id_pago" : 166,
+		"fecha" : "2025-01-27 03:16:22",
+		"valor_pago" : 107363.82,
+		"periodo" : "2025-02",
+		"alumno_id" : 741
+	},
+	{
+		"id_pago" : 167,
+		"fecha" : "2025-03-19 10:26:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 472
+	},
+	{
+		"id_pago" : 168,
+		"fecha" : "2024-11-10 11:59:07",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 13
+	},
+	{
+		"id_pago" : 169,
+		"fecha" : "2025-08-03 03:51:53",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 415
+	},
+	{
+		"id_pago" : 170,
+		"fecha" : "2025-06-02 23:47:19",
+		"valor_pago" : 127426.76,
+		"periodo" : "2025-04",
+		"alumno_id" : 297
+	},
+	{
+		"id_pago" : 171,
+		"fecha" : "2025-09-19 16:45:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 786
+	},
+	{
+		"id_pago" : 172,
+		"fecha" : "2024-11-28 17:18:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 830
+	},
+	{
+		"id_pago" : 173,
+		"fecha" : "2025-05-30 00:26:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 278
+	},
+	{
+		"id_pago" : 174,
+		"fecha" : "2025-09-23 17:45:04",
+		"valor_pago" : 50000.00,
+		"periodo" : "zFeLgqQ",
+		"alumno_id" : 895
+	},
+	{
+		"id_pago" : 175,
+		"fecha" : "2025-02-12 10:23:52",
+		"valor_pago" : 90786.47,
+		"periodo" : "2025-02",
+		"alumno_id" : 67
+	},
+	{
+		"id_pago" : 176,
+		"fecha" : "2025-01-22 00:42:20",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 124
+	},
+	{
+		"id_pago" : 177,
+		"fecha" : "2025-05-06 01:28:04",
+		"valor_pago" : 64403.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 31
+	},
+	{
+		"id_pago" : 178,
+		"fecha" : "2025-10-01 05:19:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 648
+	},
+	{
+		"id_pago" : 179,
+		"fecha" : "2024-10-21 02:11:30",
+		"valor_pago" : 105896.31,
+		"periodo" : null,
+		"alumno_id" : 695
+	},
+	{
+		"id_pago" : 180,
+		"fecha" : "2025-05-25 13:21:22",
+		"valor_pago" : 131425.36,
+		"periodo" : "2025-04",
+		"alumno_id" : 82
+	},
+	{
+		"id_pago" : 181,
+		"fecha" : "2025-05-30 00:45:51",
+		"valor_pago" : 96199.95,
+		"periodo" : "2025-04",
+		"alumno_id" : 897
+	},
+	{
+		"id_pago" : 182,
+		"fecha" : "2025-06-01 11:03:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "QBmddL",
+		"alumno_id" : 462
+	},
+	{
+		"id_pago" : 183,
+		"fecha" : "2025-04-30 21:36:44",
+		"valor_pago" : 94605.53,
+		"periodo" : "2025-03",
+		"alumno_id" : 51
+	},
+	{
+		"id_pago" : 184,
+		"fecha" : "2025-05-31 11:44:52",
+		"valor_pago" : 73226.45,
+		"periodo" : "2025-01",
+		"alumno_id" : 676
+	},
+	{
+		"id_pago" : 185,
+		"fecha" : "2025-08-16 23:37:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 729
+	},
+	{
+		"id_pago" : 186,
+		"fecha" : "2025-09-19 07:36:42",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 100
+	},
+	{
+		"id_pago" : 187,
+		"fecha" : "2024-10-28 20:43:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 75
+	},
+	{
+		"id_pago" : 188,
+		"fecha" : "2025-09-23 15:36:03",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 175
+	},
+	{
+		"id_pago" : 189,
+		"fecha" : "2025-04-16 02:14:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "IxXjfO",
+		"alumno_id" : 848
+	},
+	{
+		"id_pago" : 190,
+		"fecha" : "2025-07-30 22:42:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 891
+	},
+	{
+		"id_pago" : 191,
+		"fecha" : "2025-01-24 03:28:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 498
+	},
+	{
+		"id_pago" : 192,
+		"fecha" : "2025-08-01 00:26:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 462
+	},
+	{
+		"id_pago" : 193,
+		"fecha" : "2025-04-29 05:36:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 818
+	},
+	{
+		"id_pago" : 194,
+		"fecha" : "2024-10-21 10:44:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 311
+	},
+	{
+		"id_pago" : 195,
+		"fecha" : "2025-01-16 18:23:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 143
+	},
+	{
+		"id_pago" : 196,
+		"fecha" : "2025-06-13 14:31:40",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 211
+	},
+	{
+		"id_pago" : 197,
+		"fecha" : "2025-03-01 18:53:33",
+		"valor_pago" : 146782.15,
+		"periodo" : "2025-05",
+		"alumno_id" : 857
+	},
+	{
+		"id_pago" : 198,
+		"fecha" : "2024-10-27 14:24:10",
+		"valor_pago" : 113386.69,
+		"periodo" : "DEOv",
+		"alumno_id" : 569
+	},
+	{
+		"id_pago" : 199,
+		"fecha" : "2025-03-01 06:36:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 998
+	},
+	{
+		"id_pago" : 200,
+		"fecha" : "2025-06-15 22:59:37",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 818
+	},
+	{
+		"id_pago" : 201,
+		"fecha" : "2024-12-12 12:57:46",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 193
+	},
+	{
+		"id_pago" : 202,
+		"fecha" : "2024-12-11 17:13:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 606
+	},
+	{
+		"id_pago" : 203,
+		"fecha" : "2024-11-30 23:03:11",
+		"valor_pago" : 103809.47,
+		"periodo" : "2025-03",
+		"alumno_id" : 338
+	},
+	{
+		"id_pago" : 204,
+		"fecha" : "2025-05-12 01:10:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 313
+	},
+	{
+		"id_pago" : 205,
+		"fecha" : "2025-02-21 10:15:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 339
+	},
+	{
+		"id_pago" : 206,
+		"fecha" : "2025-01-11 23:45:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 911
+	},
+	{
+		"id_pago" : 207,
+		"fecha" : "2025-04-12 03:09:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 59
+	},
+	{
+		"id_pago" : 208,
+		"fecha" : "2025-01-27 01:50:44",
+		"valor_pago" : 91341.50,
+		"periodo" : "2025-01",
+		"alumno_id" : 235
+	},
+	{
+		"id_pago" : 209,
+		"fecha" : "2025-03-05 16:06:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 935
+	},
+	{
+		"id_pago" : 210,
+		"fecha" : "2025-05-02 00:09:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 336
+	},
+	{
+		"id_pago" : 211,
+		"fecha" : "2025-07-03 09:59:39",
+		"valor_pago" : 89062.78,
+		"periodo" : "2025-03",
+		"alumno_id" : 366
+	},
+	{
+		"id_pago" : 212,
+		"fecha" : "2025-05-20 02:51:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 478
+	},
+	{
+		"id_pago" : 213,
+		"fecha" : "2025-04-20 16:58:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "TzSSOw",
+		"alumno_id" : 957
+	},
+	{
+		"id_pago" : 214,
+		"fecha" : "2025-08-12 07:51:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 49
+	},
+	{
+		"id_pago" : 215,
+		"fecha" : "2025-09-25 13:36:01",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 431
+	},
+	{
+		"id_pago" : 216,
+		"fecha" : "2025-07-30 02:44:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 889
+	},
+	{
+		"id_pago" : 217,
+		"fecha" : "2025-09-14 01:08:07",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 264
+	},
+	{
+		"id_pago" : 218,
+		"fecha" : "2025-02-26 07:49:59",
+		"valor_pago" : 93063.68,
+		"periodo" : "2025-05",
+		"alumno_id" : 265
+	},
+	{
+		"id_pago" : 219,
+		"fecha" : "2024-11-27 23:41:21",
+		"valor_pago" : 59566.31,
+		"periodo" : "mqJV",
+		"alumno_id" : 106
+	},
+	{
+		"id_pago" : 220,
+		"fecha" : "2025-08-24 17:40:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "jJfzPma",
+		"alumno_id" : 908
+	},
+	{
+		"id_pago" : 221,
+		"fecha" : "2025-10-01 01:36:46",
+		"valor_pago" : 102634.70,
+		"periodo" : "2025-03",
+		"alumno_id" : 320
+	},
+	{
+		"id_pago" : 222,
+		"fecha" : "2025-05-28 02:23:33",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 697
+	},
+	{
+		"id_pago" : 223,
+		"fecha" : "2025-03-18 09:54:08",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 625
+	},
+	{
+		"id_pago" : 224,
+		"fecha" : "2025-09-06 11:00:32",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 876
+	},
+	{
+		"id_pago" : 225,
+		"fecha" : "2024-11-12 00:20:16",
+		"valor_pago" : 44792.35,
+		"periodo" : "2025-02",
+		"alumno_id" : 267
+	},
+	{
+		"id_pago" : 226,
+		"fecha" : "2025-07-26 19:43:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 275
+	},
+	{
+		"id_pago" : 227,
+		"fecha" : "2025-07-31 01:31:08",
+		"valor_pago" : 86618.67,
+		"periodo" : "2025-01",
+		"alumno_id" : 429
+	},
+	{
+		"id_pago" : 228,
+		"fecha" : "2025-04-16 19:45:06",
+		"valor_pago" : 139932.73,
+		"periodo" : "zTgG",
+		"alumno_id" : 732
+	},
+	{
+		"id_pago" : 229,
+		"fecha" : "2025-05-09 15:03:06",
+		"valor_pago" : 49758.89,
+		"periodo" : "2025-04",
+		"alumno_id" : 125
+	},
+	{
+		"id_pago" : 230,
+		"fecha" : "2024-12-21 15:02:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 910
+	},
+	{
+		"id_pago" : 231,
+		"fecha" : "2025-09-27 18:26:05",
+		"valor_pago" : 91034.89,
+		"periodo" : "2025-05",
+		"alumno_id" : 838
+	},
+	{
+		"id_pago" : 232,
+		"fecha" : "2025-08-14 03:09:30",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 440
+	},
+	{
+		"id_pago" : 233,
+		"fecha" : "2025-08-11 17:08:20",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 689
+	},
+	{
+		"id_pago" : 234,
+		"fecha" : "2025-02-05 20:13:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 552
+	},
+	{
+		"id_pago" : 235,
+		"fecha" : "2025-09-30 20:41:45",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 801
+	},
+	{
+		"id_pago" : 236,
+		"fecha" : "2025-08-18 16:55:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 498
+	},
+	{
+		"id_pago" : 237,
+		"fecha" : "2024-12-10 22:20:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 156
+	},
+	{
+		"id_pago" : 238,
+		"fecha" : "2024-11-08 01:21:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 390
+	},
+	{
+		"id_pago" : 239,
+		"fecha" : "2025-01-23 14:47:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 795
+	},
+	{
+		"id_pago" : 240,
+		"fecha" : "2025-02-07 05:07:32",
+		"valor_pago" : 96068.92,
+		"periodo" : "2025-05",
+		"alumno_id" : 325
+	},
+	{
+		"id_pago" : 241,
+		"fecha" : "2024-12-16 17:04:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 847
+	},
+	{
+		"id_pago" : 242,
+		"fecha" : "2024-10-08 09:41:38",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 826
+	},
+	{
+		"id_pago" : 243,
+		"fecha" : "2024-10-26 04:55:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 91
+	},
+	{
+		"id_pago" : 244,
+		"fecha" : "2025-09-16 01:39:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 131
+	},
+	{
+		"id_pago" : 245,
+		"fecha" : "2025-06-04 20:08:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 334
+	},
+	{
+		"id_pago" : 246,
+		"fecha" : "2025-07-04 19:09:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 595
+	},
+	{
+		"id_pago" : 247,
+		"fecha" : "2025-02-07 03:15:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 373
+	},
+	{
+		"id_pago" : 248,
+		"fecha" : "2024-12-23 04:05:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "KBkCfQ",
+		"alumno_id" : 732
+	},
+	{
+		"id_pago" : 249,
+		"fecha" : "2025-02-01 12:40:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 197
+	},
+	{
+		"id_pago" : 250,
+		"fecha" : "2025-06-04 12:43:11",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 716
+	},
+	{
+		"id_pago" : 251,
+		"fecha" : "2025-06-22 21:44:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 883
+	},
+	{
+		"id_pago" : 252,
+		"fecha" : "2025-01-15 09:10:13",
+		"valor_pago" : 69783.75,
+		"periodo" : "2025-02",
+		"alumno_id" : 709
+	},
+	{
+		"id_pago" : 253,
+		"fecha" : "2024-10-14 22:52:06",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 356
+	},
+	{
+		"id_pago" : 254,
+		"fecha" : "2025-05-26 21:30:38",
+		"valor_pago" : 124953.35,
+		"periodo" : "ZpnKMjx",
+		"alumno_id" : 140
+	},
+	{
+		"id_pago" : 255,
+		"fecha" : "2025-03-30 01:33:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 614
+	},
+	{
+		"id_pago" : 256,
+		"fecha" : "2025-05-18 10:24:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 563
+	},
+	{
+		"id_pago" : 257,
+		"fecha" : "2025-08-18 05:10:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "vuB",
+		"alumno_id" : 112
+	},
+	{
+		"id_pago" : 258,
+		"fecha" : "2024-11-12 18:53:36",
+		"valor_pago" : 133784.18,
+		"periodo" : "2025-04",
+		"alumno_id" : 163
+	},
+	{
+		"id_pago" : 259,
+		"fecha" : "2025-04-07 03:17:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 960
+	},
+	{
+		"id_pago" : 260,
+		"fecha" : "2025-02-21 06:11:25",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 994
+	},
+	{
+		"id_pago" : 261,
+		"fecha" : "2025-07-27 15:02:34",
+		"valor_pago" : 50000.00,
+		"periodo" : "UHiJuWu",
+		"alumno_id" : 141
+	},
+	{
+		"id_pago" : 262,
+		"fecha" : "2025-01-09 01:11:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "GFMUNXd",
+		"alumno_id" : 550
+	},
+	{
+		"id_pago" : 263,
+		"fecha" : "2025-04-12 11:40:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 93
+	},
+	{
+		"id_pago" : 264,
+		"fecha" : "2025-05-11 11:15:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "goTpQR",
+		"alumno_id" : 813
+	},
+	{
+		"id_pago" : 265,
+		"fecha" : "2024-10-13 14:05:25",
+		"valor_pago" : 35205.47,
+		"periodo" : "2025-04",
+		"alumno_id" : 657
+	},
+	{
+		"id_pago" : 266,
+		"fecha" : "2024-12-11 12:11:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 998
+	},
+	{
+		"id_pago" : 267,
+		"fecha" : "2025-09-09 02:08:04",
+		"valor_pago" : 50334.29,
+		"periodo" : "Yjpq",
+		"alumno_id" : 316
+	},
+	{
+		"id_pago" : 268,
+		"fecha" : "2025-08-11 14:59:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 74
+	},
+	{
+		"id_pago" : 269,
+		"fecha" : "2025-09-14 12:57:12",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 125
+	},
+	{
+		"id_pago" : 270,
+		"fecha" : "2025-03-07 12:57:19",
+		"valor_pago" : 33545.95,
+		"periodo" : "2025-04",
+		"alumno_id" : 55
+	},
+	{
+		"id_pago" : 271,
+		"fecha" : "2025-04-30 10:35:42",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 161
+	},
+	{
+		"id_pago" : 272,
+		"fecha" : "2025-04-26 18:27:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 780
+	},
+	{
+		"id_pago" : 273,
+		"fecha" : "2025-03-20 00:17:17",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 467
+	},
+	{
+		"id_pago" : 274,
+		"fecha" : "2025-05-16 13:11:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 27
+	},
+	{
+		"id_pago" : 275,
+		"fecha" : "2025-02-07 09:50:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 476
+	},
+	{
+		"id_pago" : 276,
+		"fecha" : "2025-03-13 02:33:58",
+		"valor_pago" : 62441.80,
+		"periodo" : "JwSxZg",
+		"alumno_id" : 756
+	},
+	{
+		"id_pago" : 277,
+		"fecha" : "2025-03-28 19:50:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 649
+	},
+	{
+		"id_pago" : 278,
+		"fecha" : "2025-08-26 05:05:32",
+		"valor_pago" : 21561.86,
+		"periodo" : "2025-04",
+		"alumno_id" : 287
+	},
+	{
+		"id_pago" : 279,
+		"fecha" : "2025-08-26 07:14:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "bWijpnJ",
+		"alumno_id" : 675
+	},
+	{
+		"id_pago" : 280,
+		"fecha" : "2025-05-15 01:59:20",
+		"valor_pago" : 111956.17,
+		"periodo" : "2025-01",
+		"alumno_id" : 203
+	},
+	{
+		"id_pago" : 281,
+		"fecha" : "2025-03-05 17:39:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "YNnMfi",
+		"alumno_id" : 694
+	},
+	{
+		"id_pago" : 282,
+		"fecha" : "2024-10-07 00:38:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 729
+	},
+	{
+		"id_pago" : 283,
+		"fecha" : "2025-05-12 04:28:44",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 799
+	},
+	{
+		"id_pago" : 284,
+		"fecha" : "2025-09-07 16:56:26",
+		"valor_pago" : 108550.27,
+		"periodo" : "2025-04",
+		"alumno_id" : 233
+	},
+	{
+		"id_pago" : 285,
+		"fecha" : "2025-08-20 15:10:25",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 179
+	},
+	{
+		"id_pago" : 286,
+		"fecha" : "2025-01-14 18:09:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 723
+	},
+	{
+		"id_pago" : 287,
+		"fecha" : "2025-06-28 06:28:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 128
+	},
+	{
+		"id_pago" : 288,
+		"fecha" : "2024-11-13 00:37:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 742
+	},
+	{
+		"id_pago" : 289,
+		"fecha" : "2024-11-07 06:02:43",
+		"valor_pago" : 23326.34,
+		"periodo" : "2025-03",
+		"alumno_id" : 386
+	},
+	{
+		"id_pago" : 290,
+		"fecha" : "2024-11-26 13:16:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 689
+	},
+	{
+		"id_pago" : 291,
+		"fecha" : "2025-01-22 02:08:37",
+		"valor_pago" : 83891.30,
+		"periodo" : "2025-01",
+		"alumno_id" : 548
+	},
+	{
+		"id_pago" : 292,
+		"fecha" : "2025-06-14 01:26:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 238
+	},
+	{
+		"id_pago" : 293,
+		"fecha" : "2024-11-28 14:53:23",
+		"valor_pago" : 56323.45,
+		"periodo" : "2025-03",
+		"alumno_id" : 862
+	},
+	{
+		"id_pago" : 294,
+		"fecha" : "2025-04-20 06:19:51",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 850
+	},
+	{
+		"id_pago" : 295,
+		"fecha" : "2025-04-08 20:57:17",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 616
+	},
+	{
+		"id_pago" : 296,
+		"fecha" : "2025-06-26 10:22:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 730
+	},
+	{
+		"id_pago" : 297,
+		"fecha" : "2025-01-08 22:10:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "AKrc",
+		"alumno_id" : 933
+	},
+	{
+		"id_pago" : 298,
+		"fecha" : "2025-05-10 20:06:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 176
+	},
+	{
+		"id_pago" : 299,
+		"fecha" : "2025-05-16 06:47:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "uIZka",
+		"alumno_id" : 336
+	},
+	{
+		"id_pago" : 300,
+		"fecha" : "2025-06-07 02:04:27",
+		"valor_pago" : 118736.15,
+		"periodo" : "2025-04",
+		"alumno_id" : 358
+	},
+	{
+		"id_pago" : 301,
+		"fecha" : "2025-09-25 21:19:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 384
+	},
+	{
+		"id_pago" : 302,
+		"fecha" : "2025-07-22 06:31:15",
+		"valor_pago" : 71368.13,
+		"periodo" : "2025-05",
+		"alumno_id" : 495
+	},
+	{
+		"id_pago" : 303,
+		"fecha" : "2025-06-06 13:41:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 218
+	},
+	{
+		"id_pago" : 304,
+		"fecha" : "2024-11-04 06:53:43",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 314
+	},
+	{
+		"id_pago" : 305,
+		"fecha" : "2025-06-21 10:09:45",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 978
+	},
+	{
+		"id_pago" : 306,
+		"fecha" : "2025-06-22 15:33:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 694
+	},
+	{
+		"id_pago" : 307,
+		"fecha" : "2025-03-16 02:03:00",
+		"valor_pago" : 118299.21,
+		"periodo" : "2025-01",
+		"alumno_id" : 386
+	},
+	{
+		"id_pago" : 308,
+		"fecha" : "2025-09-16 00:26:00",
+		"valor_pago" : 79124.63,
+		"periodo" : "2025-02",
+		"alumno_id" : 441
+	},
+	{
+		"id_pago" : 309,
+		"fecha" : "2025-01-10 07:57:29",
+		"valor_pago" : 22226.78,
+		"periodo" : "2025-05",
+		"alumno_id" : 309
+	},
+	{
+		"id_pago" : 310,
+		"fecha" : "2025-03-30 01:36:05",
+		"valor_pago" : 122231.01,
+		"periodo" : "2025-04",
+		"alumno_id" : 906
+	},
+	{
+		"id_pago" : 311,
+		"fecha" : "2024-10-13 17:59:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 652
+	},
+	{
+		"id_pago" : 312,
+		"fecha" : "2024-12-27 00:46:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 294
+	},
+	{
+		"id_pago" : 313,
+		"fecha" : "2025-06-23 17:54:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 376
+	},
+	{
+		"id_pago" : 314,
+		"fecha" : "2025-07-07 19:01:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 369
+	},
+	{
+		"id_pago" : 315,
+		"fecha" : "2024-10-16 01:43:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 469
+	},
+	{
+		"id_pago" : 316,
+		"fecha" : "2024-10-23 16:57:52",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 501
+	},
+	{
+		"id_pago" : 317,
+		"fecha" : "2025-02-17 06:13:23",
+		"valor_pago" : 91023.66,
+		"periodo" : null,
+		"alumno_id" : 707
+	},
+	{
+		"id_pago" : 318,
+		"fecha" : "2025-07-25 00:28:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 665
+	},
+	{
+		"id_pago" : 319,
+		"fecha" : "2024-11-06 05:43:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 151
+	},
+	{
+		"id_pago" : 320,
+		"fecha" : "2025-02-13 02:53:04",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 467
+	},
+	{
+		"id_pago" : 321,
+		"fecha" : "2025-09-11 12:53:24",
+		"valor_pago" : 59441.09,
+		"periodo" : "2025-02",
+		"alumno_id" : 912
+	},
+	{
+		"id_pago" : 322,
+		"fecha" : "2025-05-24 01:35:00",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 157
+	},
+	{
+		"id_pago" : 323,
+		"fecha" : "2024-12-21 09:13:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 693
+	},
+	{
+		"id_pago" : 324,
+		"fecha" : "2024-10-26 17:33:29",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 589
+	},
+	{
+		"id_pago" : 325,
+		"fecha" : "2025-02-16 04:51:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 96
+	},
+	{
+		"id_pago" : 326,
+		"fecha" : "2024-11-19 03:10:38",
+		"valor_pago" : 36215.32,
+		"periodo" : "yphft",
+		"alumno_id" : 499
+	},
+	{
+		"id_pago" : 327,
+		"fecha" : "2025-01-30 12:18:34",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 22
+	},
+	{
+		"id_pago" : 328,
+		"fecha" : "2025-01-17 18:29:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 157
+	},
+	{
+		"id_pago" : 329,
+		"fecha" : "2024-11-13 00:29:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 165
+	},
+	{
+		"id_pago" : 330,
+		"fecha" : "2024-11-24 15:51:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "CvHpn",
+		"alumno_id" : 353
+	},
+	{
+		"id_pago" : 331,
+		"fecha" : "2025-05-12 07:09:07",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 33
+	},
+	{
+		"id_pago" : 332,
+		"fecha" : "2025-02-06 21:11:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "gyqE",
+		"alumno_id" : 801
+	},
+	{
+		"id_pago" : 333,
+		"fecha" : "2025-07-11 18:37:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 464
+	},
+	{
+		"id_pago" : 334,
+		"fecha" : "2025-07-16 03:54:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 170
+	},
+	{
+		"id_pago" : 335,
+		"fecha" : "2025-04-15 21:18:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 606
+	},
+	{
+		"id_pago" : 336,
+		"fecha" : "2025-08-17 15:11:10",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 795
+	},
+	{
+		"id_pago" : 337,
+		"fecha" : "2025-08-02 16:31:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 975
+	},
+	{
+		"id_pago" : 338,
+		"fecha" : "2024-11-25 13:47:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 249
+	},
+	{
+		"id_pago" : 339,
+		"fecha" : "2025-04-13 12:29:02",
+		"valor_pago" : 52600.71,
+		"periodo" : "2025-01",
+		"alumno_id" : 343
+	},
+	{
+		"id_pago" : 340,
+		"fecha" : "2024-11-05 12:55:20",
+		"valor_pago" : 95829.11,
+		"periodo" : "2025-02",
+		"alumno_id" : 900
+	},
+	{
+		"id_pago" : 341,
+		"fecha" : "2024-12-15 16:47:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "MbntwCL",
+		"alumno_id" : 296
+	},
+	{
+		"id_pago" : 342,
+		"fecha" : "2025-04-26 22:27:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 989
+	},
+	{
+		"id_pago" : 343,
+		"fecha" : "2024-11-11 06:24:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 97
+	},
+	{
+		"id_pago" : 344,
+		"fecha" : "2024-10-16 07:15:35",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 897
+	},
+	{
+		"id_pago" : 345,
+		"fecha" : "2025-03-21 15:45:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 587
+	},
+	{
+		"id_pago" : 346,
+		"fecha" : "2025-03-29 21:11:21",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 418
+	},
+	{
+		"id_pago" : 347,
+		"fecha" : "2025-02-26 17:09:38",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 879
+	},
+	{
+		"id_pago" : 348,
+		"fecha" : "2024-10-25 04:24:11",
+		"valor_pago" : 34911.62,
+		"periodo" : "2025-01",
+		"alumno_id" : 341
+	},
+	{
+		"id_pago" : 349,
+		"fecha" : "2025-04-03 17:35:21",
+		"valor_pago" : 50000.00,
+		"periodo" : "z lBOc",
+		"alumno_id" : 698
+	},
+	{
+		"id_pago" : 350,
+		"fecha" : "2025-10-02 03:43:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 16
+	},
+	{
+		"id_pago" : 351,
+		"fecha" : "2025-05-28 01:50:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 283
+	},
+	{
+		"id_pago" : 352,
+		"fecha" : "2025-06-15 05:27:28",
+		"valor_pago" : 45093.91,
+		"periodo" : "2025-05",
+		"alumno_id" : 324
+	},
+	{
+		"id_pago" : 353,
+		"fecha" : "2025-09-27 07:43:40",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 178
+	},
+	{
+		"id_pago" : 354,
+		"fecha" : "2025-05-08 17:50:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 331
+	},
+	{
+		"id_pago" : 355,
+		"fecha" : "2024-11-29 23:16:25",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 761
+	},
+	{
+		"id_pago" : 356,
+		"fecha" : "2025-02-02 14:02:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 74
+	},
+	{
+		"id_pago" : 357,
+		"fecha" : "2024-11-24 17:58:30",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 140
+	},
+	{
+		"id_pago" : 358,
+		"fecha" : "2025-04-11 21:40:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 153
+	},
+	{
+		"id_pago" : 359,
+		"fecha" : "2025-07-14 18:31:50",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 815
+	},
+	{
+		"id_pago" : 360,
+		"fecha" : "2025-03-31 13:13:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 417
+	},
+	{
+		"id_pago" : 361,
+		"fecha" : "2025-04-25 16:10:57",
+		"valor_pago" : 47952.63,
+		"periodo" : "2025-02",
+		"alumno_id" : 450
+	},
+	{
+		"id_pago" : 362,
+		"fecha" : "2024-10-12 08:44:40",
+		"valor_pago" : 126273.21,
+		"periodo" : "eJSJ",
+		"alumno_id" : 249
+	},
+	{
+		"id_pago" : 363,
+		"fecha" : "2025-05-18 01:21:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "qMxGKHa",
+		"alumno_id" : 880
+	},
+	{
+		"id_pago" : 364,
+		"fecha" : "2025-04-07 13:53:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 282
+	},
+	{
+		"id_pago" : 365,
+		"fecha" : "2025-02-06 02:06:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 340
+	},
+	{
+		"id_pago" : 366,
+		"fecha" : "2025-03-06 13:18:00",
+		"valor_pago" : 137789.51,
+		"periodo" : "MuZy",
+		"alumno_id" : 367
+	},
+	{
+		"id_pago" : 367,
+		"fecha" : "2025-05-18 22:09:26",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 767
+	},
+	{
+		"id_pago" : 368,
+		"fecha" : "2025-08-02 19:58:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 667
+	},
+	{
+		"id_pago" : 369,
+		"fecha" : "2025-08-25 12:54:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "CVrj",
+		"alumno_id" : 908
+	},
+	{
+		"id_pago" : 370,
+		"fecha" : "2025-09-04 11:50:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 580
+	},
+	{
+		"id_pago" : 371,
+		"fecha" : "2025-07-04 12:33:39",
+		"valor_pago" : 95613.97,
+		"periodo" : "2025-01",
+		"alumno_id" : 718
+	},
+	{
+		"id_pago" : 372,
+		"fecha" : "2025-09-28 14:49:22",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 378
+	},
+	{
+		"id_pago" : 373,
+		"fecha" : "2025-01-03 02:06:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 8
+	},
+	{
+		"id_pago" : 374,
+		"fecha" : "2025-06-26 15:49:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 582
+	},
+	{
+		"id_pago" : 375,
+		"fecha" : "2024-10-18 19:38:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 779
+	},
+	{
+		"id_pago" : 376,
+		"fecha" : "2025-03-24 04:49:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 204
+	},
+	{
+		"id_pago" : 377,
+		"fecha" : "2024-12-19 09:55:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 772
+	},
+	{
+		"id_pago" : 378,
+		"fecha" : "2025-02-27 19:13:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 465
+	},
+	{
+		"id_pago" : 379,
+		"fecha" : "2024-10-11 00:11:30",
+		"valor_pago" : 22574.57,
+		"periodo" : "2025-04",
+		"alumno_id" : 160
+	},
+	{
+		"id_pago" : 380,
+		"fecha" : "2025-07-28 09:33:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 462
+	},
+	{
+		"id_pago" : 381,
+		"fecha" : "2025-04-29 03:10:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 887
+	},
+	{
+		"id_pago" : 382,
+		"fecha" : "2025-05-20 02:30:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 927
+	},
+	{
+		"id_pago" : 383,
+		"fecha" : "2025-01-14 19:00:57",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 833
+	},
+	{
+		"id_pago" : 384,
+		"fecha" : "2024-10-06 06:57:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 379
+	},
+	{
+		"id_pago" : 385,
+		"fecha" : "2025-01-21 09:05:30",
+		"valor_pago" : 128845.20,
+		"periodo" : "2025-05",
+		"alumno_id" : 936
+	},
+	{
+		"id_pago" : 386,
+		"fecha" : "2025-07-09 16:09:41",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 880
+	},
+	{
+		"id_pago" : 387,
+		"fecha" : "2025-08-08 22:44:41",
+		"valor_pago" : 20268.67,
+		"periodo" : "2025-02",
+		"alumno_id" : 133
+	},
+	{
+		"id_pago" : 388,
+		"fecha" : "2025-08-30 13:43:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 637
+	},
+	{
+		"id_pago" : 389,
+		"fecha" : "2024-11-24 16:53:33",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 906
+	},
+	{
+		"id_pago" : 390,
+		"fecha" : "2025-03-18 14:06:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "mlBiP",
+		"alumno_id" : 315
+	},
+	{
+		"id_pago" : 391,
+		"fecha" : "2025-03-17 04:51:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 999
+	},
+	{
+		"id_pago" : 392,
+		"fecha" : "2025-02-19 13:11:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 721
+	},
+	{
+		"id_pago" : 393,
+		"fecha" : "2025-08-13 05:50:16",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 836
+	},
+	{
+		"id_pago" : 394,
+		"fecha" : "2025-07-27 15:37:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 308
+	},
+	{
+		"id_pago" : 395,
+		"fecha" : "2024-12-14 21:03:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 258
+	},
+	{
+		"id_pago" : 396,
+		"fecha" : "2025-03-03 10:16:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 105
+	},
+	{
+		"id_pago" : 397,
+		"fecha" : "2025-02-06 09:40:30",
+		"valor_pago" : 117358.45,
+		"periodo" : "2025-04",
+		"alumno_id" : 184
+	},
+	{
+		"id_pago" : 398,
+		"fecha" : "2025-04-15 06:53:52",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 736
+	},
+	{
+		"id_pago" : 399,
+		"fecha" : "2025-01-16 00:08:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "jmOd",
+		"alumno_id" : 627
+	},
+	{
+		"id_pago" : 400,
+		"fecha" : "2025-08-27 11:02:59",
+		"valor_pago" : 42237.98,
+		"periodo" : "2025-01",
+		"alumno_id" : 261
+	},
+	{
+		"id_pago" : 401,
+		"fecha" : "2025-03-21 22:49:15",
+		"valor_pago" : 98138.11,
+		"periodo" : "2025-02",
+		"alumno_id" : 442
+	},
+	{
+		"id_pago" : 402,
+		"fecha" : "2025-08-11 23:24:08",
+		"valor_pago" : 145267.39,
+		"periodo" : "2025-02",
+		"alumno_id" : 589
+	},
+	{
+		"id_pago" : 403,
+		"fecha" : "2024-11-10 10:20:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 487
+	},
+	{
+		"id_pago" : 404,
+		"fecha" : "2025-07-13 00:20:55",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 88
+	},
+	{
+		"id_pago" : 405,
+		"fecha" : "2025-06-09 05:16:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "sIzaNI",
+		"alumno_id" : 990
+	},
+	{
+		"id_pago" : 406,
+		"fecha" : "2024-10-19 16:25:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 538
+	},
+	{
+		"id_pago" : 407,
+		"fecha" : "2025-10-04 12:54:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 15
+	},
+	{
+		"id_pago" : 408,
+		"fecha" : "2025-09-17 08:27:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 919
+	},
+	{
+		"id_pago" : 409,
+		"fecha" : "2025-02-23 05:40:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 787
+	},
+	{
+		"id_pago" : 410,
+		"fecha" : "2025-07-18 01:04:47",
+		"valor_pago" : 129436.44,
+		"periodo" : "GeRo",
+		"alumno_id" : 112
+	},
+	{
+		"id_pago" : 411,
+		"fecha" : "2025-07-10 01:45:09",
+		"valor_pago" : 71135.35,
+		"periodo" : "YbAyFB",
+		"alumno_id" : 323
+	},
+	{
+		"id_pago" : 412,
+		"fecha" : "2025-05-02 02:03:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 20
+	},
+	{
+		"id_pago" : 413,
+		"fecha" : "2024-11-13 14:56:20",
+		"valor_pago" : 101214.11,
+		"periodo" : "GLibYs",
+		"alumno_id" : 226
+	},
+	{
+		"id_pago" : 414,
+		"fecha" : "2025-05-21 00:30:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 885
+	},
+	{
+		"id_pago" : 415,
+		"fecha" : "2024-10-15 09:42:14",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 403
+	},
+	{
+		"id_pago" : 416,
+		"fecha" : "2025-04-30 16:22:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 420
+	},
+	{
+		"id_pago" : 417,
+		"fecha" : "2025-03-19 04:56:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 162
+	},
+	{
+		"id_pago" : 418,
+		"fecha" : "2025-06-29 13:52:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 614
+	},
+	{
+		"id_pago" : 419,
+		"fecha" : "2025-08-01 14:38:30",
+		"valor_pago" : 59865.86,
+		"periodo" : "xzlwpT",
+		"alumno_id" : 165
+	},
+	{
+		"id_pago" : 420,
+		"fecha" : "2025-04-11 01:16:37",
+		"valor_pago" : 141601.27,
+		"periodo" : "2025-02",
+		"alumno_id" : 149
+	},
+	{
+		"id_pago" : 421,
+		"fecha" : "2025-04-17 08:08:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 963
+	},
+	{
+		"id_pago" : 422,
+		"fecha" : "2025-03-09 03:30:55",
+		"valor_pago" : 140348.74,
+		"periodo" : "2025-03",
+		"alumno_id" : 174
+	},
+	{
+		"id_pago" : 423,
+		"fecha" : "2024-11-21 07:24:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 47
+	},
+	{
+		"id_pago" : 424,
+		"fecha" : "2025-06-07 05:11:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 202
+	},
+	{
+		"id_pago" : 425,
+		"fecha" : "2025-08-31 01:00:37",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 438
+	},
+	{
+		"id_pago" : 426,
+		"fecha" : "2024-11-15 04:05:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 558
+	},
+	{
+		"id_pago" : 427,
+		"fecha" : "2024-10-31 13:34:52",
+		"valor_pago" : 102320.20,
+		"periodo" : "2025-03",
+		"alumno_id" : 967
+	},
+	{
+		"id_pago" : 428,
+		"fecha" : "2024-11-16 10:46:12",
+		"valor_pago" : 106171.21,
+		"periodo" : "2025-05",
+		"alumno_id" : 246
+	},
+	{
+		"id_pago" : 429,
+		"fecha" : "2025-02-03 07:22:34",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 76
+	},
+	{
+		"id_pago" : 430,
+		"fecha" : "2025-01-12 14:24:06",
+		"valor_pago" : 82187.84,
+		"periodo" : "2025-04",
+		"alumno_id" : 54
+	},
+	{
+		"id_pago" : 431,
+		"fecha" : "2025-04-12 09:52:47",
+		"valor_pago" : 34559.73,
+		"periodo" : "WeALJD",
+		"alumno_id" : 413
+	},
+	{
+		"id_pago" : 432,
+		"fecha" : "2024-12-24 02:18:38",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 104
+	},
+	{
+		"id_pago" : 433,
+		"fecha" : "2025-07-09 03:37:00",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 267
+	},
+	{
+		"id_pago" : 434,
+		"fecha" : "2025-06-28 10:06:41",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 94
+	},
+	{
+		"id_pago" : 435,
+		"fecha" : "2025-02-07 20:18:56",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 741
+	},
+	{
+		"id_pago" : 436,
+		"fecha" : "2024-12-28 22:42:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 907
+	},
+	{
+		"id_pago" : 437,
+		"fecha" : "2024-10-23 09:14:16",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 642
+	},
+	{
+		"id_pago" : 438,
+		"fecha" : "2025-03-06 00:06:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 97
+	},
+	{
+		"id_pago" : 439,
+		"fecha" : "2025-03-24 14:11:52",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 438
+	},
+	{
+		"id_pago" : 440,
+		"fecha" : "2025-06-28 14:19:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 584
+	},
+	{
+		"id_pago" : 441,
+		"fecha" : "2025-09-27 13:33:15",
+		"valor_pago" : 60587.69,
+		"periodo" : null,
+		"alumno_id" : 155
+	},
+	{
+		"id_pago" : 442,
+		"fecha" : "2024-12-10 23:32:35",
+		"valor_pago" : 148377.86,
+		"periodo" : "2025-03",
+		"alumno_id" : 237
+	},
+	{
+		"id_pago" : 443,
+		"fecha" : "2025-01-19 08:18:37",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 621
+	},
+	{
+		"id_pago" : 444,
+		"fecha" : "2025-06-18 01:42:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 88
+	},
+	{
+		"id_pago" : 445,
+		"fecha" : "2025-01-18 15:35:38",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 51
+	},
+	{
+		"id_pago" : 446,
+		"fecha" : "2024-12-17 01:43:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 81
+	},
+	{
+		"id_pago" : 447,
+		"fecha" : "2025-05-26 07:27:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 961
+	},
+	{
+		"id_pago" : 448,
+		"fecha" : "2025-08-16 19:56:33",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 606
+	},
+	{
+		"id_pago" : 449,
+		"fecha" : "2025-01-26 11:52:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 335
+	},
+	{
+		"id_pago" : 450,
+		"fecha" : "2025-01-22 06:06:46",
+		"valor_pago" : 103042.15,
+		"periodo" : "2025-05",
+		"alumno_id" : 423
+	},
+	{
+		"id_pago" : 451,
+		"fecha" : "2025-08-06 22:32:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 111
+	},
+	{
+		"id_pago" : 452,
+		"fecha" : "2025-05-07 05:39:21",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 891
+	},
+	{
+		"id_pago" : 453,
+		"fecha" : "2025-08-17 10:48:21",
+		"valor_pago" : 75719.63,
+		"periodo" : "unpf",
+		"alumno_id" : 405
+	},
+	{
+		"id_pago" : 454,
+		"fecha" : "2025-01-31 18:47:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "xVqZdz",
+		"alumno_id" : 530
+	},
+	{
+		"id_pago" : 455,
+		"fecha" : "2025-08-12 16:11:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 952
+	},
+	{
+		"id_pago" : 456,
+		"fecha" : "2025-04-10 11:30:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 327
+	},
+	{
+		"id_pago" : 457,
+		"fecha" : "2025-03-25 06:10:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 682
+	},
+	{
+		"id_pago" : 458,
+		"fecha" : "2025-03-30 21:59:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 97
+	},
+	{
+		"id_pago" : 459,
+		"fecha" : "2025-07-25 00:11:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 983
+	},
+	{
+		"id_pago" : 460,
+		"fecha" : "2025-07-06 12:35:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 898
+	},
+	{
+		"id_pago" : 461,
+		"fecha" : "2025-09-11 21:45:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 702
+	},
+	{
+		"id_pago" : 462,
+		"fecha" : "2025-02-27 20:38:26",
+		"valor_pago" : 42556.30,
+		"periodo" : "2025-04",
+		"alumno_id" : 281
+	},
+	{
+		"id_pago" : 463,
+		"fecha" : "2025-03-31 00:21:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 328
+	},
+	{
+		"id_pago" : 464,
+		"fecha" : "2025-01-18 23:02:46",
+		"valor_pago" : 28723.04,
+		"periodo" : "2025-02",
+		"alumno_id" : 273
+	},
+	{
+		"id_pago" : 465,
+		"fecha" : "2024-12-30 19:08:05",
+		"valor_pago" : 75986.65,
+		"periodo" : "2025-05",
+		"alumno_id" : 13
+	},
+	{
+		"id_pago" : 466,
+		"fecha" : "2025-08-23 03:04:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 561
+	},
+	{
+		"id_pago" : 467,
+		"fecha" : "2025-05-07 18:32:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "HksA",
+		"alumno_id" : 983
+	},
+	{
+		"id_pago" : 468,
+		"fecha" : "2025-03-15 03:35:38",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 264
+	},
+	{
+		"id_pago" : 469,
+		"fecha" : "2025-04-30 00:05:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 849
+	},
+	{
+		"id_pago" : 470,
+		"fecha" : "2025-02-28 20:28:13",
+		"valor_pago" : 82699.82,
+		"periodo" : "2025-03",
+		"alumno_id" : 116
+	},
+	{
+		"id_pago" : 471,
+		"fecha" : "2025-01-28 21:02:04",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 870
+	},
+	{
+		"id_pago" : 472,
+		"fecha" : "2024-12-23 00:17:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 338
+	},
+	{
+		"id_pago" : 473,
+		"fecha" : "2025-05-07 01:42:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 579
+	},
+	{
+		"id_pago" : 474,
+		"fecha" : "2025-05-16 07:52:03",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 359
+	},
+	{
+		"id_pago" : 475,
+		"fecha" : "2024-11-23 06:18:25",
+		"valor_pago" : 76549.06,
+		"periodo" : null,
+		"alumno_id" : 975
+	},
+	{
+		"id_pago" : 476,
+		"fecha" : "2024-12-15 16:14:18",
+		"valor_pago" : 59623.94,
+		"periodo" : "2025-01",
+		"alumno_id" : 446
+	},
+	{
+		"id_pago" : 477,
+		"fecha" : "2025-03-31 12:47:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 87
+	},
+	{
+		"id_pago" : 478,
+		"fecha" : "2025-08-31 20:10:56",
+		"valor_pago" : 101565.90,
+		"periodo" : null,
+		"alumno_id" : 348
+	},
+	{
+		"id_pago" : 479,
+		"fecha" : "2025-01-15 12:33:09",
+		"valor_pago" : 54220.50,
+		"periodo" : "2025-02",
+		"alumno_id" : 933
+	},
+	{
+		"id_pago" : 480,
+		"fecha" : "2025-01-13 02:09:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "aAKxkJ",
+		"alumno_id" : 105
+	},
+	{
+		"id_pago" : 481,
+		"fecha" : "2025-06-21 13:47:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 243
+	},
+	{
+		"id_pago" : 482,
+		"fecha" : "2025-02-18 02:09:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 42
+	},
+	{
+		"id_pago" : 483,
+		"fecha" : "2025-06-03 21:23:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 1
+	},
+	{
+		"id_pago" : 484,
+		"fecha" : "2025-07-11 08:32:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "ctNb",
+		"alumno_id" : 758
+	},
+	{
+		"id_pago" : 485,
+		"fecha" : "2024-12-02 13:12:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 339
+	},
+	{
+		"id_pago" : 486,
+		"fecha" : "2024-11-30 13:42:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "JouyGSy",
+		"alumno_id" : 776
+	},
+	{
+		"id_pago" : 487,
+		"fecha" : "2024-10-24 18:42:53",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 963
+	},
+	{
+		"id_pago" : 488,
+		"fecha" : "2025-08-24 03:24:10",
+		"valor_pago" : 33411.80,
+		"periodo" : "2025-02",
+		"alumno_id" : 186
+	},
+	{
+		"id_pago" : 489,
+		"fecha" : "2025-01-31 07:14:23",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 49
+	},
+	{
+		"id_pago" : 490,
+		"fecha" : "2025-03-12 22:15:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 663
+	},
+	{
+		"id_pago" : 491,
+		"fecha" : "2025-04-03 00:09:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 533
+	},
+	{
+		"id_pago" : 492,
+		"fecha" : "2025-01-03 23:28:33",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 715
+	},
+	{
+		"id_pago" : 493,
+		"fecha" : "2024-12-08 01:58:21",
+		"valor_pago" : 43166.71,
+		"periodo" : "2025-01",
+		"alumno_id" : 610
+	},
+	{
+		"id_pago" : 494,
+		"fecha" : "2024-12-17 09:31:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 47
+	},
+	{
+		"id_pago" : 495,
+		"fecha" : "2025-01-12 11:04:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 578
+	},
+	{
+		"id_pago" : 496,
+		"fecha" : "2024-11-08 16:49:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 456
+	},
+	{
+		"id_pago" : 497,
+		"fecha" : "2024-10-27 16:19:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 187
+	},
+	{
+		"id_pago" : 498,
+		"fecha" : "2025-04-30 04:40:00",
+		"valor_pago" : 147482.68,
+		"periodo" : "2025-01",
+		"alumno_id" : 477
+	},
+	{
+		"id_pago" : 499,
+		"fecha" : "2025-08-21 14:24:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 699
+	},
+	{
+		"id_pago" : 500,
+		"fecha" : "2025-05-29 01:38:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 336
+	},
+	{
+		"id_pago" : 501,
+		"fecha" : "2025-07-31 15:32:10",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 141
+	},
+	{
+		"id_pago" : 502,
+		"fecha" : "2024-10-19 18:58:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 777
+	},
+	{
+		"id_pago" : 503,
+		"fecha" : "2025-05-18 13:38:52",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 654
+	},
+	{
+		"id_pago" : 504,
+		"fecha" : "2025-05-19 22:20:07",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 675
+	},
+	{
+		"id_pago" : 505,
+		"fecha" : "2024-12-09 16:51:47",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 742
+	},
+	{
+		"id_pago" : 506,
+		"fecha" : "2025-07-15 14:22:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 115
+	},
+	{
+		"id_pago" : 507,
+		"fecha" : "2025-04-27 00:17:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 461
+	},
+	{
+		"id_pago" : 508,
+		"fecha" : "2025-04-17 19:12:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 114
+	},
+	{
+		"id_pago" : 509,
+		"fecha" : "2024-10-18 11:12:40",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 699
+	},
+	{
+		"id_pago" : 510,
+		"fecha" : "2024-11-21 11:37:33",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 147
+	},
+	{
+		"id_pago" : 511,
+		"fecha" : "2024-12-13 12:07:26",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 375
+	},
+	{
+		"id_pago" : 512,
+		"fecha" : "2025-03-05 13:13:53",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 35
+	},
+	{
+		"id_pago" : 513,
+		"fecha" : "2024-12-09 20:15:25",
+		"valor_pago" : 97867.05,
+		"periodo" : "2025-04",
+		"alumno_id" : 265
+	},
+	{
+		"id_pago" : 514,
+		"fecha" : "2025-04-18 14:37:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "dOfFS",
+		"alumno_id" : 926
+	},
+	{
+		"id_pago" : 515,
+		"fecha" : "2024-10-29 18:15:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 825
+	},
+	{
+		"id_pago" : 516,
+		"fecha" : "2025-07-21 17:10:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 861
+	},
+	{
+		"id_pago" : 517,
+		"fecha" : "2024-12-14 00:06:04",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 771
+	},
+	{
+		"id_pago" : 518,
+		"fecha" : "2025-03-10 01:43:07",
+		"valor_pago" : 69190.67,
+		"periodo" : "fGSxfi",
+		"alumno_id" : 420
+	},
+	{
+		"id_pago" : 519,
+		"fecha" : "2025-07-26 00:33:09",
+		"valor_pago" : 116796.79,
+		"periodo" : "2025-04",
+		"alumno_id" : 923
+	},
+	{
+		"id_pago" : 520,
+		"fecha" : "2025-03-26 17:40:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 981
+	},
+	{
+		"id_pago" : 521,
+		"fecha" : "2024-10-21 21:14:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 314
+	},
+	{
+		"id_pago" : 522,
+		"fecha" : "2024-11-28 04:52:35",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 915
+	},
+	{
+		"id_pago" : 523,
+		"fecha" : "2025-07-17 00:36:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 7
+	},
+	{
+		"id_pago" : 524,
+		"fecha" : "2025-07-01 18:00:26",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 665
+	},
+	{
+		"id_pago" : 525,
+		"fecha" : "2025-04-16 23:30:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "SHRX",
+		"alumno_id" : 922
+	},
+	{
+		"id_pago" : 526,
+		"fecha" : "2025-05-25 10:03:11",
+		"valor_pago" : 35752.51,
+		"periodo" : "2025-03",
+		"alumno_id" : 988
+	},
+	{
+		"id_pago" : 527,
+		"fecha" : "2025-04-09 07:39:14",
+		"valor_pago" : 121879.42,
+		"periodo" : "2025-05",
+		"alumno_id" : 501
+	},
+	{
+		"id_pago" : 528,
+		"fecha" : "2024-12-28 01:25:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 868
+	},
+	{
+		"id_pago" : 529,
+		"fecha" : "2025-09-08 05:40:27",
+		"valor_pago" : 105436.54,
+		"periodo" : "2025-04",
+		"alumno_id" : 337
+	},
+	{
+		"id_pago" : 530,
+		"fecha" : "2025-02-14 11:08:59",
+		"valor_pago" : 138078.20,
+		"periodo" : "2025-03",
+		"alumno_id" : 736
+	},
+	{
+		"id_pago" : 531,
+		"fecha" : "2025-07-07 08:23:05",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 775
+	},
+	{
+		"id_pago" : 532,
+		"fecha" : "2025-05-13 00:24:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 678
+	},
+	{
+		"id_pago" : 533,
+		"fecha" : "2025-08-05 22:59:32",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 823
+	},
+	{
+		"id_pago" : 534,
+		"fecha" : "2025-01-15 18:26:48",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 482
+	},
+	{
+		"id_pago" : 535,
+		"fecha" : "2024-10-22 01:36:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 885
+	},
+	{
+		"id_pago" : 536,
+		"fecha" : "2025-04-07 09:07:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 498
+	},
+	{
+		"id_pago" : 537,
+		"fecha" : "2025-08-06 01:42:12",
+		"valor_pago" : 48340.36,
+		"periodo" : "2025-03",
+		"alumno_id" : 738
+	},
+	{
+		"id_pago" : 538,
+		"fecha" : "2025-06-02 10:21:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 261
+	},
+	{
+		"id_pago" : 539,
+		"fecha" : "2025-08-23 20:59:59",
+		"valor_pago" : null,
+		"periodo" : "egOKV",
+		"alumno_id" : 448
+	},
+	{
+		"id_pago" : 540,
+		"fecha" : "2025-01-30 12:23:50",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 992
+	},
+	{
+		"id_pago" : 541,
+		"fecha" : "2025-07-24 09:21:06",
+		"valor_pago" : 121623.53,
+		"periodo" : "2025-03",
+		"alumno_id" : 93
+	},
+	{
+		"id_pago" : 542,
+		"fecha" : "2024-10-19 13:54:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 27
+	},
+	{
+		"id_pago" : 543,
+		"fecha" : "2025-01-13 09:26:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 745
+	},
+	{
+		"id_pago" : 544,
+		"fecha" : "2025-06-04 14:48:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 833
+	},
+	{
+		"id_pago" : 545,
+		"fecha" : "2025-04-09 11:47:59",
+		"valor_pago" : 115006.36,
+		"periodo" : "2025-02",
+		"alumno_id" : 311
+	},
+	{
+		"id_pago" : 546,
+		"fecha" : "2025-02-08 13:57:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "RLTU",
+		"alumno_id" : 803
+	},
+	{
+		"id_pago" : 547,
+		"fecha" : "2025-07-30 08:19:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 642
+	},
+	{
+		"id_pago" : 548,
+		"fecha" : "2025-02-27 20:12:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 841
+	},
+	{
+		"id_pago" : 549,
+		"fecha" : "2024-10-24 23:38:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 323
+	},
+	{
+		"id_pago" : 550,
+		"fecha" : "2024-10-11 07:53:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 832
+	},
+	{
+		"id_pago" : 551,
+		"fecha" : "2025-07-03 17:17:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 659
+	},
+	{
+		"id_pago" : 552,
+		"fecha" : "2024-10-30 17:26:02",
+		"valor_pago" : 65541.30,
+		"periodo" : "2025-02",
+		"alumno_id" : 608
+	},
+	{
+		"id_pago" : 553,
+		"fecha" : "2024-11-21 18:48:39",
+		"valor_pago" : 64778.05,
+		"periodo" : "2025-02",
+		"alumno_id" : 162
+	},
+	{
+		"id_pago" : 554,
+		"fecha" : "2024-12-11 13:12:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 976
+	},
+	{
+		"id_pago" : 555,
+		"fecha" : "2024-11-29 02:18:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "YXloR",
+		"alumno_id" : 56
+	},
+	{
+		"id_pago" : 556,
+		"fecha" : "2025-09-13 09:18:34",
+		"valor_pago" : 142305.82,
+		"periodo" : "2025-01",
+		"alumno_id" : 270
+	},
+	{
+		"id_pago" : 557,
+		"fecha" : "2025-09-20 00:27:03",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 472
+	},
+	{
+		"id_pago" : 558,
+		"fecha" : "2025-02-21 12:31:44",
+		"valor_pago" : 36201.89,
+		"periodo" : "2025-04",
+		"alumno_id" : 340
+	},
+	{
+		"id_pago" : 559,
+		"fecha" : "2025-09-28 05:32:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 441
+	},
+	{
+		"id_pago" : 560,
+		"fecha" : "2024-11-30 00:33:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "RsHv",
+		"alumno_id" : 235
+	},
+	{
+		"id_pago" : 561,
+		"fecha" : "2025-03-21 20:16:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 304
+	},
+	{
+		"id_pago" : 562,
+		"fecha" : "2025-01-27 13:06:08",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 352
+	},
+	{
+		"id_pago" : 563,
+		"fecha" : "2024-12-07 10:51:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 180
+	},
+	{
+		"id_pago" : 564,
+		"fecha" : "2025-04-20 22:38:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 970
+	},
+	{
+		"id_pago" : 565,
+		"fecha" : "2024-10-21 12:08:21",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 660
+	},
+	{
+		"id_pago" : 566,
+		"fecha" : "2025-09-29 14:17:16",
+		"valor_pago" : 107183.22,
+		"periodo" : "2025-03",
+		"alumno_id" : 146
+	},
+	{
+		"id_pago" : 567,
+		"fecha" : "2025-05-26 08:03:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 977
+	},
+	{
+		"id_pago" : 568,
+		"fecha" : "2025-04-11 01:23:50",
+		"valor_pago" : 65294.64,
+		"periodo" : "2025-03",
+		"alumno_id" : 436
+	},
+	{
+		"id_pago" : 569,
+		"fecha" : "2024-12-01 05:43:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 816
+	},
+	{
+		"id_pago" : 570,
+		"fecha" : "2025-09-26 14:56:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "jEpX",
+		"alumno_id" : 696
+	},
+	{
+		"id_pago" : 571,
+		"fecha" : "2025-08-15 22:39:13",
+		"valor_pago" : 21419.71,
+		"periodo" : "2025-01",
+		"alumno_id" : 274
+	},
+	{
+		"id_pago" : 572,
+		"fecha" : "2025-04-18 04:25:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "cZiHO",
+		"alumno_id" : 528
+	},
+	{
+		"id_pago" : 573,
+		"fecha" : "2025-09-12 03:41:32",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 895
+	},
+	{
+		"id_pago" : 574,
+		"fecha" : "2025-08-02 22:43:46",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 702
+	},
+	{
+		"id_pago" : 575,
+		"fecha" : "2025-07-27 05:36:25",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 777
+	},
+	{
+		"id_pago" : 576,
+		"fecha" : "2025-07-19 13:44:27",
+		"valor_pago" : 103507.02,
+		"periodo" : "2025-02",
+		"alumno_id" : 251
+	},
+	{
+		"id_pago" : 577,
+		"fecha" : "2025-01-26 06:57:48",
+		"valor_pago" : 81668.29,
+		"periodo" : "2025-02",
+		"alumno_id" : 928
+	},
+	{
+		"id_pago" : 578,
+		"fecha" : "2024-12-31 19:32:00",
+		"valor_pago" : 76118.13,
+		"periodo" : "2025-02",
+		"alumno_id" : 583
+	},
+	{
+		"id_pago" : 579,
+		"fecha" : "2025-08-05 23:39:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 979
+	},
+	{
+		"id_pago" : 580,
+		"fecha" : "2025-06-28 04:02:41",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 117
+	},
+	{
+		"id_pago" : 581,
+		"fecha" : "2025-09-22 21:36:14",
+		"valor_pago" : 22897.26,
+		"periodo" : "2025-01",
+		"alumno_id" : 9
+	},
+	{
+		"id_pago" : 582,
+		"fecha" : "2024-12-20 03:41:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 126
+	},
+	{
+		"id_pago" : 583,
+		"fecha" : "2025-02-14 06:46:46",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 649
+	},
+	{
+		"id_pago" : 584,
+		"fecha" : "2024-11-18 19:51:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "WGNAeI",
+		"alumno_id" : 459
+	},
+	{
+		"id_pago" : 585,
+		"fecha" : "2025-05-17 03:44:55",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 706
+	},
+	{
+		"id_pago" : 586,
+		"fecha" : "2025-04-01 16:25:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 570
+	},
+	{
+		"id_pago" : 587,
+		"fecha" : "2025-07-05 10:01:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 494
+	},
+	{
+		"id_pago" : 588,
+		"fecha" : "2025-04-18 17:56:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 974
+	},
+	{
+		"id_pago" : 589,
+		"fecha" : "2024-12-24 07:56:16",
+		"valor_pago" : 57161.62,
+		"periodo" : "2025-02",
+		"alumno_id" : 286
+	},
+	{
+		"id_pago" : 590,
+		"fecha" : "2025-07-01 05:20:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 300
+	},
+	{
+		"id_pago" : 591,
+		"fecha" : "2025-05-28 11:48:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 835
+	},
+	{
+		"id_pago" : 592,
+		"fecha" : "2025-05-26 07:44:45",
+		"valor_pago" : 61146.94,
+		"periodo" : "2025-02",
+		"alumno_id" : 140
+	},
+	{
+		"id_pago" : 593,
+		"fecha" : "2024-12-07 04:24:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 915
+	},
+	{
+		"id_pago" : 594,
+		"fecha" : "2025-04-27 01:09:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 253
+	},
+	{
+		"id_pago" : 595,
+		"fecha" : "2025-04-20 08:07:30",
+		"valor_pago" : 54346.32,
+		"periodo" : "2025-01",
+		"alumno_id" : 668
+	},
+	{
+		"id_pago" : 596,
+		"fecha" : "2025-03-09 08:23:36",
+		"valor_pago" : 128127.21,
+		"periodo" : "2025-05",
+		"alumno_id" : 172
+	},
+	{
+		"id_pago" : 597,
+		"fecha" : "2025-09-01 10:15:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 550
+	},
+	{
+		"id_pago" : 598,
+		"fecha" : "2025-02-17 18:07:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "gPsn",
+		"alumno_id" : 764
+	},
+	{
+		"id_pago" : 599,
+		"fecha" : "2025-05-10 12:03:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 562
+	},
+	{
+		"id_pago" : 600,
+		"fecha" : "2025-03-31 08:09:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 594
+	},
+	{
+		"id_pago" : 601,
+		"fecha" : "2024-12-05 04:00:29",
+		"valor_pago" : 74892.00,
+		"periodo" : "hqMfEdP",
+		"alumno_id" : 757
+	},
+	{
+		"id_pago" : 602,
+		"fecha" : "2025-04-04 05:46:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 684
+	},
+	{
+		"id_pago" : 603,
+		"fecha" : "2025-08-22 14:39:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 858
+	},
+	{
+		"id_pago" : 604,
+		"fecha" : "2025-03-31 15:54:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 308
+	},
+	{
+		"id_pago" : 605,
+		"fecha" : "2025-08-13 17:36:42",
+		"valor_pago" : 142980.28,
+		"periodo" : "BJnQG",
+		"alumno_id" : 764
+	},
+	{
+		"id_pago" : 606,
+		"fecha" : "2024-11-06 04:54:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 431
+	},
+	{
+		"id_pago" : 607,
+		"fecha" : "2025-09-16 09:52:47",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 273
+	},
+	{
+		"id_pago" : 608,
+		"fecha" : "2025-02-09 15:28:41",
+		"valor_pago" : 107755.39,
+		"periodo" : "2025-05",
+		"alumno_id" : 264
+	},
+	{
+		"id_pago" : 609,
+		"fecha" : "2025-08-29 03:45:53",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 65
+	},
+	{
+		"id_pago" : 610,
+		"fecha" : "2025-08-18 06:44:56",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 449
+	},
+	{
+		"id_pago" : 611,
+		"fecha" : "2025-03-03 06:39:36",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 708
+	},
+	{
+		"id_pago" : 612,
+		"fecha" : "2024-11-04 15:52:21",
+		"valor_pago" : 26946.26,
+		"periodo" : "2025-04",
+		"alumno_id" : 220
+	},
+	{
+		"id_pago" : 613,
+		"fecha" : "2025-09-21 05:51:47",
+		"valor_pago" : null,
+		"periodo" : null,
+		"alumno_id" : 607
+	},
+	{
+		"id_pago" : 614,
+		"fecha" : "2025-05-09 23:24:23",
+		"valor_pago" : 64467.85,
+		"periodo" : "2025-02",
+		"alumno_id" : 334
+	},
+	{
+		"id_pago" : 615,
+		"fecha" : "2025-06-19 15:28:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "LvzI",
+		"alumno_id" : 755
+	},
+	{
+		"id_pago" : 616,
+		"fecha" : "2025-01-29 20:06:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 650
+	},
+	{
+		"id_pago" : 617,
+		"fecha" : "2025-06-14 00:50:53",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 461
+	},
+	{
+		"id_pago" : 618,
+		"fecha" : "2024-11-30 10:12:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 562
+	},
+	{
+		"id_pago" : 619,
+		"fecha" : "2025-09-13 03:24:15",
+		"valor_pago" : 48629.35,
+		"periodo" : "2025-01",
+		"alumno_id" : 115
+	},
+	{
+		"id_pago" : 620,
+		"fecha" : "2025-02-05 00:35:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 477
+	},
+	{
+		"id_pago" : 621,
+		"fecha" : "2025-09-15 22:07:55",
+		"valor_pago" : 58058.02,
+		"periodo" : "2025-05",
+		"alumno_id" : 877
+	},
+	{
+		"id_pago" : 622,
+		"fecha" : "2025-03-08 23:09:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 257
+	},
+	{
+		"id_pago" : 623,
+		"fecha" : "2025-08-12 10:25:36",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 662
+	},
+	{
+		"id_pago" : 624,
+		"fecha" : "2025-08-02 05:26:25",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 128
+	},
+	{
+		"id_pago" : 625,
+		"fecha" : "2025-09-02 22:40:01",
+		"valor_pago" : 79568.62,
+		"periodo" : null,
+		"alumno_id" : 76
+	},
+	{
+		"id_pago" : 626,
+		"fecha" : "2025-03-19 07:50:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 598
+	},
+	{
+		"id_pago" : 627,
+		"fecha" : "2025-04-09 04:21:57",
+		"valor_pago" : 22939.72,
+		"periodo" : null,
+		"alumno_id" : 277
+	},
+	{
+		"id_pago" : 628,
+		"fecha" : "2025-08-20 11:36:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 451
+	},
+	{
+		"id_pago" : 629,
+		"fecha" : "2025-05-29 14:40:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "HnWg",
+		"alumno_id" : 603
+	},
+	{
+		"id_pago" : 630,
+		"fecha" : "2025-03-19 04:51:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "rtxK",
+		"alumno_id" : 997
+	},
+	{
+		"id_pago" : 631,
+		"fecha" : "2025-02-01 20:30:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 997
+	},
+	{
+		"id_pago" : 632,
+		"fecha" : "2024-12-02 03:53:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 286
+	},
+	{
+		"id_pago" : 633,
+		"fecha" : "2025-07-31 13:26:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 55
+	},
+	{
+		"id_pago" : 634,
+		"fecha" : "2025-05-01 07:03:59",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 883
+	},
+	{
+		"id_pago" : 635,
+		"fecha" : "2024-12-01 00:23:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 511
+	},
+	{
+		"id_pago" : 636,
+		"fecha" : "2025-01-10 04:18:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 349
+	},
+	{
+		"id_pago" : 637,
+		"fecha" : "2024-12-06 17:59:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 253
+	},
+	{
+		"id_pago" : 638,
+		"fecha" : "2024-12-01 15:10:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 703
+	},
+	{
+		"id_pago" : 639,
+		"fecha" : "2025-05-18 09:44:06",
+		"valor_pago" : 43820.46,
+		"periodo" : "2025-05",
+		"alumno_id" : 530
+	},
+	{
+		"id_pago" : 640,
+		"fecha" : "2025-03-23 10:16:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 922
+	},
+	{
+		"id_pago" : 641,
+		"fecha" : "2025-03-02 21:29:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 715
+	},
+	{
+		"id_pago" : 642,
+		"fecha" : "2025-06-12 15:51:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 578
+	},
+	{
+		"id_pago" : 643,
+		"fecha" : "2024-12-07 19:24:16",
+		"valor_pago" : 116308.61,
+		"periodo" : "2025-02",
+		"alumno_id" : 533
+	},
+	{
+		"id_pago" : 644,
+		"fecha" : "2025-01-29 16:52:16",
+		"valor_pago" : 105559.53,
+		"periodo" : "ytnOGP",
+		"alumno_id" : 266
+	},
+	{
+		"id_pago" : 645,
+		"fecha" : "2025-06-10 05:02:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 160
+	},
+	{
+		"id_pago" : 646,
+		"fecha" : "2025-08-08 08:59:16",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 562
+	},
+	{
+		"id_pago" : 647,
+		"fecha" : "2024-11-17 02:15:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 605
+	},
+	{
+		"id_pago" : 648,
+		"fecha" : "2024-11-20 10:07:15",
+		"valor_pago" : 130945.94,
+		"periodo" : "2025-03",
+		"alumno_id" : 514
+	},
+	{
+		"id_pago" : 649,
+		"fecha" : "2025-06-11 05:20:05",
+		"valor_pago" : 98856.74,
+		"periodo" : "hIlurB",
+		"alumno_id" : 801
+	},
+	{
+		"id_pago" : 650,
+		"fecha" : "2025-02-06 08:56:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "EFHBzm",
+		"alumno_id" : 630
+	},
+	{
+		"id_pago" : 651,
+		"fecha" : "2025-03-17 15:07:04",
+		"valor_pago" : 50000.00,
+		"periodo" : "UtOeIv",
+		"alumno_id" : 461
+	},
+	{
+		"id_pago" : 652,
+		"fecha" : "2024-12-05 05:52:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 297
+	},
+	{
+		"id_pago" : 653,
+		"fecha" : "2025-07-25 13:49:13",
+		"valor_pago" : 64896.80,
+		"periodo" : null,
+		"alumno_id" : 114
+	},
+	{
+		"id_pago" : 654,
+		"fecha" : "2025-09-18 14:00:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 362
+	},
+	{
+		"id_pago" : 655,
+		"fecha" : "2025-06-11 18:13:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 514
+	},
+	{
+		"id_pago" : 656,
+		"fecha" : "2025-04-09 07:45:59",
+		"valor_pago" : 74111.05,
+		"periodo" : "2025-03",
+		"alumno_id" : 165
+	},
+	{
+		"id_pago" : 657,
+		"fecha" : "2025-03-17 09:43:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "zpcXBc",
+		"alumno_id" : 406
+	},
+	{
+		"id_pago" : 658,
+		"fecha" : "2024-12-09 06:34:14",
+		"valor_pago" : 134268.52,
+		"periodo" : "2025-03",
+		"alumno_id" : 45
+	},
+	{
+		"id_pago" : 659,
+		"fecha" : "2024-10-17 18:37:39",
+		"valor_pago" : 108575.79,
+		"periodo" : "2025-05",
+		"alumno_id" : 440
+	},
+	{
+		"id_pago" : 660,
+		"fecha" : "2024-12-05 15:45:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "UIihmu",
+		"alumno_id" : 240
+	},
+	{
+		"id_pago" : 661,
+		"fecha" : "2025-02-13 04:40:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 702
+	},
+	{
+		"id_pago" : 662,
+		"fecha" : "2025-09-06 03:05:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 352
+	},
+	{
+		"id_pago" : 663,
+		"fecha" : "2025-05-26 01:33:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 818
+	},
+	{
+		"id_pago" : 664,
+		"fecha" : "2024-11-14 09:52:15",
+		"valor_pago" : 99202.88,
+		"periodo" : "2025-02",
+		"alumno_id" : 632
+	},
+	{
+		"id_pago" : 665,
+		"fecha" : "2025-05-05 14:53:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 990
+	},
+	{
+		"id_pago" : 666,
+		"fecha" : "2024-12-08 01:24:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "rsuWgX",
+		"alumno_id" : 621
+	},
+	{
+		"id_pago" : 667,
+		"fecha" : "2025-02-09 21:01:52",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 763
+	},
+	{
+		"id_pago" : 668,
+		"fecha" : "2025-05-06 15:45:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 366
+	},
+	{
+		"id_pago" : 669,
+		"fecha" : "2025-06-04 03:47:36",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 26
+	},
+	{
+		"id_pago" : 670,
+		"fecha" : "2025-05-04 01:42:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 772
+	},
+	{
+		"id_pago" : 671,
+		"fecha" : "2024-12-07 15:08:30",
+		"valor_pago" : null,
+		"periodo" : "EaQmG",
+		"alumno_id" : 243
+	},
+	{
+		"id_pago" : 672,
+		"fecha" : "2025-08-04 12:38:13",
+		"valor_pago" : 147304.11,
+		"periodo" : "2025-05",
+		"alumno_id" : 756
+	},
+	{
+		"id_pago" : 673,
+		"fecha" : "2025-02-15 21:40:19",
+		"valor_pago" : null,
+		"periodo" : "BKRPP",
+		"alumno_id" : 247
+	},
+	{
+		"id_pago" : 674,
+		"fecha" : "2025-03-12 19:31:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 257
+	},
+	{
+		"id_pago" : 675,
+		"fecha" : "2025-08-27 07:37:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 907
+	},
+	{
+		"id_pago" : 676,
+		"fecha" : "2025-07-27 00:59:20",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 236
+	},
+	{
+		"id_pago" : 677,
+		"fecha" : "2025-03-09 09:23:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 851
+	},
+	{
+		"id_pago" : 678,
+		"fecha" : "2025-08-21 23:50:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "rZwPE",
+		"alumno_id" : 774
+	},
+	{
+		"id_pago" : 679,
+		"fecha" : "2025-08-14 05:46:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 317
+	},
+	{
+		"id_pago" : 680,
+		"fecha" : "2025-06-21 07:50:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 79
+	},
+	{
+		"id_pago" : 681,
+		"fecha" : "2025-07-25 13:34:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "tPmkIaE",
+		"alumno_id" : 233
+	},
+	{
+		"id_pago" : 682,
+		"fecha" : "2025-09-20 20:57:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 807
+	},
+	{
+		"id_pago" : 683,
+		"fecha" : "2025-09-06 10:09:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 729
+	},
+	{
+		"id_pago" : 684,
+		"fecha" : "2025-01-12 16:05:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 495
+	},
+	{
+		"id_pago" : 685,
+		"fecha" : "2025-08-09 12:48:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "OLmawJ",
+		"alumno_id" : 787
+	},
+	{
+		"id_pago" : 686,
+		"fecha" : "2025-02-21 07:42:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 695
+	},
+	{
+		"id_pago" : 687,
+		"fecha" : "2025-09-23 05:24:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "NOEqddh",
+		"alumno_id" : 516
+	},
+	{
+		"id_pago" : 688,
+		"fecha" : "2025-04-24 03:29:27",
+		"valor_pago" : 106118.51,
+		"periodo" : "2025-05",
+		"alumno_id" : 74
+	},
+	{
+		"id_pago" : 689,
+		"fecha" : "2025-09-17 14:20:03",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 847
+	},
+	{
+		"id_pago" : 690,
+		"fecha" : "2025-06-12 14:48:19",
+		"valor_pago" : 82220.79,
+		"periodo" : "2025-03",
+		"alumno_id" : 762
+	},
+	{
+		"id_pago" : 691,
+		"fecha" : "2025-07-30 13:15:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 343
+	},
+	{
+		"id_pago" : 692,
+		"fecha" : "2025-05-11 03:58:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 255
+	},
+	{
+		"id_pago" : 693,
+		"fecha" : "2025-04-11 04:45:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 563
+	},
+	{
+		"id_pago" : 694,
+		"fecha" : "2025-03-17 16:52:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 70
+	},
+	{
+		"id_pago" : 695,
+		"fecha" : "2024-12-07 22:32:34",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 927
+	},
+	{
+		"id_pago" : 696,
+		"fecha" : "2025-07-19 02:40:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 888
+	},
+	{
+		"id_pago" : 697,
+		"fecha" : "2025-09-27 06:03:50",
+		"valor_pago" : 69028.39,
+		"periodo" : "2025-03",
+		"alumno_id" : 409
+	},
+	{
+		"id_pago" : 698,
+		"fecha" : "2025-07-22 19:53:22",
+		"valor_pago" : 42633.89,
+		"periodo" : "2025-01",
+		"alumno_id" : 113
+	},
+	{
+		"id_pago" : 699,
+		"fecha" : "2025-02-23 18:37:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 450
+	},
+	{
+		"id_pago" : 700,
+		"fecha" : "2024-12-27 17:18:16",
+		"valor_pago" : 108876.89,
+		"periodo" : "2025-05",
+		"alumno_id" : 616
+	},
+	{
+		"id_pago" : 701,
+		"fecha" : "2024-12-08 12:35:21",
+		"valor_pago" : 115872.44,
+		"periodo" : "AQUBwww",
+		"alumno_id" : 271
+	},
+	{
+		"id_pago" : 702,
+		"fecha" : "2024-10-05 09:09:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 364
+	},
+	{
+		"id_pago" : 703,
+		"fecha" : "2024-12-26 21:02:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 37
+	},
+	{
+		"id_pago" : 704,
+		"fecha" : "2025-03-02 19:35:48",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 677
+	},
+	{
+		"id_pago" : 705,
+		"fecha" : "2025-05-23 01:52:42",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 201
+	},
+	{
+		"id_pago" : 706,
+		"fecha" : "2025-04-28 17:43:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 180
+	},
+	{
+		"id_pago" : 707,
+		"fecha" : "2025-08-24 20:19:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 244
+	},
+	{
+		"id_pago" : 708,
+		"fecha" : "2025-04-15 18:16:09",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 594
+	},
+	{
+		"id_pago" : 709,
+		"fecha" : "2024-12-25 06:33:48",
+		"valor_pago" : 65946.69,
+		"periodo" : "2025-04",
+		"alumno_id" : 486
+	},
+	{
+		"id_pago" : 710,
+		"fecha" : "2025-05-31 19:09:48",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 4
+	},
+	{
+		"id_pago" : 711,
+		"fecha" : "2025-08-29 20:38:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 109
+	},
+	{
+		"id_pago" : 712,
+		"fecha" : "2025-02-14 14:45:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 336
+	},
+	{
+		"id_pago" : 713,
+		"fecha" : "2024-12-20 10:50:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "MaUn",
+		"alumno_id" : 292
+	},
+	{
+		"id_pago" : 714,
+		"fecha" : "2025-10-03 13:36:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 639
+	},
+	{
+		"id_pago" : 715,
+		"fecha" : "2025-02-10 21:20:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 311
+	},
+	{
+		"id_pago" : 716,
+		"fecha" : "2025-05-30 21:36:25",
+		"valor_pago" : 38087.13,
+		"periodo" : null,
+		"alumno_id" : 573
+	},
+	{
+		"id_pago" : 717,
+		"fecha" : "2025-01-08 00:23:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "MlAcX",
+		"alumno_id" : 49
+	},
+	{
+		"id_pago" : 718,
+		"fecha" : "2025-01-18 20:14:02",
+		"valor_pago" : 93562.52,
+		"periodo" : "2025-01",
+		"alumno_id" : 893
+	},
+	{
+		"id_pago" : 719,
+		"fecha" : "2025-02-23 21:31:07",
+		"valor_pago" : 110465.11,
+		"periodo" : "2025-05",
+		"alumno_id" : 914
+	},
+	{
+		"id_pago" : 720,
+		"fecha" : "2025-05-13 05:42:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 901
+	},
+	{
+		"id_pago" : 721,
+		"fecha" : "2024-12-26 15:05:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 109
+	},
+	{
+		"id_pago" : 722,
+		"fecha" : "2025-02-07 15:45:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 800
+	},
+	{
+		"id_pago" : 723,
+		"fecha" : "2025-04-21 05:26:42",
+		"valor_pago" : 53716.37,
+		"periodo" : "yimjRO",
+		"alumno_id" : 908
+	},
+	{
+		"id_pago" : 724,
+		"fecha" : "2024-10-28 05:39:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 345
+	},
+	{
+		"id_pago" : 725,
+		"fecha" : "2025-03-06 18:23:49",
+		"valor_pago" : 72952.13,
+		"periodo" : "2025-01",
+		"alumno_id" : 86
+	},
+	{
+		"id_pago" : 726,
+		"fecha" : "2025-09-29 15:40:47",
+		"valor_pago" : 120097.52,
+		"periodo" : "nisns",
+		"alumno_id" : 781
+	},
+	{
+		"id_pago" : 727,
+		"fecha" : "2025-04-28 23:39:03",
+		"valor_pago" : 115216.85,
+		"periodo" : null,
+		"alumno_id" : 49
+	},
+	{
+		"id_pago" : 728,
+		"fecha" : "2025-02-27 22:20:11",
+		"valor_pago" : 124456.65,
+		"periodo" : null,
+		"alumno_id" : 182
+	},
+	{
+		"id_pago" : 729,
+		"fecha" : "2025-02-06 21:32:32",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 621
+	},
+	{
+		"id_pago" : 730,
+		"fecha" : "2025-07-03 01:36:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 890
+	},
+	{
+		"id_pago" : 731,
+		"fecha" : "2025-07-18 13:41:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 457
+	},
+	{
+		"id_pago" : 732,
+		"fecha" : "2024-11-26 03:51:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 19
+	},
+	{
+		"id_pago" : 733,
+		"fecha" : "2025-02-22 02:37:25",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 602
+	},
+	{
+		"id_pago" : 734,
+		"fecha" : "2024-12-24 03:24:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 406
+	},
+	{
+		"id_pago" : 735,
+		"fecha" : "2025-09-17 16:59:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 828
+	},
+	{
+		"id_pago" : 736,
+		"fecha" : "2025-05-29 16:14:34",
+		"valor_pago" : 110460.04,
+		"periodo" : "2025-04",
+		"alumno_id" : 658
+	},
+	{
+		"id_pago" : 737,
+		"fecha" : "2025-07-30 01:02:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "iIQu",
+		"alumno_id" : 409
+	},
+	{
+		"id_pago" : 738,
+		"fecha" : "2025-05-31 18:10:11",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 120
+	},
+	{
+		"id_pago" : 739,
+		"fecha" : "2025-03-17 03:24:52",
+		"valor_pago" : 50000.00,
+		"periodo" : "mKjPvzO",
+		"alumno_id" : 285
+	},
+	{
+		"id_pago" : 740,
+		"fecha" : "2025-07-02 09:38:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 631
+	},
+	{
+		"id_pago" : 741,
+		"fecha" : "2025-02-24 19:16:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "zySgcMi",
+		"alumno_id" : 284
+	},
+	{
+		"id_pago" : 742,
+		"fecha" : "2024-10-23 11:41:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "S JtZjo",
+		"alumno_id" : 322
+	},
+	{
+		"id_pago" : 743,
+		"fecha" : "2024-12-03 06:47:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 34
+	},
+	{
+		"id_pago" : 744,
+		"fecha" : "2025-08-20 11:02:05",
+		"valor_pago" : 78939.52,
+		"periodo" : "2025-04",
+		"alumno_id" : 954
+	},
+	{
+		"id_pago" : 745,
+		"fecha" : "2025-03-11 05:48:55",
+		"valor_pago" : 84839.09,
+		"periodo" : "2025-02",
+		"alumno_id" : 303
+	},
+	{
+		"id_pago" : 746,
+		"fecha" : "2024-11-28 12:00:40",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 361
+	},
+	{
+		"id_pago" : 747,
+		"fecha" : "2024-11-30 01:51:11",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 292
+	},
+	{
+		"id_pago" : 748,
+		"fecha" : "2025-07-26 18:53:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 947
+	},
+	{
+		"id_pago" : 749,
+		"fecha" : "2025-07-06 19:14:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 332
+	},
+	{
+		"id_pago" : 750,
+		"fecha" : "2024-11-02 02:21:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 688
+	},
+	{
+		"id_pago" : 751,
+		"fecha" : "2025-08-03 07:22:16",
+		"valor_pago" : 61953.23,
+		"periodo" : "LUpWo",
+		"alumno_id" : 793
+	},
+	{
+		"id_pago" : 752,
+		"fecha" : "2025-09-11 10:08:08",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 351
+	},
+	{
+		"id_pago" : 753,
+		"fecha" : "2024-12-06 15:26:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 985
+	},
+	{
+		"id_pago" : 754,
+		"fecha" : "2024-10-15 21:20:05",
+		"valor_pago" : 23659.16,
+		"periodo" : "GjyrVls",
+		"alumno_id" : 695
+	},
+	{
+		"id_pago" : 755,
+		"fecha" : "2025-07-18 06:23:57",
+		"valor_pago" : 118731.02,
+		"periodo" : "2025-02",
+		"alumno_id" : 833
+	},
+	{
+		"id_pago" : 756,
+		"fecha" : "2025-02-22 02:19:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 239
+	},
+	{
+		"id_pago" : 757,
+		"fecha" : "2024-10-30 22:06:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 670
+	},
+	{
+		"id_pago" : 758,
+		"fecha" : "2024-11-12 05:30:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 22
+	},
+	{
+		"id_pago" : 759,
+		"fecha" : "2025-04-06 01:31:45",
+		"valor_pago" : 59999.40,
+		"periodo" : "2025-02",
+		"alumno_id" : 519
+	},
+	{
+		"id_pago" : 760,
+		"fecha" : "2025-06-10 13:19:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 307
+	},
+	{
+		"id_pago" : 761,
+		"fecha" : "2025-08-05 17:06:45",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 79
+	},
+	{
+		"id_pago" : 762,
+		"fecha" : "2025-05-01 20:21:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 882
+	},
+	{
+		"id_pago" : 763,
+		"fecha" : "2025-03-25 19:56:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 78
+	},
+	{
+		"id_pago" : 764,
+		"fecha" : "2025-03-21 11:05:18",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 953
+	},
+	{
+		"id_pago" : 765,
+		"fecha" : "2025-08-08 06:49:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 396
+	},
+	{
+		"id_pago" : 766,
+		"fecha" : "2024-11-15 01:36:12",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 755
+	},
+	{
+		"id_pago" : 767,
+		"fecha" : "2025-09-04 12:26:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 477
+	},
+	{
+		"id_pago" : 768,
+		"fecha" : "2025-08-08 05:50:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 913
+	},
+	{
+		"id_pago" : 769,
+		"fecha" : "2025-09-06 09:46:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 5
+	},
+	{
+		"id_pago" : 770,
+		"fecha" : "2025-01-26 01:56:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 432
+	},
+	{
+		"id_pago" : 771,
+		"fecha" : "2024-11-30 23:49:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 203
+	},
+	{
+		"id_pago" : 772,
+		"fecha" : "2025-01-14 02:06:54",
+		"valor_pago" : 100013.06,
+		"periodo" : null,
+		"alumno_id" : 857
+	},
+	{
+		"id_pago" : 773,
+		"fecha" : "2025-06-08 19:19:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "EVSzBnl",
+		"alumno_id" : 51
+	},
+	{
+		"id_pago" : 774,
+		"fecha" : "2025-09-07 14:29:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 716
+	},
+	{
+		"id_pago" : 775,
+		"fecha" : "2025-09-27 06:03:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 583
+	},
+	{
+		"id_pago" : 776,
+		"fecha" : "2024-11-13 22:26:00",
+		"valor_pago" : 148705.20,
+		"periodo" : "2025-04",
+		"alumno_id" : 558
+	},
+	{
+		"id_pago" : 777,
+		"fecha" : "2025-01-05 17:12:27",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 263
+	},
+	{
+		"id_pago" : 778,
+		"fecha" : "2024-12-14 02:06:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "VArT",
+		"alumno_id" : 702
+	},
+	{
+		"id_pago" : 779,
+		"fecha" : "2024-12-14 08:45:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 99
+	},
+	{
+		"id_pago" : 780,
+		"fecha" : "2025-03-05 01:53:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 566
+	},
+	{
+		"id_pago" : 781,
+		"fecha" : "2025-06-22 20:43:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "gmzHoub",
+		"alumno_id" : 25
+	},
+	{
+		"id_pago" : 782,
+		"fecha" : "2024-10-12 02:58:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 151
+	},
+	{
+		"id_pago" : 783,
+		"fecha" : "2025-08-17 10:34:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 474
+	},
+	{
+		"id_pago" : 784,
+		"fecha" : "2024-12-25 07:33:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 222
+	},
+	{
+		"id_pago" : 785,
+		"fecha" : "2025-03-07 19:17:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 738
+	},
+	{
+		"id_pago" : 786,
+		"fecha" : "2025-02-05 02:50:51",
+		"valor_pago" : 124736.79,
+		"periodo" : "2025-02",
+		"alumno_id" : 453
+	},
+	{
+		"id_pago" : 787,
+		"fecha" : "2025-05-15 09:55:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 516
+	},
+	{
+		"id_pago" : 788,
+		"fecha" : "2025-07-21 04:38:22",
+		"valor_pago" : 40680.14,
+		"periodo" : null,
+		"alumno_id" : 48
+	},
+	{
+		"id_pago" : 789,
+		"fecha" : "2025-02-09 23:56:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 838
+	},
+	{
+		"id_pago" : 790,
+		"fecha" : "2024-11-24 23:30:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 158
+	},
+	{
+		"id_pago" : 791,
+		"fecha" : "2024-12-24 13:31:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 726
+	},
+	{
+		"id_pago" : 792,
+		"fecha" : "2025-03-09 21:39:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "KCGptci",
+		"alumno_id" : 978
+	},
+	{
+		"id_pago" : 793,
+		"fecha" : "2024-12-01 23:46:06",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 17
+	},
+	{
+		"id_pago" : 794,
+		"fecha" : "2025-07-23 12:27:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 218
+	},
+	{
+		"id_pago" : 795,
+		"fecha" : "2025-03-03 17:48:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 401
+	},
+	{
+		"id_pago" : 796,
+		"fecha" : "2025-07-11 05:46:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 222
+	},
+	{
+		"id_pago" : 797,
+		"fecha" : "2025-09-08 11:49:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 803
+	},
+	{
+		"id_pago" : 798,
+		"fecha" : "2025-02-15 04:37:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 58
+	},
+	{
+		"id_pago" : 799,
+		"fecha" : "2025-08-07 15:19:04",
+		"valor_pago" : 43185.52,
+		"periodo" : "2025-05",
+		"alumno_id" : 243
+	},
+	{
+		"id_pago" : 800,
+		"fecha" : "2025-03-15 02:38:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 970
+	},
+	{
+		"id_pago" : 801,
+		"fecha" : "2025-04-28 17:02:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 773
+	},
+	{
+		"id_pago" : 802,
+		"fecha" : "2025-08-10 03:38:20",
+		"valor_pago" : 78267.62,
+		"periodo" : "2025-01",
+		"alumno_id" : 510
+	},
+	{
+		"id_pago" : 803,
+		"fecha" : "2025-07-14 10:24:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 700
+	},
+	{
+		"id_pago" : 804,
+		"fecha" : "2025-03-30 09:57:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "bnSFVWv",
+		"alumno_id" : 739
+	},
+	{
+		"id_pago" : 805,
+		"fecha" : "2025-01-14 23:13:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 169
+	},
+	{
+		"id_pago" : 806,
+		"fecha" : "2025-07-10 08:37:34",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 697
+	},
+	{
+		"id_pago" : 807,
+		"fecha" : "2025-06-12 06:52:13",
+		"valor_pago" : 131894.01,
+		"periodo" : "2025-03",
+		"alumno_id" : 155
+	},
+	{
+		"id_pago" : 808,
+		"fecha" : "2025-05-02 10:05:04",
+		"valor_pago" : 50000.00,
+		"periodo" : "dJyM",
+		"alumno_id" : 8
+	},
+	{
+		"id_pago" : 809,
+		"fecha" : "2025-03-26 14:22:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 354
+	},
+	{
+		"id_pago" : 810,
+		"fecha" : "2025-09-27 21:17:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 927
+	},
+	{
+		"id_pago" : 811,
+		"fecha" : "2025-07-26 17:09:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 959
+	},
+	{
+		"id_pago" : 812,
+		"fecha" : "2024-12-17 03:20:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 706
+	},
+	{
+		"id_pago" : 813,
+		"fecha" : "2024-10-09 03:14:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 389
+	},
+	{
+		"id_pago" : 814,
+		"fecha" : "2025-08-18 04:27:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 278
+	},
+	{
+		"id_pago" : 815,
+		"fecha" : "2025-08-05 00:17:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "pMNkfP",
+		"alumno_id" : 103
+	},
+	{
+		"id_pago" : 816,
+		"fecha" : "2025-04-14 13:57:53",
+		"valor_pago" : null,
+		"periodo" : "tvMBGXx",
+		"alumno_id" : 123
+	},
+	{
+		"id_pago" : 817,
+		"fecha" : "2025-08-15 23:05:37",
+		"valor_pago" : 72512.44,
+		"periodo" : "2025-03",
+		"alumno_id" : 59
+	},
+	{
+		"id_pago" : 818,
+		"fecha" : "2025-05-28 21:12:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 604
+	},
+	{
+		"id_pago" : 819,
+		"fecha" : "2024-10-15 16:18:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 663
+	},
+	{
+		"id_pago" : 820,
+		"fecha" : "2025-07-11 00:19:35",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 813
+	},
+	{
+		"id_pago" : 821,
+		"fecha" : "2024-12-19 08:34:55",
+		"valor_pago" : 100102.83,
+		"periodo" : "2025-05",
+		"alumno_id" : 624
+	},
+	{
+		"id_pago" : 822,
+		"fecha" : "2025-06-28 03:24:48",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 826
+	},
+	{
+		"id_pago" : 823,
+		"fecha" : "2025-03-19 12:21:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "Z LZd",
+		"alumno_id" : 825
+	},
+	{
+		"id_pago" : 824,
+		"fecha" : "2025-09-12 22:45:28",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 494
+	},
+	{
+		"id_pago" : 825,
+		"fecha" : "2025-08-29 12:55:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "OeHdbL",
+		"alumno_id" : 251
+	},
+	{
+		"id_pago" : 826,
+		"fecha" : "2025-02-08 15:38:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 757
+	},
+	{
+		"id_pago" : 827,
+		"fecha" : "2024-10-08 16:47:05",
+		"valor_pago" : 99313.73,
+		"periodo" : "2025-02",
+		"alumno_id" : 550
+	},
+	{
+		"id_pago" : 828,
+		"fecha" : "2025-01-19 10:10:54",
+		"valor_pago" : 138949.69,
+		"periodo" : "2025-01",
+		"alumno_id" : 686
+	},
+	{
+		"id_pago" : 829,
+		"fecha" : "2025-09-26 13:02:16",
+		"valor_pago" : 62522.61,
+		"periodo" : "2025-05",
+		"alumno_id" : 411
+	},
+	{
+		"id_pago" : 830,
+		"fecha" : "2025-03-25 20:59:01",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 291
+	},
+	{
+		"id_pago" : 831,
+		"fecha" : "2024-10-15 20:22:43",
+		"valor_pago" : 61655.94,
+		"periodo" : null,
+		"alumno_id" : 88
+	},
+	{
+		"id_pago" : 832,
+		"fecha" : "2025-09-22 09:59:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 197
+	},
+	{
+		"id_pago" : 833,
+		"fecha" : "2025-07-12 11:16:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "Vstd",
+		"alumno_id" : 577
+	},
+	{
+		"id_pago" : 834,
+		"fecha" : "2024-11-16 20:02:46",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 576
+	},
+	{
+		"id_pago" : 835,
+		"fecha" : "2024-11-22 05:10:52",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 943
+	},
+	{
+		"id_pago" : 836,
+		"fecha" : "2025-01-09 01:48:05",
+		"valor_pago" : 119320.05,
+		"periodo" : "MTodEB",
+		"alumno_id" : 959
+	},
+	{
+		"id_pago" : 837,
+		"fecha" : "2025-08-31 19:10:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 449
+	},
+	{
+		"id_pago" : 838,
+		"fecha" : "2025-08-15 23:42:59",
+		"valor_pago" : 50251.07,
+		"periodo" : "2025-03",
+		"alumno_id" : 275
+	},
+	{
+		"id_pago" : 839,
+		"fecha" : "2025-02-20 15:00:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 831
+	},
+	{
+		"id_pago" : 840,
+		"fecha" : "2024-11-20 02:20:29",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 817
+	},
+	{
+		"id_pago" : 841,
+		"fecha" : "2024-11-06 23:44:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 759
+	},
+	{
+		"id_pago" : 842,
+		"fecha" : "2024-11-06 07:44:08",
+		"valor_pago" : 109386.04,
+		"periodo" : "2025-01",
+		"alumno_id" : 153
+	},
+	{
+		"id_pago" : 843,
+		"fecha" : "2024-10-18 11:34:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 464
+	},
+	{
+		"id_pago" : 844,
+		"fecha" : "2025-02-04 14:46:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 618
+	},
+	{
+		"id_pago" : 845,
+		"fecha" : "2024-11-19 08:46:02",
+		"valor_pago" : 54795.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 351
+	},
+	{
+		"id_pago" : 846,
+		"fecha" : "2025-03-18 05:59:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 2
+	},
+	{
+		"id_pago" : 847,
+		"fecha" : "2025-04-09 21:18:32",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 466
+	},
+	{
+		"id_pago" : 848,
+		"fecha" : "2024-12-25 10:49:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 499
+	},
+	{
+		"id_pago" : 849,
+		"fecha" : "2025-05-12 04:58:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 760
+	},
+	{
+		"id_pago" : 850,
+		"fecha" : "2025-05-20 06:14:24",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 614
+	},
+	{
+		"id_pago" : 851,
+		"fecha" : "2024-10-28 05:54:24",
+		"valor_pago" : 118627.32,
+		"periodo" : "2025-02",
+		"alumno_id" : 255
+	},
+	{
+		"id_pago" : 852,
+		"fecha" : "2024-11-15 13:16:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 845
+	},
+	{
+		"id_pago" : 853,
+		"fecha" : "2025-09-17 02:49:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "IKVl",
+		"alumno_id" : 919
+	},
+	{
+		"id_pago" : 854,
+		"fecha" : "2025-02-25 06:07:17",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 934
+	},
+	{
+		"id_pago" : 855,
+		"fecha" : "2025-07-01 08:21:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 391
+	},
+	{
+		"id_pago" : 856,
+		"fecha" : "2025-05-16 23:26:01",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 136
+	},
+	{
+		"id_pago" : 857,
+		"fecha" : "2025-02-23 12:51:09",
+		"valor_pago" : 50000.00,
+		"periodo" : "szvUub",
+		"alumno_id" : 84
+	},
+	{
+		"id_pago" : 858,
+		"fecha" : "2025-08-08 02:20:33",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 66
+	},
+	{
+		"id_pago" : 859,
+		"fecha" : "2024-11-27 01:40:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 142
+	},
+	{
+		"id_pago" : 860,
+		"fecha" : "2025-01-12 19:47:26",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 433
+	},
+	{
+		"id_pago" : 861,
+		"fecha" : "2025-01-04 02:29:09",
+		"valor_pago" : 108697.47,
+		"periodo" : "2025-04",
+		"alumno_id" : 825
+	},
+	{
+		"id_pago" : 862,
+		"fecha" : "2025-06-27 18:20:24",
+		"valor_pago" : 132088.24,
+		"periodo" : "2025-01",
+		"alumno_id" : 737
+	},
+	{
+		"id_pago" : 863,
+		"fecha" : "2024-10-12 04:09:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 330
+	},
+	{
+		"id_pago" : 864,
+		"fecha" : "2025-08-07 00:31:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 573
+	},
+	{
+		"id_pago" : 865,
+		"fecha" : "2025-07-20 17:50:52",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 988
+	},
+	{
+		"id_pago" : 866,
+		"fecha" : "2025-01-04 12:25:07",
+		"valor_pago" : 112028.35,
+		"periodo" : "2025-01",
+		"alumno_id" : 791
+	},
+	{
+		"id_pago" : 867,
+		"fecha" : "2024-12-17 09:54:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 675
+	},
+	{
+		"id_pago" : 868,
+		"fecha" : "2025-10-02 07:09:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 227
+	},
+	{
+		"id_pago" : 869,
+		"fecha" : "2025-07-03 17:24:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 576
+	},
+	{
+		"id_pago" : 870,
+		"fecha" : "2025-08-28 04:53:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 54
+	},
+	{
+		"id_pago" : 871,
+		"fecha" : "2025-01-21 03:10:58",
+		"valor_pago" : 62472.90,
+		"periodo" : "2025-03",
+		"alumno_id" : 662
+	},
+	{
+		"id_pago" : 872,
+		"fecha" : "2024-11-23 18:28:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 684
+	},
+	{
+		"id_pago" : 873,
+		"fecha" : "2025-05-02 21:14:29",
+		"valor_pago" : 50000.00,
+		"periodo" : "GkuKS",
+		"alumno_id" : 601
+	},
+	{
+		"id_pago" : 874,
+		"fecha" : "2025-05-09 23:11:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 577
+	},
+	{
+		"id_pago" : 875,
+		"fecha" : "2025-01-18 19:54:16",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 865
+	},
+	{
+		"id_pago" : 876,
+		"fecha" : "2024-10-13 19:14:22",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 35
+	},
+	{
+		"id_pago" : 877,
+		"fecha" : "2025-09-22 09:09:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "jfKOL",
+		"alumno_id" : 569
+	},
+	{
+		"id_pago" : 878,
+		"fecha" : "2025-03-28 18:07:34",
+		"valor_pago" : 61252.62,
+		"periodo" : "2025-02",
+		"alumno_id" : 345
+	},
+	{
+		"id_pago" : 879,
+		"fecha" : "2025-05-27 14:28:25",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 81
+	},
+	{
+		"id_pago" : 880,
+		"fecha" : "2025-08-21 02:17:05",
+		"valor_pago" : 20041.86,
+		"periodo" : null,
+		"alumno_id" : 874
+	},
+	{
+		"id_pago" : 881,
+		"fecha" : "2025-02-21 02:36:19",
+		"valor_pago" : 97230.84,
+		"periodo" : "2025-05",
+		"alumno_id" : 304
+	},
+	{
+		"id_pago" : 882,
+		"fecha" : "2025-08-28 15:53:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "TwaG eX",
+		"alumno_id" : 347
+	},
+	{
+		"id_pago" : 883,
+		"fecha" : "2025-01-08 00:48:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 147
+	},
+	{
+		"id_pago" : 884,
+		"fecha" : "2025-08-20 00:25:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 595
+	},
+	{
+		"id_pago" : 885,
+		"fecha" : "2024-10-16 19:57:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 527
+	},
+	{
+		"id_pago" : 886,
+		"fecha" : "2024-11-19 04:18:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 576
+	},
+	{
+		"id_pago" : 887,
+		"fecha" : "2025-03-18 20:57:17",
+		"valor_pago" : 146096.77,
+		"periodo" : "2025-05",
+		"alumno_id" : 331
+	},
+	{
+		"id_pago" : 888,
+		"fecha" : "2025-05-03 10:18:20",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 301
+	},
+	{
+		"id_pago" : 889,
+		"fecha" : "2025-03-24 04:16:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 156
+	},
+	{
+		"id_pago" : 890,
+		"fecha" : "2024-10-09 16:53:38",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 550
+	},
+	{
+		"id_pago" : 891,
+		"fecha" : "2025-07-03 11:02:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 392
+	},
+	{
+		"id_pago" : 892,
+		"fecha" : "2025-01-12 17:19:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 636
+	},
+	{
+		"id_pago" : 893,
+		"fecha" : "2025-03-21 23:22:52",
+		"valor_pago" : 74960.61,
+		"periodo" : "2025-05",
+		"alumno_id" : 408
+	},
+	{
+		"id_pago" : 894,
+		"fecha" : "2025-04-29 08:41:56",
+		"valor_pago" : 50000.00,
+		"periodo" : "mxct l",
+		"alumno_id" : 48
+	},
+	{
+		"id_pago" : 895,
+		"fecha" : "2025-08-20 01:58:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 215
+	},
+	{
+		"id_pago" : 896,
+		"fecha" : "2025-07-26 19:33:42",
+		"valor_pago" : 53572.09,
+		"periodo" : "KkYFq",
+		"alumno_id" : 871
+	},
+	{
+		"id_pago" : 897,
+		"fecha" : "2025-07-31 02:17:17",
+		"valor_pago" : null,
+		"periodo" : "2025-05",
+		"alumno_id" : 54
+	},
+	{
+		"id_pago" : 898,
+		"fecha" : "2024-10-25 01:37:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 905
+	},
+	{
+		"id_pago" : 899,
+		"fecha" : "2025-08-14 15:15:30",
+		"valor_pago" : 50000.00,
+		"periodo" : "zyMD",
+		"alumno_id" : 954
+	},
+	{
+		"id_pago" : 900,
+		"fecha" : "2024-11-17 05:48:32",
+		"valor_pago" : 50000.00,
+		"periodo" : "QBMNVJ",
+		"alumno_id" : 352
+	},
+	{
+		"id_pago" : 901,
+		"fecha" : "2025-03-27 03:40:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 671
+	},
+	{
+		"id_pago" : 902,
+		"fecha" : "2025-08-15 12:32:31",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 999
+	},
+	{
+		"id_pago" : 903,
+		"fecha" : "2025-09-25 08:00:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 138
+	},
+	{
+		"id_pago" : 904,
+		"fecha" : "2025-04-28 23:18:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 283
+	},
+	{
+		"id_pago" : 905,
+		"fecha" : "2025-08-25 18:06:27",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 128
+	},
+	{
+		"id_pago" : 906,
+		"fecha" : "2025-09-23 15:24:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 285
+	},
+	{
+		"id_pago" : 907,
+		"fecha" : "2025-04-09 19:27:05",
+		"valor_pago" : 84918.08,
+		"periodo" : "mVahl",
+		"alumno_id" : 737
+	},
+	{
+		"id_pago" : 908,
+		"fecha" : "2025-01-11 03:20:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 757
+	},
+	{
+		"id_pago" : 909,
+		"fecha" : "2024-10-08 03:30:58",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 364
+	},
+	{
+		"id_pago" : 910,
+		"fecha" : "2024-11-28 02:55:05",
+		"valor_pago" : 115028.66,
+		"periodo" : "2025-04",
+		"alumno_id" : 339
+	},
+	{
+		"id_pago" : 911,
+		"fecha" : "2025-07-05 23:13:21",
+		"valor_pago" : 43164.52,
+		"periodo" : "2025-01",
+		"alumno_id" : 371
+	},
+	{
+		"id_pago" : 912,
+		"fecha" : "2025-06-04 13:51:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 963
+	},
+	{
+		"id_pago" : 913,
+		"fecha" : "2024-10-17 04:06:37",
+		"valor_pago" : 60324.27,
+		"periodo" : "2025-03",
+		"alumno_id" : 604
+	},
+	{
+		"id_pago" : 914,
+		"fecha" : "2025-09-26 05:12:01",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 946
+	},
+	{
+		"id_pago" : 915,
+		"fecha" : "2024-12-10 09:27:17",
+		"valor_pago" : 50038.13,
+		"periodo" : "2025-05",
+		"alumno_id" : 693
+	},
+	{
+		"id_pago" : 916,
+		"fecha" : "2025-01-30 15:13:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "fNLqkdv",
+		"alumno_id" : 685
+	},
+	{
+		"id_pago" : 917,
+		"fecha" : "2025-01-16 18:40:51",
+		"valor_pago" : 50000.00,
+		"periodo" : "qZhrpl",
+		"alumno_id" : 60
+	},
+	{
+		"id_pago" : 918,
+		"fecha" : "2025-09-23 00:29:56",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 866
+	},
+	{
+		"id_pago" : 919,
+		"fecha" : "2025-07-04 16:55:51",
+		"valor_pago" : 57775.21,
+		"periodo" : "2025-04",
+		"alumno_id" : 93
+	},
+	{
+		"id_pago" : 920,
+		"fecha" : "2025-06-11 10:48:32",
+		"valor_pago" : 142613.43,
+		"periodo" : "2025-02",
+		"alumno_id" : 384
+	},
+	{
+		"id_pago" : 921,
+		"fecha" : "2025-04-19 00:17:39",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 953
+	},
+	{
+		"id_pago" : 922,
+		"fecha" : "2025-04-27 06:32:02",
+		"valor_pago" : 86356.59,
+		"periodo" : "2025-04",
+		"alumno_id" : 169
+	},
+	{
+		"id_pago" : 923,
+		"fecha" : "2025-01-21 15:19:42",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 222
+	},
+	{
+		"id_pago" : 924,
+		"fecha" : "2025-09-05 18:05:25",
+		"valor_pago" : 119231.22,
+		"periodo" : "2025-02",
+		"alumno_id" : 399
+	},
+	{
+		"id_pago" : 925,
+		"fecha" : "2025-02-11 08:46:53",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 296
+	},
+	{
+		"id_pago" : 926,
+		"fecha" : "2025-06-02 23:47:39",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 270
+	},
+	{
+		"id_pago" : 927,
+		"fecha" : "2025-05-02 23:31:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 880
+	},
+	{
+		"id_pago" : 928,
+		"fecha" : "2025-06-09 04:11:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 473
+	},
+	{
+		"id_pago" : 929,
+		"fecha" : "2025-04-02 03:18:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 733
+	},
+	{
+		"id_pago" : 930,
+		"fecha" : "2025-10-03 14:42:05",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 890
+	},
+	{
+		"id_pago" : 931,
+		"fecha" : "2025-07-11 11:43:48",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 604
+	},
+	{
+		"id_pago" : 932,
+		"fecha" : "2025-01-15 09:10:57",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 191
+	},
+	{
+		"id_pago" : 933,
+		"fecha" : "2024-10-08 22:58:28",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 798
+	},
+	{
+		"id_pago" : 934,
+		"fecha" : "2025-06-25 20:30:13",
+		"valor_pago" : 112822.54,
+		"periodo" : "fnnonta",
+		"alumno_id" : 437
+	},
+	{
+		"id_pago" : 935,
+		"fecha" : "2025-05-05 18:32:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "jh Sz",
+		"alumno_id" : 558
+	},
+	{
+		"id_pago" : 936,
+		"fecha" : "2025-03-28 10:59:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 235
+	},
+	{
+		"id_pago" : 937,
+		"fecha" : "2025-01-19 00:21:05",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 663
+	},
+	{
+		"id_pago" : 938,
+		"fecha" : "2024-10-29 12:28:24",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 16
+	},
+	{
+		"id_pago" : 939,
+		"fecha" : "2025-03-31 03:31:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 600
+	},
+	{
+		"id_pago" : 940,
+		"fecha" : "2025-06-22 06:05:31",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 993
+	},
+	{
+		"id_pago" : 941,
+		"fecha" : "2024-10-18 22:54:44",
+		"valor_pago" : 124297.35,
+		"periodo" : "2025-02",
+		"alumno_id" : 851
+	},
+	{
+		"id_pago" : 942,
+		"fecha" : "2025-01-19 15:56:55",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 941
+	},
+	{
+		"id_pago" : 943,
+		"fecha" : "2025-07-14 00:27:09",
+		"valor_pago" : 102364.35,
+		"periodo" : "2025-01",
+		"alumno_id" : 357
+	},
+	{
+		"id_pago" : 944,
+		"fecha" : "2025-01-28 12:01:12",
+		"valor_pago" : null,
+		"periodo" : "2025-04",
+		"alumno_id" : 794
+	},
+	{
+		"id_pago" : 945,
+		"fecha" : "2025-08-27 13:50:59",
+		"valor_pago" : 50000.00,
+		"periodo" : "jAMyyg",
+		"alumno_id" : 721
+	},
+	{
+		"id_pago" : 946,
+		"fecha" : "2025-03-02 19:53:36",
+		"valor_pago" : 132677.41,
+		"periodo" : "2025-03",
+		"alumno_id" : 120
+	},
+	{
+		"id_pago" : 947,
+		"fecha" : "2025-04-10 16:51:53",
+		"valor_pago" : null,
+		"periodo" : "2025-02",
+		"alumno_id" : 466
+	},
+	{
+		"id_pago" : 948,
+		"fecha" : "2025-01-22 20:09:12",
+		"valor_pago" : 42880.33,
+		"periodo" : "2025-01",
+		"alumno_id" : 797
+	},
+	{
+		"id_pago" : 949,
+		"fecha" : "2025-03-26 19:55:07",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 678
+	},
+	{
+		"id_pago" : 950,
+		"fecha" : "2025-06-28 06:27:58",
+		"valor_pago" : 113764.46,
+		"periodo" : "2025-02",
+		"alumno_id" : 353
+	},
+	{
+		"id_pago" : 951,
+		"fecha" : "2025-09-02 08:27:23",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 200
+	},
+	{
+		"id_pago" : 952,
+		"fecha" : "2025-04-29 08:05:01",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 613
+	},
+	{
+		"id_pago" : 953,
+		"fecha" : "2025-04-04 23:16:19",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 658
+	},
+	{
+		"id_pago" : 954,
+		"fecha" : "2025-02-16 10:08:10",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 193
+	},
+	{
+		"id_pago" : 955,
+		"fecha" : "2025-06-07 08:48:47",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 514
+	},
+	{
+		"id_pago" : 956,
+		"fecha" : "2025-08-08 17:04:50",
+		"valor_pago" : 50000.00,
+		"periodo" : "cZVyom",
+		"alumno_id" : 495
+	},
+	{
+		"id_pago" : 957,
+		"fecha" : "2024-11-02 17:06:40",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 437
+	},
+	{
+		"id_pago" : 958,
+		"fecha" : "2025-04-15 09:40:48",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 626
+	},
+	{
+		"id_pago" : 959,
+		"fecha" : "2025-08-22 03:57:37",
+		"valor_pago" : 50000.00,
+		"periodo" : "jGdlya",
+		"alumno_id" : 806
+	},
+	{
+		"id_pago" : 960,
+		"fecha" : "2025-09-24 16:53:18",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 289
+	},
+	{
+		"id_pago" : 961,
+		"fecha" : "2025-03-27 16:51:49",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 61
+	},
+	{
+		"id_pago" : 962,
+		"fecha" : "2025-01-20 23:52:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 923
+	},
+	{
+		"id_pago" : 963,
+		"fecha" : "2025-06-06 10:44:35",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 380
+	},
+	{
+		"id_pago" : 964,
+		"fecha" : "2025-01-24 14:35:30",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 34
+	},
+	{
+		"id_pago" : 965,
+		"fecha" : "2025-03-08 10:21:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-04",
+		"alumno_id" : 880
+	},
+	{
+		"id_pago" : 966,
+		"fecha" : "2025-01-02 22:37:21",
+		"valor_pago" : 20147.46,
+		"periodo" : "2025-04",
+		"alumno_id" : 297
+	},
+	{
+		"id_pago" : 967,
+		"fecha" : "2025-06-11 21:42:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 984
+	},
+	{
+		"id_pago" : 968,
+		"fecha" : "2025-02-23 06:06:06",
+		"valor_pago" : 65577.89,
+		"periodo" : "2025-03",
+		"alumno_id" : 470
+	},
+	{
+		"id_pago" : 969,
+		"fecha" : "2025-05-30 13:51:55",
+		"valor_pago" : null,
+		"periodo" : "2025-03",
+		"alumno_id" : 421
+	},
+	{
+		"id_pago" : 970,
+		"fecha" : "2025-09-07 14:07:12",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 819
+	},
+	{
+		"id_pago" : 971,
+		"fecha" : "2025-01-07 18:12:22",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 861
+	},
+	{
+		"id_pago" : 972,
+		"fecha" : "2025-08-21 15:57:16",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 72
+	},
+	{
+		"id_pago" : 973,
+		"fecha" : "2025-08-03 00:49:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 26
+	},
+	{
+		"id_pago" : 974,
+		"fecha" : "2025-05-01 20:34:44",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 650
+	},
+	{
+		"id_pago" : 975,
+		"fecha" : "2025-08-21 08:16:21",
+		"valor_pago" : 74056.38,
+		"periodo" : "2025-04",
+		"alumno_id" : 808
+	},
+	{
+		"id_pago" : 976,
+		"fecha" : "2025-03-18 05:10:15",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 373
+	},
+	{
+		"id_pago" : 977,
+		"fecha" : "2025-06-05 13:25:42",
+		"valor_pago" : 50000.00,
+		"periodo" : null,
+		"alumno_id" : 929
+	},
+	{
+		"id_pago" : 978,
+		"fecha" : "2025-04-11 21:02:20",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 769
+	},
+	{
+		"id_pago" : 979,
+		"fecha" : "2025-02-23 11:29:10",
+		"valor_pago" : 98009.60,
+		"periodo" : "2025-01",
+		"alumno_id" : 689
+	},
+	{
+		"id_pago" : 980,
+		"fecha" : "2025-01-27 15:19:35",
+		"valor_pago" : 107630.92,
+		"periodo" : "2025-02",
+		"alumno_id" : 690
+	},
+	{
+		"id_pago" : 981,
+		"fecha" : "2024-10-21 11:40:02",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 116
+	},
+	{
+		"id_pago" : 982,
+		"fecha" : "2025-02-08 04:23:21",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 196
+	},
+	{
+		"id_pago" : 983,
+		"fecha" : "2025-03-05 08:11:50",
+		"valor_pago" : null,
+		"periodo" : "2025-01",
+		"alumno_id" : 614
+	},
+	{
+		"id_pago" : 984,
+		"fecha" : "2025-10-03 10:37:13",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 957
+	},
+	{
+		"id_pago" : 985,
+		"fecha" : "2025-07-13 22:03:58",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 229
+	},
+	{
+		"id_pago" : 986,
+		"fecha" : "2025-03-02 02:19:26",
+		"valor_pago" : 104763.20,
+		"periodo" : "2025-01",
+		"alumno_id" : 384
+	},
+	{
+		"id_pago" : 987,
+		"fecha" : "2025-01-26 22:17:31",
+		"valor_pago" : 80639.79,
+		"periodo" : "2025-05",
+		"alumno_id" : 981
+	},
+	{
+		"id_pago" : 988,
+		"fecha" : "2025-02-01 01:35:00",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-05",
+		"alumno_id" : 123
+	},
+	{
+		"id_pago" : 989,
+		"fecha" : "2024-11-12 16:14:41",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-02",
+		"alumno_id" : 14
+	},
+	{
+		"id_pago" : 990,
+		"fecha" : "2025-07-11 09:35:26",
+		"valor_pago" : 50000.00,
+		"periodo" : "BtjNlP",
+		"alumno_id" : 793
+	},
+	{
+		"id_pago" : 991,
+		"fecha" : "2025-01-11 07:00:52",
+		"valor_pago" : 88674.70,
+		"periodo" : "2025-01",
+		"alumno_id" : 974
+	},
+	{
+		"id_pago" : 992,
+		"fecha" : "2025-08-01 21:59:43",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 350
+	},
+	{
+		"id_pago" : 993,
+		"fecha" : "2025-07-27 02:35:52",
+		"valor_pago" : 55950.23,
+		"periodo" : "2025-04",
+		"alumno_id" : 820
+	},
+	{
+		"id_pago" : 994,
+		"fecha" : "2025-09-14 20:33:14",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 917
+	},
+	{
+		"id_pago" : 995,
+		"fecha" : "2025-02-22 02:04:15",
+		"valor_pago" : null,
+		"periodo" : "JoszdT",
+		"alumno_id" : 991
+	},
+	{
+		"id_pago" : 996,
+		"fecha" : "2024-10-16 05:59:31",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 485
+	},
+	{
+		"id_pago" : 997,
+		"fecha" : "2024-11-10 04:00:02",
+		"valor_pago" : 80003.39,
+		"periodo" : "2025-01",
+		"alumno_id" : 324
+	},
+	{
+		"id_pago" : 998,
+		"fecha" : "2025-03-15 09:48:08",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-03",
+		"alumno_id" : 36
+	},
+	{
+		"id_pago" : 999,
+		"fecha" : "2025-03-01 13:17:54",
+		"valor_pago" : 50000.00,
+		"periodo" : "2025-01",
+		"alumno_id" : 524
+	},
+	{
+		"id_pago" : 1000,
+		"fecha" : "2025-06-30 10:36:41",
+		"valor_pago" : 92066.34,
+		"periodo" : "2025-03",
+		"alumno_id" : 839
+	}
+]}
